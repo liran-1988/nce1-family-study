@@ -1,0 +1,343 @@
+[
+  {
+    "id": 73,
+    "title": "The way to King Street",
+    "titleCn": "到国王街的走法",
+    "kind": "text",
+    "words": [
+      {"en":"week","ipa":"/wiːk/","cn":"n. 星期，周","source":"supplement"},
+      {"en":"London","ipa":"/ˈlʌndən/","cn":"n. 伦敦","source":"supplement"},
+      {"en":"suddenly","ipa":"/ˈsʌdnli/","cn":"adv. 突然地","source":"supplement"},
+      {"en":"smile","ipa":"/smaɪl/","cn":"v. 微笑","source":"supplement"},
+      {"en":"pleasantly","ipa":"/ˈplezntli/","cn":"adv. 愉快地","source":"supplement"},
+      {"en":"understand","ipa":"/ˌʌndəˈstænd/","cn":"v. 懂，理解","source":"supplement"},
+      {"en":"speak","ipa":"/spiːk/","cn":"v. 讲（语言），说话","source":"supplement"},
+      {"en":"pocket","ipa":"/ˈpɒkɪt/","cn":"n. 衣袋","source":"supplement"},
+      {"en":"phrasebook","ipa":"/ˈfreɪzbʊk/","cn":"n. 短语手册，常用语手册","source":"supplement"},
+      {"en":"slowly","ipa":"/ˈsləʊli/","cn":"adv. 缓慢地","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Last week Mrs. Mills went to London.","cn":"上星期米尔斯夫人去了伦敦。","source":"adaptation"},
+      {"en":"She lost her way.","cn":"她迷路了。","source":"adaptation"},
+      {"en":"Can you tell me the way to King Street, please?","cn":"请问到国王街怎么走？","source":"adaptation"}
+    ],
+    "grammar": "不规则动词过去式：go→went, lose→lost, see→saw, speak→spoke, take→took；the way to... 表示“去……的路”。",
+    "tip": "问路句型：Can you tell me the way to...? / How can I get to...?；副词多由形容词加 -ly 构成：slow→slowly。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":153,"printedPage":149,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 75,
+    "title": "Uncomfortable shoes",
+    "titleCn": "不舒适的鞋子",
+    "kind": "text",
+    "words": [
+      {"en":"ago","ipa":"/əˈɡəʊ/","cn":"adv. 以前","source":"supplement"},
+      {"en":"shoes","ipa":"/ʃuːz/","cn":"n. 鞋子（复数）","source":"supplement"},
+      {"en":"fashion","ipa":"/ˈfæʃn/","cn":"n. 流行款式（in fashion 时兴）","source":"supplement"},
+      {"en":"uncomfortable","ipa":"/ʌnˈkʌmftəbl/","cn":"adj. 不舒适的","source":"supplement"},
+      {"en":"wear","ipa":"/weə/","cn":"v. 穿着，戴着","source":"supplement"},
+      {"en":"buy","ipa":"/baɪ/","cn":"v. 买（bought）","source":"supplement"},
+      {"en":"pair","ipa":"/peə/","cn":"n. 一双，一对","source":"supplement"},
+      {"en":"then","ipa":"/ðen/","cn":"adv. 那时，然后","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Do you have any shoes like these?","cn":"你们有像这样的鞋吗？","source":"adaptation"},
+      {"en":"They were in fashion last year and the year before last.","cn":"它们去年和前年时兴。","source":"adaptation"},
+      {"en":"Women always wear uncomfortable shoes!","cn":"女人们总是穿不舒适的鞋子！","source":"adaptation"}
+    ],
+    "grammar": "“一段时间 + ago” 与一般过去时连用：ten years ago；like these 是介词短语作后置定语，修饰 shoes。",
+    "tip": "in fashion 流行 ↔ out of fashion 过时；a pair of shoes 一双鞋；buy 的过去式 bought。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":157,"printedPage":153,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 77,
+    "title": "Terrible toothache",
+    "titleCn": "要命的牙痛",
+    "kind": "text",
+    "words": [
+      {"en":"appointment","ipa":"/əˈpɔɪntmənt/","cn":"n. 预约，约会","source":"supplement"},
+      {"en":"urgent","ipa":"/ˈɜːdʒənt/","cn":"adj. 紧急的","source":"supplement"},
+      {"en":"till","ipa":"/tɪl/","cn":"prep. 直到","source":"supplement"},
+      {"en":"toothache","ipa":"/ˈtuːθeɪk/","cn":"n. 牙痛","source":"supplement"},
+      {"en":"dentist","ipa":"/ˈdentɪst/","cn":"n. 牙医","source":"supplement"},
+      {"en":"wait","ipa":"/weɪt/","cn":"v. 等待","source":"supplement"},
+      {"en":"afternoon","ipa":"/ˌɑːftəˈnuːn/","cn":"n. 下午","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Do you have an appointment?","cn":"您预约了吗？","source":"adaptation"},
+      {"en":"Is it urgent?","cn":"急吗？","source":"adaptation"},
+      {"en":"Can't you wait till this afternoon?","cn":"您就不能等到今天下午吗？","source":"adaptation"}
+    ],
+    "grammar": "have an appointment 有预约；否定疑问句 Can't you...? 带有惊讶或不耐烦的语气。",
+    "tip": "till = until 直到；牙疼 have a toothache，看牙医 see the dentist——课末金句：I can wait, but my toothache can't!",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":161,"printedPage":157,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 79,
+    "title": "Carol's shopping list",
+    "titleCn": "卡罗尔的购物单",
+    "kind": "text",
+    "words": [
+      {"en":"shopping","ipa":"/ˈʃɒpɪŋ/","cn":"n. 购物","source":"supplement"},
+      {"en":"list","ipa":"/lɪst/","cn":"n. 单子，清单","source":"supplement"},
+      {"en":"vegetable","ipa":"/ˈvedʒtəbl/","cn":"n. 蔬菜","source":"supplement"},
+      {"en":"need","ipa":"/niːd/","cn":"v. 需要","source":"supplement"},
+      {"en":"hope","ipa":"/həʊp/","cn":"v. 希望","source":"supplement"},
+      {"en":"thing","ipa":"/θɪŋ/","cn":"n. 东西，事情","source":"supplement"},
+      {"en":"money","ipa":"/ˈmʌni/","cn":"n. 钱（不可数）","source":"supplement"},
+      {"en":"beer","ipa":"/bɪə/","cn":"n. 啤酒","source":"supplement"},
+      {"en":"wine","ipa":"/waɪn/","cn":"n. 葡萄酒，果酒","source":"supplement"},
+      {"en":"grocer","ipa":"/ˈɡrəʊsə/","cn":"n. 食品杂货商","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"I'm making a shopping list.","cn":"我在拟一张购物单。","source":"adaptation"},
+      {"en":"We need a lot of things this week.","cn":"这里期我们需要很多东西。","source":"adaptation"},
+      {"en":"I hope you've got some money.","cn":"我希望你带了钱。","source":"adaptation"}
+    ],
+    "grammar": "need 后接名词或 to do；a lot of + 复数或不可数名词；have got = have（英式口语）：We haven't got much tea.",
+    "tip": "go shopping 去购物；money 不可数——much money / a lot of money，不能说 many moneys。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":165,"printedPage":161,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 81,
+    "title": "Roast beef and potatoes",
+    "titleCn": "烤牛肉和土豆",
+    "kind": "text",
+    "words": [
+      {"en":"bath","ipa":"/bɑːθ/","cn":"n. 洗澡（have a bath）；浴缸","source":"supplement"},
+      {"en":"nearly","ipa":"/ˈnɪəli/","cn":"adv. 几乎，差不多","source":"supplement"},
+      {"en":"ready","ipa":"/ˈredi/","cn":"adj. 准备好的","source":"supplement"},
+      {"en":"dinner","ipa":"/ˈdɪnə/","cn":"n. 正餐，晚餐","source":"supplement"},
+      {"en":"restaurant","ipa":"/ˈrestrɒnt/","cn":"n. 餐馆","source":"supplement"},
+      {"en":"roast","ipa":"/rəʊst/","cn":"adj. 烤的","source":"supplement"},
+      {"en":"breakfast","ipa":"/ˈbrekfəst/","cn":"n. 早饭","source":"supplement"},
+      {"en":"haircut","ipa":"/ˈheəkʌt/","cn":"n. 理发","source":"supplement"},
+      {"en":"party","ipa":"/ˈpɑːti/","cn":"n. 聚会","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Where's Tom? He's having a bath.","cn":"汤姆在哪儿？他在洗澡。","source":"adaptation"},
+      {"en":"We had roast beef and potatoes.","cn":"我们吃了烤牛肉和土豆。","source":"adaptation"},
+      {"en":"What did you have for lunch?","cn":"你们午饭吃了什么？","source":"adaptation"}
+    ],
+    "grammar": "have + 名词 = 做某事：have a bath 洗澡 / have lunch 吃饭 / have a haircut 理发；have 的过去式是 had。",
+    "tip": "这里的 have 表示“从事、进行”而不是“拥有”，所以能有进行时：He's having a bath.",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":169,"printedPage":165,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 83,
+    "title": "Going on holiday",
+    "titleCn": "度假",
+    "kind": "text",
+    "words": [
+      {"en":"mess","ipa":"/mes/","cn":"n. 乱七八糟","source":"supplement"},
+      {"en":"pack","ipa":"/pæk/","cn":"v. 打包，装箱","source":"supplement"},
+      {"en":"suitcase","ipa":"/ˈsuːtkeɪs/","cn":"n. 手提箱","source":"supplement"},
+      {"en":"leave","ipa":"/liːv/","cn":"v. 离开（left）","source":"supplement"},
+      {"en":"already","ipa":"/ɔːlˈredi/","cn":"adv. 已经","source":"supplement"},
+      {"en":"holiday","ipa":"/ˈhɒlədeɪ/","cn":"n. 假期","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Have you packed your suitcase yet?","drill":true,"cn":"你把手提箱收拾好了吗？","source":"supplement"},
+      {"en":"I've already packed it.","drill":true,"cn":"我已经收拾好了。","source":"supplement"},
+      {"en":"We're going on holiday tomorrow.","cn":"我们明天要去度假。","source":"adaptation"}
+    ],
+    "grammar": "现在完成时 have/has + 过去分词；already 用于肯定句，yet 用于否定句和疑问句（常放句尾）。",
+    "tip": "go on holiday 去度假（英式），美国人常说 go on vacation；What a mess! 乱死了！",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":173,"printedPage":169,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 85,
+    "title": "Paris in the spring",
+    "titleCn": "巴黎之春",
+    "kind": "text",
+    "words": [
+      {"en":"Paris","ipa":"/ˈpærɪs/","cn":"n. 巴黎","source":"supplement"},
+      {"en":"cinema","ipa":"/ˈsɪnəmə/","cn":"n. 电影院","source":"supplement"},
+      {"en":"film","ipa":"/fɪlm/","cn":"n. 电影","source":"supplement"},
+      {"en":"beautiful","ipa":"/ˈbjuːtɪfʊl/","cn":"adj. 美丽的","source":"supplement"},
+      {"en":"city","ipa":"/ˈsɪti/","cn":"n. 城市","source":"supplement"},
+      {"en":"never","ipa":"/ˈnevə/","cn":"adv. 从来没有","source":"supplement"},
+      {"en":"ever","ipa":"/ˈevə/","cn":"adv. 曾经","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Have you just been to the cinema?","cn":"你刚去过电影院吗？","source":"adaptation"},
+      {"en":"What's on?","cn":"上映什么片子？","source":"adaptation"},
+      {"en":"I've never been there.","cn":"我从未去过那里。","source":"adaptation"}
+    ],
+    "grammar": "have been to 去过（已回来），have gone to 去了（还没回来）；ever / never 用于完成时谈论经历。",
+    "tip": "谈“去过某地”的经历用完成时：Have you ever been to Paris?；What's on? 问“上演什么”。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":177,"printedPage":173,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 87,
+    "title": "A car crash",
+    "titleCn": "车祸",
+    "kind": "text",
+    "words": [
+      {"en":"attendant","ipa":"/əˈtendənt/","cn":"n. 接待员，服务员","source":"supplement"},
+      {"en":"bring","ipa":"/brɪŋ/","cn":"v. 带来（brought）","source":"supplement"},
+      {"en":"garage","ipa":"/ˈɡærɑːʒ/","cn":"n. 车库；修车厂","source":"supplement"},
+      {"en":"crash","ipa":"/kræʃ/","cn":"n. 碰撞；v. 碰撞","source":"supplement"},
+      {"en":"lamp-post","ipa":"/ˈlæmp pəʊst/","cn":"n. 灯杆，路灯柱","source":"supplement"},
+      {"en":"repair","ipa":"/rɪˈpeə/","cn":"v. 修理","source":"supplement"},
+      {"en":"try","ipa":"/traɪ/","cn":"v. 设法，努力","source":"supplement"},
+      {"en":"drive","ipa":"/draɪv/","cn":"v. 驾驶（drove）","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Isn't your car ready yet?","cn":"你的车还没有修好吗？","source":"adaptation"},
+      {"en":"I drove it into a lamp-post.","cn":"我把汽车撞到路灯杆上了。","source":"adaptation"},
+      {"en":"Can your mechanics repair it?","cn":"你们的机械师能把它修好吗？","source":"adaptation"}
+    ],
+    "grammar": "不规则过去式：drive→drove, bring→brought；still 表示“仍然”，yet 用于否定句和疑问句。",
+    "tip": "have a crash 出车祸；try to do sth 设法做某事——They're still trying to repair it.",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":181,"printedPage":177,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 89,
+    "title": "For sale",
+    "titleCn": "待售",
+    "kind": "text",
+    "words": [
+      {"en":"believe","ipa":"/bɪˈliːv/","cn":"v. 相信","source":"supplement"},
+      {"en":"may","ipa":"/meɪ/","cn":"aux. 可以","source":"supplement"},
+      {"en":"sell","ipa":"/sel/","cn":"v. 卖（sold）","source":"supplement"},
+      {"en":"because","ipa":"/bɪˈkɒz/","cn":"conj. 因为","source":"supplement"},
+      {"en":"retire","ipa":"/rɪˈtaɪə/","cn":"v. 退休","source":"supplement"},
+      {"en":"cost","ipa":"/kɒst/","cn":"v. 花费（cost）","source":"supplement"},
+      {"en":"pound","ipa":"/paʊnd/","cn":"n. 英镑","source":"supplement"},
+      {"en":"worth","ipa":"/wɜːθ/","cn":"adj. 值……钱","source":"supplement"},
+      {"en":"penny","ipa":"/ˈpeni/","cn":"n. 便士（复数 pence）","source":"supplement"},
+      {"en":"since","ipa":"/sɪns/","cn":"prep. 自从","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"I believe this house is for sale.","cn":"我想这房子是要出售的吧？","source":"adaptation"},
+      {"en":"How long have you lived here?","cn":"您在这里住了多久了？","source":"adaptation"},
+      {"en":"I've lived here for twenty years.","cn":"我在这里已经住了二十年了。","source":"adaptation"},
+      {"en":"How much does this house cost?","cn":"这座房子卖多少钱？","source":"adaptation"}
+    ],
+    "grammar": "现在完成时 + for（接一段时间）/ since（接时间点）；how much 问价格；for sale 待售。",
+    "tip": "for + 时间段，since + 时间点：for twenty years / since 2005；It's worth every penny. 一分钱一分货。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":185,"printedPage":181,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 91,
+    "title": "Poor Ian!",
+    "titleCn": "可怜的伊恩！",
+    "kind": "text",
+    "words": [
+      {"en":"still","ipa":"/stɪl/","cn":"adv. 还，仍旧","source":"supplement"},
+      {"en":"move","ipa":"/muːv/","cn":"v. 搬家；移动","source":"supplement"},
+      {"en":"miss","ipa":"/mɪs/","cn":"v. 想念；错过","source":"supplement"},
+      {"en":"neighbour","ipa":"/ˈneɪbə/","cn":"n. 邻居","source":"supplement"},
+      {"en":"person","ipa":"/ˈpɜːsn/","cn":"n. 人（单数）","source":"supplement"},
+      {"en":"people","ipa":"/ˈpiːpl/","cn":"n. 人们（复数）","source":"supplement"},
+      {"en":"poor","ipa":"/pɔː/","cn":"adj. 可怜的；贫穷的","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Has Ian sold his house yet?","cn":"伊恩把房子卖了吗？","source":"textbook","pdfPage":189,"printedPage":185,"verification":"verified","translationSource":"supplement"},
+      {"en":"He's still here.","cn":"他还在这儿。","source":"textbook","pdfPage":189,"printedPage":185,"verification":"verified","translationSource":"supplement"},
+      {"en":"We'll all miss him.","cn":"我们都会想念他的。","source":"textbook","pdfPage":189,"printedPage":185,"verification":"verified","translationSource":"supplement"}
+    ],
+    "grammar": "现在完成时疑问句：Has he ... yet?；will 可表示将来：I’ll miss him.；本课 He’s still here 中 still 放在 be 动词后。",
+    "tip": "miss 常表示想念朋友或错过火车（I missed the bus.）。本课 people 表示“人们”，已经按复数使用，不再加 s；不是说 peoples 在所有语境中都错误。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":189,"printedPage":185,"status":"verified","verified":true,"scope":"lesson-heading, printed-page, English-body, speaker, Chinese-meaning","note":"本轮逐行对照原页；不含下一页词表和偶数课练习。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 93,
+    "title": "Our new neighbour",
+    "titleCn": "我们的新邻居",
+    "kind": "text",
+    "words": [
+      {"en":"pilot","ipa":"/ˈpaɪlət/","cn":"n. 飞行员","source":"supplement"},
+      {"en":"return","ipa":"/rɪˈtɜːn/","cn":"v. 返回","source":"supplement"},
+      {"en":"New York","ipa":"/njuː jɔːk/","cn":"n. 纽约","source":"supplement"},
+      {"en":"Tokyo","ipa":"/ˈtəʊkiəʊ/","cn":"n. 东京","source":"supplement"},
+      {"en":"Madrid","ipa":"/məˈdrɪd/","cn":"n. 马德里","source":"supplement"},
+      {"en":"next door","ipa":"/nekst dɔː/","cn":"phr. 隔壁","source":"supplement"},
+      {"en":"month","ipa":"/mʌnθ/","cn":"n. 月","source":"supplement"},
+      {"en":"will","ipa":"/wɪl/","cn":"aux. 将要","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Nigel is our new next-door neighbour.","cn":"奈杰尔是我们新搬来的隔壁邻居。","source":"adaptation"},
+      {"en":"He will fly to New York next month.","cn":"他下个月要飞往纽约。","source":"adaptation"},
+      {"en":"He'll return to London the week after next.","cn":"他下下个星期返回伦敦。","source":"adaptation"}
+    ],
+    "grammar": "will + 动词原形表示将来，缩写 he'll；时间轴：last week 上周 → next week 下周 → the week after next 下下周。",
+    "tip": "乘飞机去某地说 fly to...，非常形象；return to... 返回某地。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":193,"printedPage":189,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 95,
+    "title": "Tickets, please.",
+    "titleCn": "请把车票拿出来。",
+    "kind": "text",
+    "words": [
+      {"en":"return ticket","ipa":"/rɪˈtɜːn ˈtɪkɪt/","cn":"n. 来回票，往返票","source":"supplement"},
+      {"en":"platform","ipa":"/ˈplætfɔːm/","cn":"n. 站台，月台","source":"supplement"},
+      {"en":"plenty","ipa":"/ˈplenti/","cn":"n. 充足（plenty of 大量）","source":"supplement"},
+      {"en":"bar","ipa":"/bɑː/","cn":"n. 酒吧","source":"supplement"},
+      {"en":"station","ipa":"/ˈsteɪʃn/","cn":"n. 车站","source":"supplement"},
+      {"en":"catch","ipa":"/kætʃ/","cn":"v. 赶上；抓住","source":"supplement"},
+      {"en":"train","ipa":"/treɪn/","cn":"n. 火车","source":"supplement"},
+      {"en":"miss","ipa":"/mɪs/","cn":"v. 错过；未赶上","source":"supplement"},
+      {"en":"miss","ipa":"/mɪs/","cn":"v. 错过；未赶上","source":"supplement"},
+      {"en":"had better","ipa":"/hæd ˈbetə/","cn":"phr. 最好（做某事）","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Two return tickets to London, please.","cn":"请买两张去伦敦的来回票。","source":"adaptation"},
+      {"en":"What time will the next train leave?","cn":"下一班火车几点开？","source":"adaptation"},
+      {"en":"We had better go back to the station now.","cn":"我们现在最好回到车站去。","source":"adaptation"}
+    ],
+    "grammar": "had better + 动词原形表示“最好……”，没有人称变化；will 问将来时刻：What time will...?",
+    "tip": "plenty of 可接复数或不可数名词：plenty of time / plenty of books；赶火车 catch the train，误车 miss the train.",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":197,"printedPage":193,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  }
+]

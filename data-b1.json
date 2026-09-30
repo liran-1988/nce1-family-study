@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Excuse me!",
+    "titleCn": "对不起！",
+    "kind": "text",
+    "words": [
+      {"en":"excuse","ipa":"/ɪkˈskjuːz/","cn":"v. 原谅","source":"supplement"},
+      {"en":"me","ipa":"/miː/","cn":"pron. 我（宾格）","source":"supplement"},
+      {"en":"yes","ipa":"/jes/","cn":"adv. 是的","source":"supplement"},
+      {"en":"is","ipa":"/ɪz/","cn":"v. be 动词（第三人称单数）","source":"supplement"},
+      {"en":"this","ipa":"/ðɪs/","cn":"pron. 这","source":"supplement"},
+      {"en":"your","ipa":"/jɔː/","cn":"det. 你的","source":"supplement"},
+      {"en":"handbag","ipa":"/ˈhændbæɡ/","cn":"n. 手提包","source":"supplement"},
+      {"en":"pardon","ipa":"/ˈpɑːdn/","cn":"int. 原谅，请再说一遍","source":"supplement"},
+      {"en":"it","ipa":"/ɪt/","cn":"pron. 它","source":"supplement"},
+      {"en":"thank you","ipa":"/ˈθæŋk juː/","cn":"phr. 谢谢你","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Excuse me!","cn":"劳驾／对不起（用于事前引起对方注意）","source":"adaptation"},
+      {"en":"Is this your handbag?","cn":"这是您的手提包吗？（be 动词一般疑问句）","source":"adaptation"},
+      {"en":"Yes, it is. / No, it isn't.","cn":"是的。／不是。（一般疑问句的肯定与否定回答）","source":"adaptation"}
+    ],
+    "grammar": "be 动词一般疑问句把 Is 提到主语之前：Is this...? 回答要用 it 代替 this：Yes, it is. / No, it isn't. 不能说 Yes, this is.",
+    "tip": "excuse me 用于事前打扰（问路、借过），sorry 用于事后致歉；没听清对方时说 Pardon? 请他再说一遍。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":5,"printedPage":1,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 3,
+    "title": "Sorry, sir.",
+    "titleCn": "对不起，先生。",
+    "kind": "text",
+    "words": [
+      {"en":"umbrella","ipa":"/ʌmˈbrelə/","cn":"n. 伞","source":"supplement"},
+      {"en":"please","ipa":"/pliːz/","cn":"int. 请","source":"supplement"},
+      {"en":"here","ipa":"/hɪə/","cn":"adv. 这里","source":"supplement"},
+      {"en":"my","ipa":"/maɪ/","cn":"det. 我的","source":"supplement"},
+      {"en":"ticket","ipa":"/ˈtɪkɪt/","cn":"n. 票","source":"supplement"},
+      {"en":"thanks","ipa":"/θæŋks/","cn":"int. 多谢（口语）","source":"supplement"},
+      {"en":"sir","ipa":"/sɜː/","cn":"n. 先生","source":"supplement"},
+      {"en":"cloakroom","ipa":"/ˈkləʊkruːm/","cn":"n. 衣帽存放处","source":"supplement"},
+      {"en":"coat","ipa":"/kəʊt/","cn":"n. 上衣，外套","source":"supplement"},
+      {"en":"number","ipa":"/ˈnʌmbə/","cn":"n. 号码","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Sorry, sir.","cn":"对不起，先生。（事后致歉）","source":"adaptation"},
+      {"en":"Here's my ticket.","cn":"这是我的票。（Here's = Here is）","source":"adaptation"},
+      {"en":"This is not my umbrella.","cn":"这不是我的伞。（is not = isn't）","source":"adaptation"}
+    ],
+    "grammar": "Here's... 即 Here is...，把东西递给对方或指给对方看时常用；否定句在 be 动词后加 not：This is not my umbrella.",
+    "tip": "对陌生男士可尊称 sir；把东西递给对方时说 Here you are.（给您），接收方说 Thank you. 两句要配对使用。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":9,"printedPage":5,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 5,
+    "title": "Nice to meet you.",
+    "titleCn": "很高兴见到你。",
+    "kind": "text",
+    "words": [
+      {"en":"Mr.","ipa":"/ˈmɪstə/","cn":"n. 先生","source":"supplement"},
+      {"en":"good","ipa":"/ɡʊd/","cn":"adj. 好","source":"supplement"},
+      {"en":"morning","ipa":"/ˈmɔːnɪŋ/","cn":"n. 早晨","source":"supplement"},
+      {"en":"Miss","ipa":"/mɪs/","cn":"n. 小姐","source":"supplement"},
+      {"en":"new","ipa":"/njuː/","cn":"adj. 新的","source":"supplement"},
+      {"en":"student","ipa":"/ˈstjuːdnt/","cn":"n. 学生","source":"supplement"},
+      {"en":"French","ipa":"/frentʃ/","cn":"adj.&n. 法国的／法语","source":"supplement"},
+      {"en":"nice","ipa":"/naɪs/","cn":"adj. 美好的","source":"supplement"},
+      {"en":"meet","ipa":"/miːt/","cn":"v. 遇见","source":"supplement"},
+      {"en":"German","ipa":"/ˈdʒɜːmən/","cn":"adj.&n. 德国的／德语","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"This is Sophie Dupont.","cn":"这位是索菲娅·杜邦。（介绍他人句型）","source":"adaptation"},
+      {"en":"Nice to meet you.","cn":"很高兴见到你。（初次见面）","source":"adaptation"},
+      {"en":"She is French, too.","cn":"她也是法国人。（too 放句尾表示“也”）","source":"adaptation"}
+    ],
+    "grammar": "介绍别人统一用 This is...（不必管性别，不说 He is/She is）；表示国籍的词首字母大写且前面不加冠词：She is French.",
+    "tip": "初次见面的回答是 Nice to meet you, too.，别忘了 too；Good morning 用于中午十二点前。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":13,"printedPage":9,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 7,
+    "title": "Are you a teacher?",
+    "titleCn": "你是教师吗？",
+    "kind": "text",
+    "words": [
+      {"en":"name","ipa":"/neɪm/","cn":"n. 名字","source":"supplement"},
+      {"en":"what","ipa":"/wɒt/","cn":"pron. 什么","source":"supplement"},
+      {"en":"job","ipa":"/dʒɒb/","cn":"n. 工作","source":"supplement"},
+      {"en":"nationality","ipa":"/ˌnæʃəˈnæləti/","cn":"n. 国籍","source":"supplement"},
+      {"en":"policeman","ipa":"/pəˈliːsmən/","cn":"n. 警察","source":"supplement"},
+      {"en":"nurse","ipa":"/nɜːs/","cn":"n. 护士","source":"supplement"},
+      {"en":"mechanic","ipa":"/məˈkænɪk/","cn":"n. 机械师","source":"supplement"},
+      {"en":"hairdresser","ipa":"/ˈheədresə/","cn":"n. 理发师","source":"supplement"},
+      {"en":"housewife","ipa":"/ˈhaʊswaɪf/","cn":"n. 家庭主妇","source":"supplement"},
+      {"en":"engineer","ipa":"/ˌendʒɪˈnɪə/","cn":"n. 工程师","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"I'm a new student.","cn":"我是个新学生。（I'm = I am）","source":"adaptation"},
+      {"en":"What's your job?","cn":"你是做什么工作的？","source":"textbook","pdfPage":17,"printedPage":13,"verification":"verified","translationSource":"supplement"},
+      {"en":"I'm an engineer.","cn":"我是工程师。（元音音素前用 an）","source":"adaptation"}
+    ],
+    "grammar": "介绍职业用 I'm a/an + 职业；a 用于辅音音素前（a teacher / a student），an 用于元音音素前（an engineer / an operator）。",
+    "tip": "问职业还可以说 What do you do?；本课介绍一个人的职业可用 I’m a/an + 职业。a/an 的选择看后面紧接词的实际读音，不只看字母。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":17,"printedPage":13,"status":"verified","verified":true,"scope":"lesson-heading, printed-page, English-body, speaker, Chinese-meaning","note":"本轮逐行对照原页；不含下一页词表和偶数课练习。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 9,
+    "title": "How are you today?",
+    "titleCn": "你今天好吗？",
+    "kind": "text",
+    "words": [
+      {"en":"hello","ipa":"/həˈləʊ/","cn":"int. 你好","source":"supplement"},
+      {"en":"hi","ipa":"/haɪ/","cn":"int. 嗨","source":"supplement"},
+      {"en":"how","ipa":"/haʊ/","cn":"adv. 怎样","source":"supplement"},
+      {"en":"fine","ipa":"/faɪn/","cn":"adj. 美好的，健康的","source":"supplement"},
+      {"en":"well","ipa":"/wel/","cn":"adj. 好的（身体）；adv. 好","source":"supplement"},
+      {"en":"thanks","ipa":"/θæŋks/","cn":"int. 多谢（口语）","source":"supplement"},
+      {"en":"see","ipa":"/siː/","cn":"v. 看见，见面","source":"supplement"},
+      {"en":"goodbye","ipa":"/ˌɡʊdˈbaɪ/","cn":"int. 再见","source":"supplement"},
+      {"en":"fat","ipa":"/fæt/","cn":"adj. 胖的","source":"supplement"},
+      {"en":"thin","ipa":"/θɪn/","cn":"adj. 瘦的","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"How are you today?","cn":"你今天好吗？（问候健康）","source":"adaptation"},
+      {"en":"I'm very well, thank you. And you?","cn":"我很好，谢谢。你呢？","source":"adaptation"},
+      {"en":"Look at that man. He's very fat.","drill":true,"cn":"看那个男人，他很胖。（Look at + 名词）","source":"supplement"}
+    ],
+    "grammar": "How are you? 是固定问候语，回答 I'm fine. / I'm very well, thank you.；Look at 后接名词表示“看……”，引出对人的描述。",
+    "tip": "当面说别人 fat 不礼貌，英语里更委婉；熟人间见面说 Nice to see you，初次见面才说 Nice to meet you。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":21,"printedPage":17,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 11,
+    "title": "Is this your shirt?",
+    "titleCn": "这是你的衬衫吗？",
+    "kind": "text",
+    "words": [
+      {"en":"whose","ipa":"/huːz/","cn":"pron. 谁的","source":"supplement"},
+      {"en":"shirt","ipa":"/ʃɜːt/","cn":"n. 衬衫","source":"supplement"},
+      {"en":"blouse","ipa":"/blaʊz/","cn":"n. 女衬衫","source":"supplement"},
+      {"en":"tie","ipa":"/taɪ/","cn":"n. 领带","source":"supplement"},
+      {"en":"brother","ipa":"/ˈbrʌðə/","cn":"n. 兄，弟","source":"supplement"},
+      {"en":"sister","ipa":"/ˈsɪstə/","cn":"n. 姐，妹","source":"supplement"},
+      {"en":"father","ipa":"/ˈfɑːðə/","cn":"n. 父亲","source":"supplement"},
+      {"en":"mother","ipa":"/ˈmʌðə/","cn":"n. 母亲","source":"supplement"},
+      {"en":"his","ipa":"/hɪz/","cn":"det. 他的","source":"supplement"},
+      {"en":"her","ipa":"/hɜː/","cn":"det. 她的","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Whose shirt is that?","cn":"那是谁的衬衫？","source":"adaptation"},
+      {"en":"It's Dave's.","cn":"是戴夫的。（人名 + 's 表示所属）","source":"adaptation"},
+      {"en":"Is this your shirt, Dave?","cn":"戴夫，这是你的衬衫吗？","source":"adaptation"}
+    ],
+    "grammar": "对物主提问用 Whose：Whose shirt is that?；名词所有格在人名后加 's：Dave's = Dave 的（衬衫），后面名词常省略。",
+    "tip": "his / her 的选择看所有者的性别：his shirt（他的），her blouse（她的）；whose 与 who's（who is）读音相同，含义不同。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":25,"printedPage":21,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 13,
+    "title": "A new dress",
+    "titleCn": "一件新连衣裙",
+    "kind": "text",
+    "words": [
+      {"en":"colour","ipa":"/ˈkʌlə/","cn":"n. 颜色","source":"supplement"},
+      {"en":"green","ipa":"/ɡriːn/","cn":"adj. 绿色的","source":"supplement"},
+      {"en":"come","ipa":"/kʌm/","cn":"v. 来","source":"supplement"},
+      {"en":"upstairs","ipa":"/ˌʌpˈsteəz/","cn":"adv. 楼上","source":"supplement"},
+      {"en":"smart","ipa":"/smɑːt/","cn":"adj. 漂亮的，时髦的","source":"supplement"},
+      {"en":"hat","ipa":"/hæt/","cn":"n. 帽子","source":"supplement"},
+      {"en":"same","ipa":"/seɪm/","cn":"adj. 相同的","source":"supplement"},
+      {"en":"lovely","ipa":"/ˈlʌvli/","cn":"adj. 可爱的，好看的","source":"supplement"},
+      {"en":"case","ipa":"/keɪs/","cn":"n. 箱子","source":"supplement"},
+      {"en":"carpet","ipa":"/ˈkɑːpɪt/","cn":"n. 地毯","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"What colour's your new dress?","cn":"你的新连衣裙是什么颜色的？（colour's = colour is）","source":"adaptation"},
+      {"en":"Come upstairs and see it.","cn":"到楼上来看看它吧。","source":"adaptation"},
+      {"en":"It's the same colour.","cn":"它是同样的颜色。","source":"adaptation"}
+    ],
+    "grammar": "对颜色提问用 What colour...?；same 前习惯加 the：the same colour；陈述颜色时系动词 + 形容词：It's green.",
+    "tip": "smart 在本课形容衣着“时髦漂亮”，不是“聪明”；英式拼写是 colour，美式是 color。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":29,"printedPage":25,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 15,
+    "title": "Your passports, please.",
+    "titleCn": "请出示你们的护照。",
+    "kind": "text",
+    "words": [
+      {"en":"passport","ipa":"/ˈpɑːspɔːt/","cn":"n. 护照","source":"supplement"},
+      {"en":"customs","ipa":"/ˈkʌstəmz/","cn":"n. 海关","source":"supplement"},
+      {"en":"tourist","ipa":"/ˈtʊərɪst/","cn":"n. 旅游者","source":"supplement"},
+      {"en":"friend","ipa":"/frend/","cn":"n. 朋友","source":"supplement"},
+      {"en":"Norwegian","ipa":"/nɔːˈwiːdʒən/","cn":"adj.&n. 挪威的／挪威人","source":"supplement"},
+      {"en":"Danish","ipa":"/ˈdeɪnɪʃ/","cn":"adj.&n. 丹麦的／丹麦人","source":"supplement"},
+      {"en":"Russian","ipa":"/ˈrʌʃn/","cn":"adj.&n. 俄罗斯的／俄国人","source":"supplement"},
+      {"en":"Dutch","ipa":"/dʌtʃ/","cn":"adj.&n. 荷兰的／荷兰人","source":"supplement"},
+      {"en":"these","ipa":"/ðiːz/","cn":"pron. 这些","source":"supplement"},
+      {"en":"those","ipa":"/ðəʊz/","cn":"pron. 那些","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Are you Swedish?","cn":"你们是瑞典人吗？（复数主语用 are）","source":"adaptation"},
+      {"en":"Are these your cases?","cn":"这些是你们的箱子吗？","source":"adaptation"},
+      {"en":"Your passports, please.","cn":"请出示你们的护照。（礼貌祈使句）","source":"adaptation"}
+    ],
+    "grammar": "主语是复数（we / you / they / these / those）时 be 动词用 are；祈使句省略主语，用名词 + please 表示客气请求。",
+    "tip": "these（这些）指近处，those（那些）指远处；请别人出示东西的固定说法是 Your ..., please.",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":33,"printedPage":29,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 17,
+    "title": "How do you do?",
+    "titleCn": "你好！",
+    "kind": "text",
+    "words": [
+      {"en":"employee","ipa":"/ɪmˈplɔɪiː/","cn":"n. 雇员","source":"supplement"},
+      {"en":"hard-working","ipa":"/ˌhɑːd ˈwɜːkɪŋ/","cn":"adj. 勤奋的","source":"supplement"},
+      {"en":"sales rep","ipa":"/ˈseɪlz rep/","cn":"n. 推销员","source":"supplement"},
+      {"en":"office","ipa":"/ˈɒfɪs/","cn":"n. 办公室","source":"supplement"},
+      {"en":"assistant","ipa":"/əˈsɪstənt/","cn":"n. 助理","source":"supplement"},
+      {"en":"busy","ipa":"/ˈbɪzi/","cn":"adj. 忙的","source":"supplement"},
+      {"en":"lazy","ipa":"/ˈleɪzi/","cn":"adj. 懒的","source":"supplement"},
+      {"en":"young","ipa":"/jʌŋ/","cn":"adj. 年轻的","source":"supplement"},
+      {"en":"woman","ipa":"/ˈwʊmən/","cn":"n. 女人","source":"supplement"},
+      {"en":"man","ipa":"/mæn/","cn":"n. 男人","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"How do you do?","cn":"你好！（初次被介绍时的正式问候）","source":"adaptation"},
+      {"en":"What are their jobs?","cn":"他们是做什么工作的？（复数）","source":"adaptation"},
+      {"en":"Those women are very hard-working.","cn":"那些女职员工作很勤快。","source":"adaptation"}
+    ],
+    "grammar": "How do you do? 不是疑问句，回答也用 How do you do?；对复数主语提问职业用 What are their jobs?（单数用 What's your job?）。",
+    "tip": "How do you do? 只在正式介绍时用一次；回答后可再补一句 Nice to meet you. 缓和气氛。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":37,"printedPage":33,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 19,
+    "title": "Tired and thirsty",
+    "titleCn": "又累又渴",
+    "kind": "text",
+    "words": [
+      {"en":"matter","ipa":"/ˈmætə/","cn":"n. 事情（the matter 麻烦）","source":"supplement"},
+      {"en":"children","ipa":"/ˈtʃɪldrən/","cn":"n. 孩子们（child 的复数）","source":"supplement"},
+      {"en":"tired","ipa":"/ˈtaɪəd/","cn":"adj. 累的","source":"supplement"},
+      {"en":"thirsty","ipa":"/ˈθɜːsti/","cn":"adj. 渴的","source":"supplement"},
+      {"en":"Mum","ipa":"/mʌm/","cn":"n. 妈妈（口语）","source":"supplement"},
+      {"en":"sit down","ipa":"/ˈsɪt daʊn/","cn":"phr. 坐下","source":"supplement"},
+      {"en":"right","ipa":"/raɪt/","cn":"adj. 好的；右边的","source":"supplement"},
+      {"en":"ice cream","ipa":"/ˈaɪs kriːm/","cn":"n. 冰淇淋","source":"supplement"},
+      {"en":"hot","ipa":"/hɒt/","cn":"adj. 热的","source":"supplement"},
+      {"en":"boy","ipa":"/bɔɪ/","cn":"n. 男孩","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"What's the matter, children?","cn":"怎么啦，孩子们？","source":"textbook","pdfPage":41,"printedPage":37,"verification":"verified","translationSource":"supplement"},
+      {"en":"We're tired and thirsty.","cn":"我们又累又渴。","source":"adaptation"},
+      {"en":"There's an ice cream man.","cn":"有个卖冰淇淋的。（There be 句型）","source":"textbook","pdfPage":41,"printedPage":37,"verification":"verified","translationSource":"supplement"}
+    ],
+    "grammar": "What's the matter (with sb)? 用来询问对方怎么了；There be 句型表示“某处存在某物”，be 动词与后面的名词单复数一致（There's / There are）。",
+    "tip": "两个形容词并列用 and 连接：tired and thirsty；thirsty 的名词是 thirst（渴），注意 th 要咬舌。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":41,"printedPage":37,"status":"verified","verified":true,"scope":"lesson-heading, printed-page, English-body, speaker, Chinese-meaning","note":"本轮逐行对照原页；不含下一页词表和偶数课练习。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 21,
+    "title": "Which book?",
+    "titleCn": "哪一本书？",
+    "kind": "text",
+    "words": [
+      {"en":"give","ipa":"/ɡɪv/","cn":"v. 给","source":"supplement"},
+      {"en":"which","ipa":"/wɪtʃ/","cn":"pron. 哪一个","source":"supplement"},
+      {"en":"one","ipa":"/wʌn/","cn":"pron. 一个（代替前文提到的名词）","source":"supplement"},
+      {"en":"red","ipa":"/red/","cn":"adj. 红色的","source":"supplement"},
+      {"en":"clean","ipa":"/kliːn/","cn":"adj. 干净的","source":"supplement"},
+      {"en":"dirty","ipa":"/ˈdɜːti/","cn":"adj. 脏的","source":"supplement"},
+      {"en":"empty","ipa":"/ˈempti/","cn":"adj. 空的","source":"supplement"},
+      {"en":"full","ipa":"/fʊl/","cn":"adj. 满的","source":"supplement"},
+      {"en":"big","ipa":"/bɪɡ/","cn":"adj. 大的","source":"supplement"},
+      {"en":"little","ipa":"/ˈlɪtl/","cn":"adj. 小的","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Give me a book, please.","cn":"请给我一本书。（give + 人 + 物）","source":"adaptation"},
+      {"en":"Which book?","cn":"哪一本？","source":"textbook","pdfPage":45,"printedPage":41,"verification":"verified","translationSource":"supplement"},
+      {"en":"This one?","cn":"是这本吗？（one 代替 book）","source":"textbook","pdfPage":45,"printedPage":41,"verification":"verified","translationSource":"supplement"}
+    ],
+    "grammar": "give 后可接双宾语：give me a book = give a book to me；one 用来代替前面提过的可数名词，避免重复（复数用 ones）。",
+    "tip": "要东西说 Give me..., please.，递东西说 Here you are.；反义形容词成对记：clean/dirty、empty/full、big/little。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":45,"printedPage":41,"status":"verified","verified":true,"scope":"lesson-heading, printed-page, English-body, speaker, Chinese-meaning","note":"本轮逐行对照原页；不含下一页词表和偶数课练习。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 23,
+    "title": "Which glasses?",
+    "titleCn": "哪几只杯子？",
+    "kind": "text",
+    "words": [
+      {"en":"glasses","ipa":"/ˈɡlɑːsɪz/","cn":"n. 眼镜","source":"supplement"},
+      {"en":"shelf","ipa":"/ʃelf/","cn":"n. 架子","source":"supplement"},
+      {"en":"desk","ipa":"/desk/","cn":"n. 书桌","source":"supplement"},
+      {"en":"table","ipa":"/ˈteɪbl/","cn":"n. 桌子","source":"supplement"},
+      {"en":"plate","ipa":"/pleɪt/","cn":"n. 盘子","source":"supplement"},
+      {"en":"cupboard","ipa":"/ˈkʌbəd/","cn":"n. 碗橱","source":"supplement"},
+      {"en":"cigarette","ipa":"/ˌsɪɡəˈret/","cn":"n. 香烟","source":"supplement"},
+      {"en":"television","ipa":"/ˈtelɪvɪʒn/","cn":"n. 电视机","source":"supplement"},
+      {"en":"floor","ipa":"/flɔː/","cn":"n. 地板","source":"supplement"},
+      {"en":"magazine","ipa":"/ˌmæɡəˈziːn/","cn":"n. 杂志","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Give me some glasses, please.","cn":"请给我几只杯子。（some + 复数名词）","source":"adaptation"},
+      {"en":"Which glasses?","cn":"哪几只？","source":"adaptation"},
+      {"en":"The ones on the shelf.","cn":"架子上那几只。","source":"adaptation"}
+    ],
+    "grammar": "some 修饰复数名词表示“一些”；which ones 问复数中的“哪些”；on the shelf 是介词短语作后置定语，修饰 the ones。",
+    "tip": "glasses 表“眼镜”时永远是复数，量词用 a pair of glasses（一副眼镜）。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":49,"printedPage":45,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  }
+]

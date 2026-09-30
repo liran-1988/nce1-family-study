@@ -1,0 +1,410 @@
+{
+  "1": {
+    "title": "捡到东西怎么找到主人",
+    "chat": "小朋友，想象你在路上捡到一个手提包，要还给主人怎么办？先说 Excuse me!（打扰一下）引起注意，再问 Is this your…?（这是你的……吗？）。是主人的会说 Yes, it is.，不是的会说 No, it isn't.",
+    "formula": "Is this your + 东西? → Yes, it is.（是我的）／ No, it isn't.（不是）",
+    "examples": [
+      {
+        "en": "Is this your handbag?",
+        "cn": "这是您的手提包吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "Is this your pen?",
+        "cn": "这是你的钢笔吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "Yes, it is. Thank you very much!",
+        "cn": "是的，是我的。非常感谢！",
+        "source": "supplement"
+      }
+    ],
+    "watch": "回答时要用 it 代替 this：说「Yes, it is.」，不能说「Yes, this is.」哦！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 5,
+      "printedPage": 1,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "3": {
+    "title": "Here's…：递东西的魔法句",
+    "chat": "拿错别人的东西要马上说 Sorry.（对不起）。把东西还给人家时说 Here's your…，Here's 就是 Here is 的缩写，意思是「给，这是您的……」，特别好用！",
+    "formula": "Here's your + 东西. （这是您的……）",
+    "examples": [
+      {
+        "en": "Here's your umbrella.",
+        "cn": "这是您的伞。",
+        "source": "supplement"
+      },
+      {
+        "en": "Here's your coat and your ticket.",
+        "cn": "这是您的外套和票。",
+        "source": "supplement"
+      },
+      {
+        "en": "Sorry, sir. This is not my umbrella.",
+        "cn": "对不起，先生，这不是我的伞。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "Excuse me 是「事前打扰」（问路前），Sorry 是「事后道歉」（做错后），时间点不一样哦！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 9,
+      "printedPage": 5,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "5": {
+    "title": "介绍朋友只用 This is",
+    "chat": "把朋友介绍给别人，不管男生女生、老师同学，统统用 This is…（这位是……）！被介绍的人回答 Nice to meet you.（很高兴认识你），对方会加上 too（我也很高兴）。",
+    "formula": "This is + 名字. → Nice to meet you. → Nice to meet you, too.",
+    "examples": [
+      {
+        "en": "This is Sophie. She is French.",
+        "cn": "这位是索菲娅，她是法国人。",
+        "source": "supplement"
+      },
+      {
+        "en": "Nice to meet you.",
+        "cn": "很高兴见到你。",
+        "source": "supplement"
+      },
+      {
+        "en": "Nice to meet you, too.",
+        "cn": "我也很高兴见到你。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "国籍词要大写、前面不加 a：She is French.（她是法国人），不说 She is a French！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 13,
+      "printedPage": 9,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "7": {
+    "title": "a 还是 an？听读音！",
+    "chat": "问别人做什么工作：What's your job? 回答可以说 I'm a/an + 职业。engineer 的第一个音 /e/ 是元音音素，所以用 an；teacher 的第一个音 /t/ 是辅音音素，所以用 a。要听实际读音，不能只看 a/e/i/o/u 这五个字母。",
+    "formula": "What's your job? → I'm a teacher. ／ I'm an engineer.",
+    "examples": [
+      {
+        "en": "What's your job?",
+        "cn": "你是做什么工作的？",
+        "source": "supplement"
+      },
+      {
+        "en": "I'm a policeman.",
+        "cn": "我是一名警察。",
+        "source": "supplement"
+      },
+      {
+        "en": "I'm an engineer.",
+        "cn": "我是一名工程师。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "看「读音」不看「字母」：an hour（h 不发音，用 an），a university（u 读「you」，用 a）！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 17,
+      "printedPage": 13,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+      "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+    }
+  },
+  "9": {
+    "title": "How are you? 是打招呼",
+    "chat": "How are you? 不是真的在问「你怎么样」，它是英语里的打招呼用语，就像「你好吗」。标准回答：I'm fine, thank you. 或 I'm very well, thanks. 然后礼貌地问回去 And you?（你呢？）。",
+    "formula": "How are you? → I'm fine / very well, thank you. And you?",
+    "examples": [
+      {
+        "en": "How are you today?",
+        "cn": "你今天好吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "I'm very well, thank you. And you?",
+        "cn": "我很好，谢谢。你呢？",
+        "source": "supplement"
+      },
+      {
+        "en": "I'm fine, thanks.",
+        "cn": "我很好，谢谢。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "描写人的样子要用形容词：He is fat.（他胖）She is thin.（她瘦）——形容词跟在 is/am/are 后面。",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 21,
+      "printedPage": 17,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "11": {
+    "title": "Whose 谁的？'s 是名字标签",
+    "chat": "想知道东西是谁的，用 Whose（谁的）提问。回答的小秘密：在人名后面加一个小小的 's，表示「某某的」！Dave's 就是「戴夫的」，像给东西贴上主人的名字标签。",
+    "formula": "Whose + 东西 is this/that? → It's + 人名 + 's.",
+    "examples": [
+      {
+        "en": "Whose shirt is that?",
+        "cn": "那是谁的衬衫？",
+        "source": "supplement"
+      },
+      {
+        "en": "It's Dave's.",
+        "cn": "是戴夫的。",
+        "source": "supplement"
+      },
+      {
+        "en": "Is this your shirt, Tim?",
+        "cn": "蒂姆，这是你的衬衫吗？",
+        "source": "supplement"
+      }
+    ],
+    "watch": "his（他的）和 her（她的）看主人性别：his bag 他的包，her bag 她的包，别贴错标签！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 25,
+      "printedPage": 21,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "13": {
+    "title": "问颜色的专用问法",
+    "chat": "问颜色有专门的句型：What colour…?（什么颜色？）colour's 是 colour is 的缩写。回答直接说 It's + 颜色。注意：same（相同的）是个小明星，出门必须带 the！",
+    "formula": "What colour is your…? → It's red / green / blue. ｜ the same colour 相同的颜色",
+    "examples": [
+      {
+        "en": "What colour's your new dress?",
+        "cn": "你的新连衣裙是什么颜色的？",
+        "source": "supplement"
+      },
+      {
+        "en": "It's green. It's the same colour.",
+        "cn": "是绿色的，一样的颜色。",
+        "source": "supplement"
+      },
+      {
+        "en": "That is a lovely hat!",
+        "cn": "真是一顶可爱的帽子！",
+        "source": "supplement"
+      }
+    ],
+    "watch": "smart 在这课形容衣服「时髦漂亮」，不是「聪明」哦！另外英式写 colour，美式写 color。",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 29,
+      "printedPage": 25,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "15": {
+    "title": "复数的 be 动词都是 are",
+    "chat": "问一群人「你们是……国人吗」：Are you…? 回答用 We are / We aren't（aren't = are not）。请别人出示证件：Your passports, please. 名词后面加 please，一句话就有礼貌！",
+    "formula": "Are you + 国籍(复数)? → Yes, we are. ／ No, we aren't. ｜ Your…, please. 请出示……",
+    "examples": [
+      {
+        "en": "Are you Swedish?",
+        "cn": "你们是瑞典人吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "No, we aren't. We're Danish.",
+        "cn": "不，我们是丹麦人。",
+        "source": "supplement"
+      },
+      {
+        "en": "Your passports, please.",
+        "cn": "请出示你们的护照。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "these（这些）指近处，those（那些）指远处；主语是复数时，be 动词全用 are！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 33,
+      "printedPage": 29,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "17": {
+    "title": "How do you do? 要原句奉还",
+    "chat": "How do you do? 是正式场合被介绍时的问候语，它看起来像问句，其实不是！回答也是原句 How do you do?，像照镜子一样。问一群人的职业：What are their jobs?（their = 他们的）。",
+    "formula": "How do you do? ⇄ How do you do! ｜ What are their jobs? → They're…",
+    "examples": [
+      {
+        "en": "How do you do?",
+        "cn": "你们好！",
+        "source": "supplement"
+      },
+      {
+        "en": "What are their jobs?",
+        "cn": "他们是做什么工作的？",
+        "source": "supplement"
+      },
+      {
+        "en": "They're sales reps. They're very lazy.",
+        "cn": "他们是推销员，非常懒。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "How do you do? 只在正式介绍时用一次；平时打招呼用 Hello / Hi 就够了！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 37,
+      "printedPage": 33,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "19": {
+    "title": "What's the matter? 与 There be",
+    "chat": "看到别人不舒服，问 What's the matter?（怎么啦？），回答用形容词说感觉：I'm tired.（我累了）I'm thirsty.（我渴了）。要说「哪里有什么东西」，请出 There be 句型：There's an ice cream man.（有个卖冰淇淋的）。",
+    "formula": "What's the matter? → I'm tired / hungry. ｜ There's + 一个东西 + 位置.",
+    "examples": [
+      {
+        "en": "What's the matter, children?",
+        "cn": "孩子们，怎么啦？",
+        "source": "supplement"
+      },
+      {
+        "en": "We're tired and thirsty.",
+        "cn": "我们又累又渴。",
+        "source": "supplement"
+      },
+      {
+        "en": "There's an ice cream man.",
+        "cn": "有个卖冰淇淋的。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "两个形容词手拉手要用 and 连接：tired and thirsty（又累又渴）。",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 41,
+      "printedPage": 37,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+      "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+    }
+  },
+  "21": {
+    "title": "one 是名词的替身",
+    "chat": "请别人递东西：Give me…, please.（请给我……）。要弄清「哪一个」：Which book?（哪本？）。精彩的地方来了——回答时不用再说 book，用 one 当「替身」：This one?（这本吗？）The red one.（红色那本）。",
+    "formula": "Give me a/an…, please. → Which one? → This one? → The + 颜色/特征 + one.",
+    "examples": [
+      {
+        "en": "Give me a book, please.",
+        "cn": "请给我一本书。",
+        "source": "supplement"
+      },
+      {
+        "en": "Which book?",
+        "cn": "哪一本？",
+        "source": "supplement"
+      },
+      {
+        "en": "The red one.",
+        "cn": "红色那本。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "one 只能代替「一个可数名词」；很多东西要用 ones：Which ones?（哪几只？）",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 45,
+      "printedPage": 41,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+      "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+    }
+  },
+  "23": {
+    "title": "some 与 ones：要「一些」东西",
+    "chat": "要几个东西时说 Give me some glasses.（some = 一些，配复数名词）。指认哪几个还是 Which…?，回答 The ones on the shelf.——ones 是复数替身，on the shelf（在架子上）告诉我们位置。",
+    "formula": "Give me some + 复数名词, please. → Which ones? → The ones + 位置.",
+    "examples": [
+      {
+        "en": "Give me some glasses, please.",
+        "cn": "请给我几只杯子。",
+        "source": "supplement"
+      },
+      {
+        "en": "The ones on the shelf.",
+        "cn": "架子上那几只。",
+        "source": "supplement"
+      },
+      {
+        "en": "The ones on the table are clean.",
+        "cn": "桌上的那几只是干净的。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "glasses（眼镜）永远是复数，因为有两片镜片；一副眼镜是 a pair of glasses！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 49,
+      "printedPage": 45,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  }
+}

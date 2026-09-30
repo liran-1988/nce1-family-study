@@ -1,0 +1,360 @@
+[
+  {
+    "id": 25,
+    "title": "Mrs. Smith's kitchen",
+    "titleCn": "史密斯太太的厨房",
+    "kind": "text",
+    "words": [
+      {"en":"kitchen","ipa":"/ˈkɪtʃɪn/","cn":"n. 厨房","source":"supplement"},
+      {"en":"Mrs.","ipa":"/ˈmɪsɪz/","cn":"n. 夫人","source":"supplement"},
+      {"en":"refrigerator","ipa":"/rɪˈfrɪdʒəreɪtə/","cn":"n. 冰箱","source":"supplement"},
+      {"en":"cooker","ipa":"/ˈkʊkə/","cn":"n. 炉具，炊具","source":"supplement"},
+      {"en":"electric","ipa":"/ɪˈlektrɪk/","cn":"adj. 用电的","source":"supplement"},
+      {"en":"left","ipa":"/left/","cn":"n. 左边","source":"supplement"},
+      {"en":"middle","ipa":"/ˈmɪdl/","cn":"n. 中间","source":"supplement"},
+      {"en":"room","ipa":"/ruːm/","cn":"n. 房间","source":"supplement"},
+      {"en":"blue","ipa":"/bluː/","cn":"adj. 蓝色的","source":"supplement"},
+      {"en":"white","ipa":"/waɪt/","cn":"adj. 白色的","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"There is a refrigerator in the kitchen.","cn":"厨房里有一台冰箱。（There is + 单数）","source":"adaptation"},
+      {"en":"It's on the right.","cn":"它在右边。","source":"adaptation"},
+      {"en":"The cooker is blue.","cn":"炉灶是蓝色的。","source":"adaptation"}
+    ],
+    "grammar": "There is + 单数名词表示“某处有某物”；方位短语：on the left 在左边 / on the right 在右边 / in the middle 在中间。",
+    "tip": "the cooker 指“炉灶”，cooker 不是“厨师”（厨师是 cook）；the 用于特指双方都知道的东西。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":53,"printedPage":49,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 27,
+    "title": "Mrs. Smith's living room",
+    "titleCn": "史密斯太太的客厅",
+    "kind": "text",
+    "words": [
+      {"en":"living room","ipa":"/ˈlɪvɪŋ ruːm/","cn":"n. 客厅","source":"supplement"},
+      {"en":"armchair","ipa":"/ˈɑːmtʃeə/","cn":"n. 扶手椅","source":"supplement"},
+      {"en":"near","ipa":"/nɪə/","cn":"prep. 靠近","source":"supplement"},
+      {"en":"door","ipa":"/dɔː/","cn":"n. 门","source":"supplement"},
+      {"en":"stereo","ipa":"/ˈsteriəʊ/","cn":"n. 立体声音响","source":"supplement"},
+      {"en":"picture","ipa":"/ˈpɪktʃə/","cn":"n. 图画","source":"supplement"},
+      {"en":"wall","ipa":"/wɔːl/","cn":"n. 墙","source":"supplement"},
+      {"en":"window","ipa":"/ˈwɪndəʊ/","cn":"n. 窗户","source":"supplement"},
+      {"en":"newspaper","ipa":"/ˈnjuːzpeɪpə/","cn":"n. 报纸","source":"supplement"},
+      {"en":"magazine","ipa":"/ˌmægəˈziːn/","cn":"n. 杂志","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"There are some armchairs in the living room.","cn":"客厅里有几把扶手椅。（There are + 复数）","source":"adaptation"},
+      {"en":"The pictures are on the wall.","cn":"画挂在墙上。","source":"adaptation"},
+      {"en":"Where are they?","drill":true,"cn":"它们在哪儿？","source":"supplement"}
+    ],
+    "grammar": "There are + 复数名词；对位置提问用 Where is...? / Where are...?；on the wall / near the door 等介词短语说明位置。",
+    "tip": "there be（某地“有”）与 have（某人“拥有”）分工不同：There is a TV in the room. ／ I have a TV.",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":57,"printedPage":53,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 29,
+    "title": "Come in, Amy.",
+    "titleCn": "进来，艾米。",
+    "kind": "text",
+    "words": [
+      {"en":"shut","ipa":"/ʃʌt/","cn":"v. 关（门、窗）","source":"supplement"},
+      {"en":"open","ipa":"/ˈəʊpən/","cn":"v. 打开","source":"supplement"},
+      {"en":"bedroom","ipa":"/ˈbedruːm/","cn":"n. 卧室","source":"supplement"},
+      {"en":"untidy","ipa":"/ʌnˈtaɪdi/","cn":"adj. 不整齐的","source":"supplement"},
+      {"en":"must","ipa":"/mʌst/","cn":"v. 必须","source":"supplement"},
+      {"en":"air","ipa":"/eə/","cn":"v. 使……通风；n. 空气","source":"supplement"},
+      {"en":"clothes","ipa":"/kləʊðz/","cn":"n. 衣服（复数）","source":"supplement"},
+      {"en":"wardrobe","ipa":"/ˈwɔːdrəʊb/","cn":"n. 衣柜","source":"supplement"},
+      {"en":"sweep","ipa":"/swiːp/","cn":"v. 扫，打扫","source":"supplement"},
+      {"en":"dust","ipa":"/dʌst/","cn":"v. 掸去灰尘；n. 灰尘","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Come in and shut the door, please.","cn":"请进来把门关上。","source":"adaptation"},
+      {"en":"This bedroom's very untidy.","cn":"这间卧室太不整齐了。","source":"adaptation"},
+      {"en":"Open the window and air the room.","cn":"打开窗子，给房间通通风。","source":"adaptation"}
+    ],
+    "grammar": "祈使句以动词原形开头，否定式在前面加 Don't：Shut the door. / Don't shut it. must 后接动词原形，表示“必须”。",
+    "tip": "家务高频动词短语：make the bed 铺床、sweep the floor 扫地、dust the table 掸灰、air the room 通风。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":61,"printedPage":57,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 31,
+    "title": "Where's Sally?",
+    "titleCn": "萨莉在哪里？",
+    "kind": "text",
+    "words": [
+      {"en":"garden","ipa":"/ˈɡɑːdn/","cn":"n. 花园","source":"supplement"},
+      {"en":"under","ipa":"/ˈʌndə/","cn":"prep. 在……下面","source":"supplement"},
+      {"en":"tree","ipa":"/triː/","cn":"n. 树","source":"supplement"},
+      {"en":"climb","ipa":"/klaɪm/","cn":"v. 爬，攀登","source":"supplement"},
+      {"en":"run","ipa":"/rʌn/","cn":"v. 跑","source":"supplement"},
+      {"en":"grass","ipa":"/ɡrɑːs/","cn":"n. 草地","source":"supplement"},
+      {"en":"after","ipa":"/ˈɑːftə/","cn":"prep. 在……之后（run after 追赶）","source":"supplement"},
+      {"en":"type","ipa":"/taɪp/","cn":"v. 打字","source":"supplement"},
+      {"en":"drink","ipa":"/drɪŋk/","cn":"v. 喝","source":"supplement"},
+      {"en":"eat","ipa":"/iːt/","cn":"v. 吃","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"She's sitting under the tree.","cn":"她正坐在树下。（现在进行时）","source":"adaptation"},
+      {"en":"What's she doing?","cn":"她在做什么？","source":"adaptation"},
+      {"en":"It's running after a cat.","cn":"它正在追一只猫。","source":"adaptation"}
+    ],
+    "grammar": "现在进行时 = be + 动词-ing，表示说话时正在进行的动作；对正在做的事提问用 What's he/she doing?",
+    "tip": "动词变 -ing 三规则：直接加（do→doing）、去 e 加（make→making）、重读闭音节双写尾字母（run→running）。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":65,"printedPage":61,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 33,
+    "title": "A fine day",
+    "titleCn": "晴天",
+    "kind": "text",
+    "words": [
+      {"en":"sun","ipa":"/sʌn/","cn":"n. 太阳","source":"supplement"},
+      {"en":"shine","ipa":"/ʃaɪn/","cn":"v. 照耀","source":"supplement"},
+      {"en":"cloud","ipa":"/klaʊd/","cn":"n. 云","source":"supplement"},
+      {"en":"sky","ipa":"/skaɪ/","cn":"n. 天空","source":"supplement"},
+      {"en":"family","ipa":"/ˈfæməli/","cn":"n. 家庭","source":"supplement"},
+      {"en":"walk","ipa":"/wɔːk/","cn":"v. 走路，散步","source":"supplement"},
+      {"en":"bridge","ipa":"/brɪdʒ/","cn":"n. 桥","source":"supplement"},
+      {"en":"boat","ipa":"/bəʊt/","cn":"n. 小船","source":"supplement"},
+      {"en":"ship","ipa":"/ʃɪp/","cn":"n. 大船","source":"supplement"},
+      {"en":"fly","ipa":"/flaɪ/","cn":"v. 飞；放（风筝）","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"It is a fine day today.","cn":"今天天气好。","source":"adaptation"},
+      {"en":"There are some clouds in the sky, but the sun is shining.","cn":"天上有几朵云，但阳光灿烂。","source":"adaptation"},
+      {"en":"They are walking over the bridge.","cn":"他们正在过桥。","source":"adaptation"}
+    ],
+    "grammar": "现在进行时描绘眼前画面；walk over the bridge 中的 over 表示“越过”；look at / walk over 都是“动词 + 介词”搭配。",
+    "tip": "英式英语写 aeroplane，美式写 airplane；boat 是小船，ship 是大船。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":69,"printedPage":65,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 35,
+    "title": "Our village",
+    "titleCn": "我们的村庄",
+    "kind": "text",
+    "words": [
+      {"en":"photograph","ipa":"/ˈfəʊtəɡrɑːf/","cn":"n. 照片","source":"supplement"},
+      {"en":"village","ipa":"/ˈvɪlɪdʒ/","cn":"n. 村庄","source":"supplement"},
+      {"en":"between","ipa":"/bɪˈtwiːn/","cn":"prep. 在……之间","source":"supplement"},
+      {"en":"hill","ipa":"/hɪl/","cn":"n. 小山","source":"supplement"},
+      {"en":"wife","ipa":"/waɪf/","cn":"n. 妻子","source":"supplement"},
+      {"en":"along","ipa":"/əˈlɒŋ/","cn":"prep. 沿着","source":"supplement"},
+      {"en":"bank","ipa":"/bæŋk/","cn":"n. 河岸；银行","source":"supplement"},
+      {"en":"swim","ipa":"/swɪm/","cn":"v. 游泳","source":"supplement"},
+      {"en":"building","ipa":"/ˈbɪldɪŋ/","cn":"n. 大楼，建筑物","source":"supplement"},
+      {"en":"park","ipa":"/pɑːk/","cn":"n. 公园","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"This is a photograph of our village.","cn":"这是我们村庄的一张照片。","source":"textbook","pdfPage":73,"printedPage":69,"verification":"verified","translationSource":"supplement"},
+      {"en":"It is between two hills.","cn":"它位于两座小山之间。","source":"textbook","pdfPage":73,"printedPage":69,"verification":"verified","translationSource":"supplement"},
+      {"en":"My wife and I are walking along the banks of the river.","cn":"我和妻子正沿着河岸散步。","source":"textbook","pdfPage":73,"printedPage":69,"verification":"verified","translationSource":"supplement"}
+    ],
+    "grammar": "between 表示“在两者之间”；along 沿着（静态路径），into 进入（动态方向）；a photograph of... 中 of 表所属。",
+    "tip": "bank 既指“河岸”也指“银行”，靠上下文区分；walk along... 沿着走，walk into... 走进。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":73,"printedPage":69,"status":"verified","verified":true,"scope":"lesson-heading, printed-page, English-body, speaker, Chinese-meaning","note":"本轮逐行对照原页；不含下一页词表和偶数课练习。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 37,
+    "title": "Making a bookcase",
+    "titleCn": "做书架",
+    "kind": "text",
+    "words": [
+      {"en":"work","ipa":"/wɜːk/","cn":"v. 工作","source":"supplement"},
+      {"en":"hard","ipa":"/hɑːd/","cn":"adv. 努力地；adj. 硬的","source":"supplement"},
+      {"en":"make","ipa":"/meɪk/","cn":"v. 做","source":"supplement"},
+      {"en":"bookcase","ipa":"/ˈbʊkkeɪs/","cn":"n. 书架","source":"supplement"},
+      {"en":"hammer","ipa":"/ˈhæmə/","cn":"n. 锤子","source":"supplement"},
+      {"en":"paint","ipa":"/peɪnt/","cn":"v. 刷漆；n. 油漆","source":"supplement"},
+      {"en":"pink","ipa":"/pɪŋk/","cn":"adj. 粉红色的","source":"supplement"},
+      {"en":"favourite","ipa":"/ˈfeɪvərɪt/","cn":"adj. 最喜欢的","source":"supplement"},
+      {"en":"daughter","ipa":"/ˈdɔːtə/","cn":"n. 女儿","source":"supplement"},
+      {"en":"for","ipa":"/fɔː/","cn":"prep. 给，为","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"You're working hard!","cn":"你干得真卖力！","source":"adaptation"},
+      {"en":"I'm making a bookcase.","cn":"我正在做一个书架。","source":"adaptation"},
+      {"en":"What are you going to do?","cn":"你打算做什么？","source":"adaptation"},
+      {"en":"I'm going to paint it pink.","cn":"我打算把它漆成粉红色。","source":"adaptation"}
+    ],
+    "grammar": "be going to + 动词原形表示“打算、将要”；paint it pink 是“动词 + 宾语 + 宾语补足语”结构（把它漆成粉色）。",
+    "tip": "be doing（正在做）与 be going to do（打算做）只差一个 going，一个看眼前、一个看计划。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":77,"printedPage":73,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 39,
+    "title": "Don't drop it!",
+    "titleCn": "别摔了！",
+    "kind": "text",
+    "words": [
+      {"en":"front","ipa":"/frʌnt/","cn":"n. 前面（in front of 在……前面）","source":"supplement"},
+      {"en":"careful","ipa":"/ˈkeəfʊl/","cn":"adj. 小心的","source":"supplement"},
+      {"en":"vase","ipa":"/vɑːz/","cn":"n. 花瓶","source":"supplement"},
+      {"en":"drop","ipa":"/drɒp/","cn":"v. 掉落，失手落下","source":"supplement"},
+      {"en":"flower","ipa":"/ˈflaʊə/","cn":"n. 花","source":"supplement"},
+      {"en":"show","ipa":"/ʃəʊ/","cn":"v. 给……看","source":"supplement"},
+      {"en":"send","ipa":"/send/","cn":"v. 寄，送","source":"supplement"},
+      {"en":"take","ipa":"/teɪk/","cn":"v. 拿，带走","source":"supplement"},
+      {"en":"with","ipa":"/wɪð/","cn":"prep. 关于（do with 处理）；和……一起","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"What are you going to do with that vase?","cn":"你打算拿那个花瓶怎么办？","source":"adaptation"},
+      {"en":"Don't drop it!","cn":"别摔了！（祈使句否定式）","source":"adaptation"},
+      {"en":"Be careful!","cn":"小心！","source":"adaptation"},
+      {"en":"I'm going to send it to my mother.","drill":true,"cn":"我准备把它寄给我妈妈。","source":"supplement"}
+    ],
+    "grammar": "祈使句的否定式 = Don't + 动词原形：Don't drop it! / Don't do that!；send sth to sb = send sb sth（双宾语）。",
+    "tip": "do with 表示“处理、安置”；Be careful! 比 Take care! 更急迫；in front of 指“在某物外部的前面”。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":81,"printedPage":77,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 41,
+    "title": "Penny's bag",
+    "titleCn": "彭妮的提包",
+    "kind": "text",
+    "words": [
+      {"en":"cheese","ipa":"/tʃiːz/","cn":"n. 奶酪","source":"supplement"},
+      {"en":"bread","ipa":"/bred/","cn":"n. 面包","source":"supplement"},
+      {"en":"soap","ipa":"/səʊp/","cn":"n. 肥皂","source":"supplement"},
+      {"en":"chocolate","ipa":"/ˈtʃɒklət/","cn":"n. 巧克力","source":"supplement"},
+      {"en":"sugar","ipa":"/ˈʃʊɡə/","cn":"n. 糖","source":"supplement"},
+      {"en":"coffee","ipa":"/ˈkɒfi/","cn":"n. 咖啡","source":"supplement"},
+      {"en":"tea","ipa":"/tiː/","cn":"n. 茶","source":"supplement"},
+      {"en":"tobacco","ipa":"/təˈbækəʊ/","cn":"n. 烟草，烟丝","source":"supplement"},
+      {"en":"piece","ipa":"/piːs/","cn":"n. 片，块（a piece of）","source":"supplement"},
+      {"en":"loaf","ipa":"/ləʊf/","cn":"n. 一条（面包）（a loaf of）","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Is that bag heavy, Penny?","cn":"那个提包重吗，彭妮？","source":"adaptation"},
+      {"en":"A piece of cheese.","cn":"一块奶酪。","source":"adaptation"},
+      {"en":"A loaf of bread.","cn":"一条面包。","source":"adaptation"}
+    ],
+    "grammar": "不可数名词计量用“a ... of”短语：a piece of cheese / a bar of soap / a bottle of milk / a tin of tobacco；它们一般没有复数形式。",
+    "tip": "cheese、bread、soap、sugar、coffee、tea、chocolate 都是常见不可数名词——不能加 s，不能用 a 直接修饰。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":85,"printedPage":81,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 43,
+    "title": "Hurry up!",
+    "titleCn": "快点！",
+    "kind": "text",
+    "words": [
+      {"en":"kettle","ipa":"/ˈketl/","cn":"n. 水壶","source":"supplement"},
+      {"en":"behind","ipa":"/bɪˈhaɪnd/","cn":"prep. 在……后面","source":"supplement"},
+      {"en":"teapot","ipa":"/ˈtiːpɒt/","cn":"n. 茶壶","source":"supplement"},
+      {"en":"now","ipa":"/naʊ/","cn":"adv. 现在","source":"supplement"},
+      {"en":"find","ipa":"/faɪnd/","cn":"v. 找到","source":"supplement"},
+      {"en":"boil","ipa":"/bɔɪl/","cn":"v. 沸腾，烧开","source":"supplement"},
+      {"en":"water","ipa":"/ˈwɔːtə/","cn":"n. 水","source":"supplement"},
+      {"en":"hurry","ipa":"/ˈhʌri/","cn":"v. 赶快","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Can you make the tea, Sam?","cn":"萨姆，你会沏茶吗？","source":"adaptation"},
+      {"en":"Is there any water in this kettle?","cn":"这壶里有水吗？（疑问句用 any）","source":"adaptation"},
+      {"en":"Hurry up!","cn":"快点！","source":"adaptation"}
+    ],
+    "grammar": "表示“一些”时，肯定句通常用 some，普通疑问句和否定句通常用 any；请求或期待肯定回答的问句也可用 some。There be 的一般疑问句把 be 动词提前：Is there any...?",
+    "tip": "water 不可数：一些水说 some water；hurry up 快点，名词短语 in a hurry 表示“匆忙”。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":89,"printedPage":85,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 45,
+    "title": "The boss's letter",
+    "titleCn": "老板的信",
+    "kind": "text",
+    "words": [
+      {"en":"boss","ipa":"/bɒs/","cn":"n. 老板，上司","source":"supplement"},
+      {"en":"minute","ipa":"/ˈmɪnɪt/","cn":"n. 分钟","source":"supplement"},
+      {"en":"ask","ipa":"/ɑːsk/","cn":"v. 请（某人做）；问","source":"supplement"},
+      {"en":"handwriting","ipa":"/ˈhændraɪtɪŋ/","cn":"n. 书写，笔迹","source":"supplement"},
+      {"en":"terrible","ipa":"/ˈterəbl/","cn":"adj. 糟糕的","source":"supplement"},
+      {"en":"can","ipa":"/kæn/","cn":"aux. 能，可以","source":"supplement"},
+      {"en":"lift","ipa":"/lɪft/","cn":"v. 举起，搬起","source":"supplement"},
+      {"en":"cake","ipa":"/keɪk/","cn":"n. 蛋糕","source":"supplement"},
+      {"en":"carry","ipa":"/ˈkæri/","cn":"v. 搬运，携带","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Can you come here a minute, please?","cn":"请你来一下好吗？","source":"adaptation"},
+      {"en":"Can she type this letter for me?","cn":"她能替我打一下这封信吗？","source":"adaptation"},
+      {"en":"I can't read it!","cn":"我认不出来！（can't = cannot）","source":"adaptation"}
+    ],
+    "grammar": "can 后接动词原形，没有人称变化；否定式 can't；for me 表示“替我”。",
+    "tip": "用 Can you...? 提出请求，接受说 Of course. / Sure.，拒绝更礼貌的说法是 Sorry, I can't.",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":93,"printedPage":89,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 47,
+    "title": "A cup of coffee",
+    "titleCn": "一杯咖啡",
+    "kind": "text",
+    "words": [
+      {"en":"like","ipa":"/laɪk/","cn":"v. 喜欢","source":"supplement"},
+      {"en":"want","ipa":"/wɒnt/","cn":"v. 想要","source":"supplement"},
+      {"en":"cup","ipa":"/kʌp/","cn":"n. 杯子","source":"supplement"},
+      {"en":"black","ipa":"/blæk/","cn":"adj. 不加牛奶的；黑色的","source":"supplement"},
+      {"en":"biscuit","ipa":"/ˈbɪskɪt/","cn":"n. 饼干","source":"supplement"},
+      {"en":"fresh","ipa":"/freʃ/","cn":"adj. 新鲜的","source":"supplement"},
+      {"en":"egg","ipa":"/eɡ/","cn":"n. 鸡蛋","source":"supplement"},
+      {"en":"butter","ipa":"/ˈbʌtə/","cn":"n. 黄油","source":"supplement"},
+      {"en":"honey","ipa":"/ˈhʌni/","cn":"n. 蜂蜜","source":"supplement"},
+      {"en":"jam","ipa":"/dʒæm/","cn":"n. 果酱","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Do you like coffee?","cn":"你喜欢咖啡吗？（问长期喜好）","source":"adaptation"},
+      {"en":"Do you want a cup?","cn":"你想要一杯吗？（问此刻想要）","source":"adaptation"},
+      {"en":"Yes, please. / No, thank you.","cn":"好的，来一杯。／不用了，谢谢。","source":"adaptation"}
+    ],
+    "grammar": "Do you like...? 问习惯性喜好，回答 Yes, I do.；Do you want...? 问此时此刻想要什么；礼貌接受 Yes, please.，婉拒 No, thank you.",
+    "tip": "black coffee 指“清咖啡（不加奶）”，与颜色无关；想加奶说 with milk, please.",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":97,"printedPage":93,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  }
+]

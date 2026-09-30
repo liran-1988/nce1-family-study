@@ -1,0 +1,81 @@
+{
+  "environment": "Node VM mocked DOM, no real Android claim",
+  "tests": [
+    {
+      "name": "单题重复提交不会重复计分或跳题",
+      "status": "pass"
+    },
+    {
+      "name": "语法练再来一轮保持题型",
+      "status": "pass"
+    },
+    {
+      "name": "中译英与英译中同词稳定身份",
+      "status": "pass"
+    },
+    {
+      "name": "本地日期加1天跨月正确",
+      "status": "pass"
+    },
+    {
+      "name": "第3次错记录完整题目而非字符串误识别",
+      "status": "pass"
+    },
+    {
+      "name": "只有到期项目进入最多5项复习",
+      "status": "pass"
+    },
+    {
+      "name": "同天不能重复累加复习达成",
+      "status": "pass"
+    },
+    {
+      "name": "暂停后保留答案锁定与反馈",
+      "status": "pass"
+    },
+    {
+      "name": "结束记录仅写一次且有自然停止页",
+      "status": "pass"
+    },
+    {
+      "name": "家庭自选休息提醒可暂停而非只存在按钮",
+      "status": "pass"
+    },
+    {
+      "name": "默认关闭时长提醒不自行暂停",
+      "status": "pass"
+    },
+    {
+      "name": "来源映射10课认证边界明确",
+      "status": "pass"
+    },
+    {
+      "name": "Android运行页面无D盘媒体清单或MP4地址",
+      "status": "pass"
+    },
+    {
+      "name": "听写错误只提交一次，拼写模式不泄露英文答案",
+      "status": "pass"
+    },
+    {
+      "name": "三次到期不同日期答对归档可偶尔复习",
+      "status": "pass"
+    },
+    {
+      "name": "家长配套答案按课候选页保留",
+      "status": "pass"
+    },
+    {
+      "name": "模式选择弹层可见关闭，不要求完成所有模式",
+      "status": "pass"
+    },
+    {
+      "name": "拼写错词到期复习不沿用spell标志且正确选择可得分",
+      "status": "pass"
+    },
+    {
+      "name": "主动点连读可解除暂停但恢复页面不自动读",
+      "status": "pass"
+    }
+  ]
+}

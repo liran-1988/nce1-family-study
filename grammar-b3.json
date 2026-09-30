@@ -1,0 +1,818 @@
+{
+  "49": {
+    "title": "doesn't like 与 either",
+    "chat": "说「他喜欢」要加 s：He likes steak. 说「他不喜欢」用 doesn't + 动词原形：He doesn't like chicken.（doesn't 已经替你背了 s，后面的动词变回原形）。「我也不喜欢」在句尾用 either！",
+    "formula": "He/She + likes… ／ doesn't like… ｜ 句尾 …, either.（也<不>……）",
+    "examples": [
+      {
+        "en": "My husband doesn't like chicken.",
+        "cn": "我丈夫不喜欢鸡肉。",
+        "source": "supplement"
+      },
+      {
+        "en": "I don't like chicken either!",
+        "cn": "我也不喜欢鸡肉！",
+        "source": "supplement"
+      },
+      {
+        "en": "Do you want beef or lamb?",
+        "cn": "你要牛肉还是羔羊肉？",
+        "source": "supplement"
+      }
+    ],
+    "watch": "too 用在肯定句尾（I like it too 我也喜欢），either 用在否定句尾（I don't like it either 我也不喜欢）！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 101,
+      "printedPage": 97,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "51": {
+    "title": "What's the weather like?",
+    "chat": "问天气的专用句：What's the weather like?（天气怎么样？）——这里的 like 是「像……样子」，不是「喜欢」！季节、月份前面用 in：in spring、in March。雨和雪还能当动词：It rains. It snows.",
+    "formula": "What's the weather like in + 季节/月份? → It's windy / warm / hot.",
+    "examples": [
+      {
+        "en": "What's the climate like in your country?",
+        "cn": "你们国家气候怎么样？",
+        "source": "supplement"
+      },
+      {
+        "en": "It's often windy in March.",
+        "cn": "三月常刮风。",
+        "source": "supplement"
+      },
+      {
+        "en": "It's always hot in June, July and August.",
+        "cn": "六、七、八月总是很热。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "climate 指一个地方长期的气候特点；weather 指天气情况，可以说今天、某一天，也可以说某个季节的天气，并不只限今天。",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 105,
+      "printedPage": 101,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+      "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+    }
+  },
+  "53": {
+    "title": "方位与 favourite",
+    "chat": "说一个国家的方位要加 the：in the North（在北方）、in the East（在东方）。说「最喜欢的」用 favourite，它天生带着「最」字，前面不能再加 most！",
+    "formula": "in the North / East / South / West ｜ favourite + 名词 = 最喜欢的……",
+    "examples": [
+      {
+        "en": "It's often cold in the North.",
+        "cn": "北方常常很冷。",
+        "source": "supplement"
+      },
+      {
+        "en": "I like spring and summer best.",
+        "cn": "我最喜欢春天和夏天。",
+        "source": "supplement"
+      },
+      {
+        "en": "It's our favourite subject of conversation.",
+        "cn": "这是我们最爱聊的话题。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "favourite = 最喜欢的：不说 most favourite，「最」已经包含在里面了！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 109,
+      "printedPage": 105,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "55": {
+    "title": "一般现在时与动词的 s",
+    "chat": "讲每天的习惯动作，用一般现在时。含实义动词的肯定句中，主语是 he/she/it 等第三人称单数时，动词通常加 s 或 es：goes、does、watches、stays。always（总是）、usually（通常）、often（经常）通常放在实义动词前、be 动词后。",
+    "formula": "He/She + 实义动词s/es + 时间. ｜ always/usually/often 通常在实义动词前、be 动词后",
+    "examples": [
+      {
+        "en": "Mr. Sawyer goes to work early.",
+        "cn": "索耶先生早早去上班。",
+        "source": "supplement"
+      },
+      {
+        "en": "She always eats her lunch at noon.",
+        "cn": "她总在正午吃午饭。",
+        "source": "supplement"
+      },
+      {
+        "en": "They often drink tea together.",
+        "cn": "他们经常一起喝茶。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "三单动词忘加 s 是小学生第一大扣分点：he like ❌ → he likes ✓！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 113,
+      "printedPage": 109,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "57": {
+    "title": "两种时态同台对比",
+    "chat": "这课把两种时态放在一起对比：every day（每天，习惯）用一般现在时；this morning / at the moment（此刻）用现在进行时。整点时间用 o'clock：eight o'clock 八点整。",
+    "formula": "every day → 一般现在时 ｜ this morning / at the moment → be + 动词ing",
+    "examples": [
+      {
+        "en": "The children go to school by car every day.",
+        "cn": "孩子们每天乘车上学。",
+        "source": "supplement"
+      },
+      {
+        "en": "This morning, they are going to school on foot.",
+        "cn": "今天早上他们正步行去上学。",
+        "source": "supplement"
+      },
+      {
+        "en": "At the moment, he's reading an interesting book.",
+        "cn": "此刻，他正在读一本有趣的书。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "乘交通工具用 by：by car / by bus；只有走路用 on：on foot 步行！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 117,
+      "printedPage": 113,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "59": {
+    "title": "购物：I want some…",
+    "chat": "买东西时说要什么：I want some envelopes, please.（请给我些信封）。店员问规格：the large size or the small size?（大的还是小的？）——or 连接的叫「选择疑问句」。买完说 That's all, thank you.",
+    "formula": "I want some…, please. ｜ A or B? （选哪个？）",
+    "examples": [
+      {
+        "en": "I want some envelopes, please.",
+        "cn": "我要买些信封。",
+        "source": "supplement"
+      },
+      {
+        "en": "Do you want the large size or the small size?",
+        "cn": "您要大号的还是小号的？",
+        "source": "supplement"
+      },
+      {
+        "en": "Is that all?",
+        "cn": "就这些吗？",
+        "source": "supplement"
+      }
+    ],
+    "watch": "选择疑问句不用 Yes/No 回答，直接选一个：The large size, please.！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 121,
+      "printedPage": 117,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "61": {
+    "title": "系动词：feel 和 look",
+    "chat": "feel（感觉起来）和 look（看起来）是「系动词」，像小桥一样连接主语和形容词：He feels ill.（他觉得病了）He looks ill.（他看上去病了）。「感冒」是固定搭配 have a cold。",
+    "formula": "主语 + feel/look + 形容词 ｜ have a cold 感冒",
+    "examples": [
+      {
+        "en": "He feels ill. He looks ill.",
+        "cn": "他觉得不舒服，看上去也病了。",
+        "source": "supplement"
+      },
+      {
+        "en": "We must call the doctor.",
+        "cn": "我们得请医生。",
+        "source": "supplement"
+      },
+      {
+        "en": "He has a bad cold.",
+        "cn": "他得了重感冒。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "系动词后面跟形容词，不跟副词：look well ✓（well 这里是「健康的」这个形容词）",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 125,
+      "printedPage": 121,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "63": {
+    "title": "mustn't 不是「不必」！",
+    "chat": "must 表示「必须」。它的否定 mustn't 不是「不必」，而是「禁止、千万不要」！真正的「不必」是 needn't。这对孪生兄弟是考试最爱，千万别认错！",
+    "formula": "must = 必须 ｜ mustn't = 千万不要 ｜ needn't = 不必",
+    "examples": [
+      {
+        "en": "He mustn't get up yet.",
+        "cn": "他还不该起床。",
+        "source": "supplement"
+      },
+      {
+        "en": "He mustn't eat rich food.",
+        "cn": "他不能吃油腻的食物。",
+        "source": "supplement"
+      },
+      {
+        "en": "He must stay in bed for another two days.",
+        "cn": "他必须再卧床两天。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "Must I…? 的否定回答是 No, you needn't.（你不必），说 No, you mustn't. 就变成「禁止」啦！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 129,
+      "printedPage": 125,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "65": {
+    "title": "反身代词与 half past",
+    "chat": "自己「玩得开心」是 enjoy oneself—— oneself 就是反身代词：yourself（你自己）、ourselves（我们自己）。说「几点半」用 half past + 数字：half past ten 十点半。",
+    "formula": "enjoy oneself = 玩得开心 ｜ half past + 数字 = ……点半",
+    "examples": [
+      {
+        "en": "Enjoy yourself!",
+        "cn": "玩得开心！",
+        "source": "supplement"
+      },
+      {
+        "en": "We always enjoy ourselves.",
+        "cn": "我们总是玩得很开心。",
+        "source": "supplement"
+      },
+      {
+        "en": "You must be home at half past ten.",
+        "cn": "你必须十点半到家。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "门钥匙说 the key to the door——用 to 表示「配套的」，不用 of！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 133,
+      "printedPage": 129,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "67": {
+    "title": "be 动词的过去式：was / were",
+    "chat": "说「过去」的事，be 动词要换衣服：am/is → was，are → were。星期几前面用 on：on Monday（在星期一）。看到 last week（上周）、yesterday（昨天），就要想到过去式！",
+    "formula": "I/he/she → was ｜ you/we/they → were ｜ on + 星期几",
+    "examples": [
+      {
+        "en": "Were you at the butcher's?",
+        "cn": "你刚才在肉店吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "He was absent on Monday.",
+        "cn": "他星期一缺席了。",
+        "source": "supplement"
+      },
+      {
+        "en": "We're going to stay at my mother's for the weekend.",
+        "cn": "我们要去我妈妈家过周末。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "my mother's 后面省略了 house：'s 也能代替「某人的家」哦！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 137,
+      "printedPage": 133,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "69": {
+    "title": "there was / there were",
+    "chat": "过去「存在有」，There is/are 也要换过去式：There was（过去有一个）、There were（过去有一些）。hundred 前有具体数字不加 s：five hundred；不确指时才说 hundreds of（成百上千）。",
+    "formula": "There was + 单数 ／ There were + 复数（过去有……）",
+    "examples": [
+      {
+        "en": "There was a very big race in 1995.",
+        "cn": "1995年有一场盛大的比赛。",
+        "source": "supplement"
+      },
+      {
+        "en": "There were hundreds of people there.",
+        "cn": "那里有成百上千的人。",
+        "source": "supplement"
+      },
+      {
+        "en": "There were twenty cars in the race.",
+        "cn": "比赛有20辆车。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "exciting 形容事物「令人激动」：an exciting finish 激动人心的结尾！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 141,
+      "printedPage": 137,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+      "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+    }
+  },
+  "71": {
+    "title": "动词过去式：加 ed",
+    "chat": "规则动词的过去式直接加 ed：telephoned、answered、typed。说「几次」用 times：一次 once、两次 twice、四次 four times。问过去的事用 did 开头，后面的动词变回原形！",
+    "formula": "动词 + ed = 过去式 ｜ once 一次 → twice 两次 → …times",
+    "examples": [
+      {
+        "en": "He telephoned me four times yesterday.",
+        "cn": "他昨天给我打了4次电话。",
+        "source": "supplement"
+      },
+      {
+        "en": "My boss answered the telephone.",
+        "cn": "我老板接了电话。",
+        "source": "supplement"
+      },
+      {
+        "en": "Did he telephone again?",
+        "cn": "他又打电话了吗？",
+        "source": "supplement"
+      }
+    ],
+    "watch": "did 后面的动词要「脱掉」ed 变回原形：Did he telephoned ❌ → Did he telephone ✓！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 145,
+      "printedPage": 141,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, complete English-body and speaker",
+      "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+    }
+  },
+  "73": {
+    "title": "不规则动词家族",
+    "chat": "英语有一批「不规则动词」，过去式要单独记，像记名字一样：go→went、lose→lost、see→saw、speak→spoke、take→took。问路句型 Can you tell me the way to…? 也超实用！",
+    "formula": "go→went ｜ lose→lost ｜ see→saw ｜ speak→spoke ｜ take→took",
+    "examples": [
+      {
+        "en": "Last week Mrs. Mills went to London.",
+        "cn": "上周米尔斯夫人去了伦敦。",
+        "source": "supplement"
+      },
+      {
+        "en": "She lost her way.",
+        "cn": "她迷路了。",
+        "source": "supplement"
+      },
+      {
+        "en": "Can you tell me the way to King Street, please?",
+        "cn": "请问到国王街怎么走？",
+        "source": "supplement"
+      }
+    ],
+    "watch": "很多副词 = 形容词 + ly：slow→slowly（慢慢地）、sudden→suddenly（突然地）！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 153,
+      "printedPage": 149,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "75": {
+    "title": "ago：过去的信号灯",
+    "chat": "「一段时间 + ago」是一般过去时的信号灯：a month ago（一个月前）→ 用过去式 bought。「在流行」是 in fashion，「过时了」是 out of fashion。",
+    "formula": "时间段 + ago → 一般过去时 ｜ in fashion 流行 ⇄ out of fashion 过时",
+    "examples": [
+      {
+        "en": "We had some shoes like those a month ago.",
+        "cn": "一个月前我们有那种鞋。",
+        "source": "supplement"
+      },
+      {
+        "en": "They were in fashion last year.",
+        "cn": "它们去年很流行。",
+        "source": "supplement"
+      },
+      {
+        "en": "But they're not in fashion this year.",
+        "cn": "但今年不流行了。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "buy 的过去式不规则：buy → bought！wear → wore（穿的过去式）也是。",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 157,
+      "printedPage": 153,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "77": {
+    "title": "否定疑问句的语气",
+    "chat": "Can't you…? 是否定疑问句，带着「你就不能……吗？」的语气（有点不耐烦或惊讶）。till = until，表示「直到……」。看病先问：Do you have an appointment?（您预约了吗？）",
+    "formula": "Can't you + 动词…? （你就不能……吗？）｜ wait till… 等到……",
+    "examples": [
+      {
+        "en": "Do you have an appointment?",
+        "cn": "您预约了吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "Is it urgent?",
+        "cn": "急吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "Can't you wait till this afternoon?",
+        "cn": "您就不能等到今天下午吗？",
+        "source": "supplement"
+      }
+    ],
+    "watch": "牙疼是 have a toothache；看牙医是 see the dentist——两个固定搭配一起记！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 161,
+      "printedPage": 157,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "79": {
+    "title": "have got 与 much/many",
+    "chat": "have got 就是 have 的口语版：We haven't got much tea.（我们的茶不多了）。量词怎么选？much 配「数不清」的（much money），many 配「数得清」的（many eggs），a lot of 两者通吃！",
+    "formula": "haven't got = don't have ｜ much + 不可数 ／ many + 可数 ／ a lot of 都可以",
+    "examples": [
+      {
+        "en": "We haven't got much tea or coffee.",
+        "cn": "我们的茶和咖啡不多了。",
+        "source": "supplement"
+      },
+      {
+        "en": "We need a lot of things this week.",
+        "cn": "这里期我们需要很多东西。",
+        "source": "supplement"
+      },
+      {
+        "en": "Have we got any beer and wine?",
+        "cn": "我们还有啤酒和果酒吗？",
+        "source": "supplement"
+      }
+    ],
+    "watch": "money 数不清：much money ✓ many money ❌！tomatoes 数得清：many tomatoes ✓",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 165,
+      "printedPage": 161,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "81": {
+    "title": "have 不只是「有」",
+    "chat": "have + 名词 = 「做某件事」：have a bath 洗澡、have lunch 吃午饭、have a haircut 理发。因为是「做事」，它能用进行时：He's having a bath.（他正在洗澡）。have 的过去式是 had！",
+    "formula": "have a bath / have lunch / have a haircut ｜ What did you have?（你们吃了什么？）",
+    "examples": [
+      {
+        "en": "He's upstairs. He's having a bath.",
+        "cn": "他在楼上洗澡呢。",
+        "source": "supplement"
+      },
+      {
+        "en": "What did you have for lunch?",
+        "cn": "你们午饭吃了什么？",
+        "source": "supplement"
+      },
+      {
+        "en": "We had roast beef and potatoes.",
+        "cn": "我们吃了烤牛肉和土豆。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "问句里已经有 did，动词用原形：What did you had ❌ → What did you have ✓！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 169,
+      "printedPage": 165,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "83": {
+    "title": "现在完成时登场",
+    "chat": "现在完成时 = have/has + 过去分词，表示「已经做完，跟现在有关系」。already（已经）放在句中；yet（还）放在句尾，只出现在疑问句和否定句里。",
+    "formula": "主语 + have/has + 过去分词 ｜ Have you…yet? → I've already…",
+    "examples": [
+      {
+        "en": "Have you packed your suitcase yet?",
+        "cn": "你行李箱收拾好了吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "I've already packed it.",
+        "cn": "我已经收拾好了。",
+        "source": "supplement"
+      },
+      {
+        "en": "I've just had a cup of coffee.",
+        "cn": "我刚喝了一杯咖啡。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "pack→packed，have→had；go 的过去分词是 gone：be→was/were→been。",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 173,
+      "printedPage": 169,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "85": {
+    "title": "have been to 与 have gone to",
+    "chat": "「去过某地」（人已回来）用 have been to；「去了某地」（人还没回）用 have gone to。谈「人生的经历」用 ever（曾经）提问、never（从未）回答。",
+    "formula": "have been to 去过（已回）｜ have gone to 去了（未回）｜ ever / never",
+    "examples": [
+      {
+        "en": "Have you just been to the cinema?",
+        "cn": "你刚去过电影院吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "I've never been there.",
+        "cn": "我从没去过那儿。",
+        "source": "supplement"
+      },
+      {
+        "en": "Have you ever been there, Ken?",
+        "cn": "肯，你去过那儿吗？",
+        "source": "supplement"
+      }
+    ],
+    "watch": "been 是 be 的过去分词；seen 是 see 的过去分词（see→saw→seen）！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 177,
+      "printedPage": 173,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "87": {
+    "title": "still 与 yet 的位置",
+    "chat": "still（仍然）放在 be 动词后面：They're still working on it.（他们还在修呢）。yet（还）放在句尾，配合否定：not ready yet（还没好）。两个不规则过去式一起记：drive→drove、bring→brought。",
+    "formula": "主语 + be + still + 动词ing ｜ not… yet 还没……",
+    "examples": [
+      {
+        "en": "Isn't your car ready yet?",
+        "cn": "你的车还没好吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "They're still working on it.",
+        "cn": "他们还在修呢。",
+        "source": "supplement"
+      },
+      {
+        "en": "I drove it into a lamp-post.",
+        "cn": "我把它撞到路灯杆上了。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "try to do = 设法做：They're trying to repair it. 他们正设法修。",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 181,
+      "printedPage": 177,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "89": {
+    "title": "for 和 since 的分工",
+    "chat": "现在完成时说「持续了多久」：for + 一段时间（for twenty years 二十年），since + 起点（since 1976 从1976年起）。问价钱用 How much…? 问时长用 How long…?",
+    "formula": "have + 过去分词 + for + 时间段 ／ since + 时间点",
+    "examples": [
+      {
+        "en": "How long have you lived here?",
+        "cn": "您在这里住了多久？",
+        "source": "supplement"
+      },
+      {
+        "en": "I've lived here for twenty years.",
+        "cn": "我住了20年了。",
+        "source": "supplement"
+      },
+      {
+        "en": "I've been here since 1976.",
+        "cn": "我从1976年起就住这儿。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "for 后面跟「20年」这样的长度，since 后面跟「1976年」这样的起点，一个管长度、一个管起点！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 185,
+      "printedPage": 181,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "91": {
+    "title": "Has he…yet? 与 will",
+    "chat": "现在完成时的一般疑问句把 Have/Has 提前：Has he sold his house yet?（他卖掉房子了吗？）；yet 在这里表示“已经”，并不是每个疑问句都必须加 yet。will 表示将来：I’ll miss him.（我会想念他）。本课 He’s still here 中 still 放在 be 动词后。",
+    "formula": "Has + 主语 + 过去分词 + yet? ｜ 主语 + will + 动词原形",
+    "examples": [
+      {
+        "en": "Has Ian sold his house yet?",
+        "cn": "伊恩把房子卖了吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "He's going to move tomorrow.",
+        "cn": "他打算明天搬家。",
+        "source": "supplement"
+      },
+      {
+        "en": "We'll all miss him.",
+        "cn": "我们都会想念他的。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "miss 有两个意思：想念朋友／错过公交车（I missed the bus!）",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 189,
+      "printedPage": 185,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+      "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+    }
+  },
+  "93": {
+    "title": "will：将来的车票",
+    "chat": "will + 动词原形 = 将来做某事：He will fly to New York. 缩写成 he'll。时间轴背下来：last week 上周 → next month 下个月 → the week after next 下下周。",
+    "formula": "主语 + will + 动词原形（将要……）",
+    "examples": [
+      {
+        "en": "He will fly to New York next month.",
+        "cn": "他下个月将飞往纽约。",
+        "source": "supplement"
+      },
+      {
+        "en": "He'll return to London the week after next.",
+        "cn": "他下下周回伦敦。",
+        "source": "supplement"
+      },
+      {
+        "en": "He has already been to nearly every country.",
+        "cn": "他几乎已经去过每个国家。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "fly to… 就是「飞去……」，return to… 是「回到……」——to 后面跟地点！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 193,
+      "printedPage": 189,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "95": {
+    "title": "had better：最好做……",
+    "chat": "had better + 动词原形 = 「最好做……」，谁用都不变形：We had better go.（我们最好走）。问将来的时间点：What time will…?",
+    "formula": "had better + 动词原形 = 最好…… ｜ What time will…?",
+    "examples": [
+      {
+        "en": "What time will the next train leave?",
+        "cn": "下一班火车几点开？",
+        "source": "supplement"
+      },
+      {
+        "en": "We had better go back to the station now.",
+        "cn": "我们现在最好回车站去。",
+        "source": "supplement"
+      },
+      {
+        "en": "We've got plenty of time.",
+        "cn": "我们的时间还很充裕。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "had better 缩写成 'd better：We'd better hurry!（我们最好快点！）",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 197,
+      "printedPage": 193,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  }
+}

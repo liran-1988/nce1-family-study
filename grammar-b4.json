@@ -1,0 +1,813 @@
+{
+  "97": {
+    "title": "have got 与 belong to",
+    "chat": "have got 就是 have：It's got a zip.（它带拉链）。「属于某人」用 belong to：This case doesn't belong to me.（这箱子不是我的）。描述东西时形容词有排队规则：大小 → 颜色 → 名词。",
+    "formula": "a + 大小 + 颜色 + 名词：a small blue case ｜ belong to + 人",
+    "examples": [
+      {
+        "en": "It's a small blue case and it's got a zip.",
+        "cn": "是只蓝色小箱子，带拉链。",
+        "source": "supplement"
+      },
+      {
+        "en": "Can you describe it?",
+        "cn": "您能描述一下吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "This case doesn't belong to me!",
+        "cn": "这箱子不是我的！",
+        "source": "supplement"
+      }
+    ],
+    "watch": "belong to 后面跟人或 me/him：belong to me ✓ belong to my ❌！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 201,
+      "printedPage": 197,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "99": {
+    "title": "反身代词与三态同形",
+    "chat": "动作落在自己身上，要用反身代词：hurt yourself（伤到你自己）。hurt 这个词三态同形：hurt-hurt-hurt，过去式不用变！「我确信……」：I'm sure (that)…",
+    "formula": "hurt oneself 伤到自己 ｜ I'm sure (that) + 句子",
+    "examples": [
+      {
+        "en": "Have you hurt yourself?",
+        "cn": "你伤到自己了吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "I think that I've hurt my back.",
+        "cn": "我想我把背摔伤了。",
+        "source": "supplement"
+      },
+      {
+        "en": "I'm sure that you need an X-ray.",
+        "cn": "我看你需要拍张X光片。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "三态同形小家族：hurt / hit / cut——过去式和原形长得一模一样！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 205,
+      "printedPage": 201,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "101": {
+    "title": "says that：转述刚说的话",
+    "chat": "把别人说的话转告给别人，用 He says (that) + 原话。小 that 可以省略，引号也不需要了，时态跟原话保持一致。",
+    "formula": "He says (that) + 他说的内容",
+    "examples": [
+      {
+        "en": "He says he's just arrived in Scotland.",
+        "cn": "他说他刚到苏格兰。",
+        "source": "supplement"
+      },
+      {
+        "en": "He says he's staying at a Youth Hostel.",
+        "cn": "他说他住在青年招待所。",
+        "source": "supplement"
+      },
+      {
+        "en": "He says he'll write a letter soon.",
+        "cn": "他说他很快会写信来。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "say 后面不接人；要接人说 tell：He tells me…（他告诉我……）！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 209,
+      "printedPage": 205,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "103": {
+    "title": "too 与 enough：一前一后",
+    "chat": "too 和 enough 都管「程度」，位置正好相反：too + 形容词（太……而做不到），形容词 + enough（足够……）。「我认为……」用 I think (that)…",
+    "formula": "too + 形容词（太……）｜ 形容词 + enough（足够……）",
+    "examples": [
+      {
+        "en": "The paper wasn't easy enough for me.",
+        "cn": "试卷对我来说不够容易。",
+        "source": "supplement"
+      },
+      {
+        "en": "They were too difficult for me.",
+        "cn": "它们对我来说太难了。",
+        "source": "supplement"
+      },
+      {
+        "en": "I think I passed.",
+        "cn": "我想我及格了。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "enough 永远跟在形容词后面：easy enough ✓ enough easy ❌！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 213,
+      "printedPage": 209,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "105": {
+    "title": "want sb to do sth",
+    "chat": "要「某人去做某事」，公式是 want + 人 + to + 动词原形：I want her to come to my office.（我要她来我办公室）。「犯错误」固定说 make a mistake。",
+    "formula": "want + 人 + to + 动词原形（要某人做……）",
+    "examples": [
+      {
+        "en": "I want her to type this letter again.",
+        "cn": "我要她把这封信再打一遍。",
+        "source": "supplement"
+      },
+      {
+        "en": "Tell her to come at once.",
+        "cn": "叫她马上来。",
+        "source": "supplement"
+      },
+      {
+        "en": "You've made seventeen mistakes.",
+        "cn": "你犯了17处错误。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "to 后面的动作是「对方」做的：I want you to spell it. 是要「你」来拼，不是我拼！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 217,
+      "printedPage": 213,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "107": {
+    "title": "比较级：谁更……",
+    "chat": "比较两个东西，用比较级：短形容词 + er + than。pretty 变 y 为 i 加 er：prettier；big 双写 g：bigger。too…for me = 对我来说太……",
+    "formula": "A + 形容词er + than + B（A 比 B 更……）",
+    "examples": [
+      {
+        "en": "It's a lovely dress, but it's too small for me.",
+        "cn": "裙子很漂亮，但我穿太小。",
+        "source": "supplement"
+      },
+      {
+        "en": "Short skirts are in fashion now.",
+        "cn": "现在流行短裙。",
+        "source": "supplement"
+      },
+      {
+        "en": "This one's prettier than that one.",
+        "cn": "这件比那件更漂亮。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "变尾三规则：y→ier（pretty→prettier）、双写（big→bigger）、直接加（long→longer）！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 221,
+      "printedPage": 217,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "109": {
+    "title": "Shall I…? 与 a little/a few",
+    "chat": "主动提出帮忙：Shall I…?（我来……好吗？）。「一点」分两种：a little 配不可数名词（a little milk 一点牛奶），a few 配可数名词（a few biscuits 几块饼干）。",
+    "formula": "Shall I + 动词…? ｜ a little + 不可数 ／ a few + 可数",
+    "examples": [
+      {
+        "en": "Shall I make some coffee, Jane?",
+        "cn": "简，我来煮点咖啡好吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "Just a little, please.",
+        "cn": "请放一点点。",
+        "source": "supplement"
+      },
+      {
+        "en": "What a pity!",
+        "cn": "真遗憾！",
+        "source": "supplement"
+      }
+    ],
+    "watch": "advice（建议）不可数：a piece of advice ✓ an advice ❌！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 225,
+      "printedPage": 221,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "111": {
+    "title": "最高级：谁最……",
+    "chat": "三个以上比高低，用最高级：多音节形容词用 the most（the most expensive 最贵的）；「不如……贵」用 less expensive。付不起说 can't afford。",
+    "formula": "the most + 形容词（最……）｜ less + 形容词 + than（不如……）",
+    "examples": [
+      {
+        "en": "It's the most expensive model in the shop.",
+        "cn": "它是店里最贵的型号。",
+        "source": "supplement"
+      },
+      {
+        "en": "This model's less expensive than that one.",
+        "cn": "这台比那台便宜些。",
+        "source": "supplement"
+      },
+      {
+        "en": "We can't afford all that money.",
+        "cn": "我们付不起那么多钱。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "比较级 → 最高级三兄弟：more → the most；prettier → the prettiest！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 229,
+      "printedPage": 225,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "113": {
+    "title": "Neither can I：我也不",
+    "chat": "回应别人的否定情况，把 Neither 提到最前面，后面的词序要「倒」过来：Neither can I.（我也不能）。none 表示「一个也没有」：I've got none.",
+    "formula": "Neither + 助动词 + 主语 = ……也不 ｜ none = 一个也没有",
+    "examples": [
+      {
+        "en": "I can't change a ten-pound note.",
+        "cn": "我找不开10镑的钞票。",
+        "source": "supplement"
+      },
+      {
+        "en": "Neither can I.",
+        "cn": "我也找不开。",
+        "source": "supplement"
+      },
+      {
+        "en": "Haven't you got any small change?",
+        "cn": "您没有零钱吗？",
+        "source": "supplement"
+      }
+    ],
+    "watch": "回应否定用 Neither have I / Neither can I（我也<不>……）；Me too 是回应肯定句的！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 233,
+      "printedPage": 229,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "115": {
+    "title": "复合不定代词都是「单数」",
+    "chat": "anyone（任何人）、nobody（没人）、everything（一切）这些词虽然意思像「很多」，但都当单数用：Everything's quiet.（一切都很安静）。修饰它们的词要放在后面。",
+    "formula": "everyone / anyone / nobody / nothing + 单数动词 ｜ 修饰语后置",
+    "examples": [
+      {
+        "en": "Isn't there anyone at home?",
+        "cn": "家里没有人吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "Everything's very quiet.",
+        "cn": "四周静悄悄的。",
+        "source": "supplement"
+      },
+      {
+        "en": "Everyone's in the garden.",
+        "cn": "大家都在花园里。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "形容词后置：something nice（好东西）。anyone 常用于疑问、否定语境，someone 也可用于期待肯定回答的问句；本课原句用 anyone，不是说所有问句都必须用它。",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 237,
+      "printedPage": 233,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+      "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+    }
+  },
+  "117": {
+    "title": "过去进行时：过去的「直播」",
+    "chat": "过去进行时 = was/were + 动词ing，表示「过去那一刻正在做」。讲故事时：长动作用进行时当背景，短动作用过去式突然打断——when/while 负责报时！",
+    "formula": "was/were + 动词ing（过去正在……）｜ when/while + 从句",
+    "examples": [
+      {
+        "en": "When my husband was going into the dining room, he dropped some coins.",
+        "cn": "丈夫走进饭厅时，硬币掉在了地上。",
+        "source": "supplement"
+      },
+      {
+        "en": "While we were having breakfast, Tommy found two small coins.",
+        "cn": "我们吃早饭时，汤米找到了两枚硬币。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "长动作（was going）当背景，短动作（dropped）是主角——进行时负责「画面」，过去式负责「事件」！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 241,
+      "printedPage": 237,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "119": {
+    "title": "happen to 与 as…as",
+    "chat": "happen（发生）后面用 to 接人：It happened to me.（发生在我身上）。「尽可能快」= as quickly as they could（as…as 中间放副词）。happen 没有被动语态！",
+    "formula": "happen to sb 发生在某人身上 ｜ as + 副词 + as one can = 尽可能……",
+    "examples": [
+      {
+        "en": "It happened to a friend of mine a year ago.",
+        "cn": "这是一年前发生在我朋友身上的事。",
+        "source": "supplement"
+      },
+      {
+        "en": "They ran away as quickly as they could.",
+        "cn": "他们飞快地逃走了。",
+        "source": "supplement"
+      },
+      {
+        "en": "What's up?",
+        "cn": "怎么回事？",
+        "source": "supplement"
+      }
+    ],
+    "watch": "happen 不能用被动：It was happened ❌ → It happened ✓！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 245,
+      "printedPage": 241,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "121": {
+    "title": "定语从句：贴在名词后的说明",
+    "chat": "想给名词加一段说明（……的那个人/东西），用定语从句。本课用 who/that 说明人、which 说明物：The lady who is standing behind the counter.（站在柜台后面的女士。）接待顾客的是卡罗琳，戴帽子的是顾客。",
+    "formula": "本课：人 + who/that + 说明 ｜ 物 + which + 说明",
+    "examples": [
+      {
+        "en": "Who served you, sir?",
+        "cn": "先生，是谁接待您的？",
+        "source": "supplement"
+      },
+      {
+        "en": "The lady who is standing behind the counter.",
+        "cn": "站在柜台后面的那位女士。",
+        "source": "supplement"
+      },
+      {
+        "en": "The books which are on the counter.",
+        "cn": "柜台上的那些书。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "从句是名词的「小尾巴」，必须紧贴在名词后面，不能甩到句尾哦！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 249,
+      "printedPage": 245,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, complete English-body and speaker",
+      "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+    }
+  },
+  "123": {
+    "title": "during 与过去式拍档",
+    "chat": "during + 名词表示「在……期间」：during the trip（旅行期间）。两个新过去式：grow→grew（grow a beard 留胡子）、shave…off（刮掉）。",
+    "formula": "during + 名词（在……期间）｜ grow a beard 留胡子 ｜ shave it off 刮掉",
+    "examples": [
+      {
+        "en": "This is a photograph I took during my trip to Australia.",
+        "cn": "这是我在澳大利亚旅行期间拍的一张照片。",
+        "source": "supplement"
+      },
+      {
+        "en": "I grew a beard during the trip.",
+        "cn": "我旅行时留了胡子。",
+        "source": "supplement"
+      },
+      {
+        "en": "But I shaved it off when I came home.",
+        "cn": "但我到家就刮掉了。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "during + 名词，while + 句子：during the trip = while I was travelling！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 253,
+      "printedPage": 249,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+      "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+    }
+  },
+  "125": {
+    "title": "have to 与 needn't 再登场",
+    "chat": "have to 表示「客观上不得不」（三单变 has to）；「不必」是 needn't！再强调一次：mustn't 是「禁止」，needn't 才是「不必」，这对兄弟总在考试出现！",
+    "formula": "have to = 不得不 ｜ needn't = 不必 ｜ mustn't = 禁止",
+    "examples": [
+      {
+        "en": "Do you have to water it now?",
+        "cn": "你一定得现在浇吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "I'm afraid I do. It's terribly dry.",
+        "cn": "恐怕得浇，天太干了。",
+        "source": "supplement"
+      },
+      {
+        "en": "You needn't water the garden.",
+        "cn": "你不用浇花园了。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "感叹句公式：What a + 名词！What a nuisance!（真讨厌！）What a pity!（真遗憾！）",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 257,
+      "printedPage": 253,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "127": {
+    "title": "must be：有把握的推测",
+    "chat": "看到证据猜年龄，用 must be（肯定是）：She must be at least forty.（她肯定至少40岁）。发表看法用 In my opinion…（依我看）。",
+    "formula": "must be = 一定是（很有把握）｜ may be = 可能是 ｜ can't be = 不可能是",
+    "examples": [
+      {
+        "en": "She must be at least forty.",
+        "cn": "她一定至少有四十岁了。",
+        "source": "supplement"
+      },
+      {
+        "en": "I read she's twenty-nine, but she must be at least forty.",
+        "cn": "我读到她是二十九岁，但她一定至少有四十岁了。",
+        "source": "supplement"
+      },
+      {
+        "en": "She was a famous actress when I was still at school.",
+        "cn": "我还在上学时，她就已经是著名的女演员了。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "推测三档口诀：must be 肯定是 → may be 也许是 → can't be 不可能是！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 261,
+      "printedPage": 257,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, complete English-body and speaker",
+      "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+    }
+  },
+  "129": {
+    "title": "推测过去：must have been",
+    "chat": "推测「过去肯定发生了什么」，用 must have been / must have been doing：You must have been driving at seventy.（你当时肯定开到70迈了）。否定推测用 can't have been.",
+    "formula": "must have been…（过去一定是）｜ can't have been…（过去不可能）",
+    "examples": [
+      {
+        "en": "You must have been driving at seventy miles an hour.",
+        "cn": "你当时一定以每小时70英里行驶。",
+        "source": "supplement"
+      },
+      {
+        "en": "I can't have been.",
+        "cn": "我不可能。",
+        "source": "supplement"
+      },
+      {
+        "en": "I was doing eighty when I overtook you.",
+        "cn": "我超你车时开到80迈。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "说「以……速度」用介词 at：drive at seventy miles an hour！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 265,
+      "printedPage": 261,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "131": {
+    "title": "may / might：可能性",
+    "chat": "不太确定的事用 may 或 might + 动词原形：We may go abroad.（我们可能出国）。might 比 may 把握更小。「担心……」用 worry about。abroad 是副词，前面不加 to！",
+    "formula": "may / might + 动词原形 = 可能……",
+    "examples": [
+      {
+        "en": "We may go abroad.",
+        "cn": "我们可能出国。",
+        "source": "supplement"
+      },
+      {
+        "en": "My wife wants to go to Egypt, so I may go there.",
+        "cn": "我妻子想去埃及，所以我可能去那儿。",
+        "source": "supplement"
+      },
+      {
+        "en": "My wife always worries too much.",
+        "cn": "我妻子总是忧心忡忡。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "go abroad 出国 ✓ go to abroad ❌——abroad 前面千万不要 to！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 269,
+      "printedPage": 265,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "133": {
+    "title": "转述过去：时态后退一步",
+    "chat": "把过去说的话转述给别人，时态要「后退一步」：am/is going to → was going to。She said she was going to retire.（她说她准备退休。）say 后不接人，tell 后必须接人！",
+    "formula": "She said (that) she was going to… ｜ She told me (that)…",
+    "examples": [
+      {
+        "en": "Have you just made a new film, Miss Marsh?",
+        "cn": "马什小姐，您刚拍完新电影吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "She said she was going to retire.",
+        "cn": "她说她准备退休。",
+        "source": "supplement"
+      },
+      {
+        "en": "I wonder why!",
+        "cn": "我很想知道为什么！",
+        "source": "supplement"
+      }
+    ],
+    "watch": "直接引语变转述：I'm tired → She said she was tired.（am 后退成 was）！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 273,
+      "printedPage": 269,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "135": {
+    "title": "转述将来：will 变 would",
+    "chat": "转述「将来的打算」，will 要变成 would：She said she would ask her future husband.（她说她会问未婚夫）。get married = 结婚；最新的 = the latest。",
+    "formula": "said (that) + 主语 + would + 动词原形",
+    "examples": [
+      {
+        "en": "Are you really going to retire?",
+        "cn": "您真准备退休吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "I can't make up my mind.",
+        "cn": "我还拿不定主意。",
+        "source": "supplement"
+      },
+      {
+        "en": "She said she would have to ask her future husband.",
+        "cn": "她说她得问问未婚夫。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "would 是 will 的过去式：I will… → He said he would…——总是后退一步！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 277,
+      "printedPage": 273,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "137": {
+    "title": "if 条件句：主将从现",
+    "chat": "真实的假设用 if 条件句，口诀「主将从现」：if 从句用一般现在时，主句用 will：If we win, we'll travel round the world.（如果赢了，我们就环游世界。）",
+    "formula": "If + 一般现在时, 主语 + will + 动词原形",
+    "examples": [
+      {
+        "en": "What will you do if you win a lot of money?",
+        "cn": "如果你赢了很多钱，你会做什么？",
+        "source": "supplement"
+      },
+      {
+        "en": "If we win the pools, we'll travel round the world.",
+        "cn": "如果我们赢了，我们就环游世界。",
+        "source": "supplement"
+      },
+      {
+        "en": "If we spend all the money we'll be poor again.",
+        "cn": "把钱花光我们又会变穷的。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "if 后面绝对不能用 will：If we'll win ❌ → If we win ✓——这就是「主将从现」！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 281,
+      "printedPage": 277,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "139": {
+    "title": "电话用语：Is that…?",
+    "chat": "英语打电话问「你是……吗」用 Is that…?，回答 Yes, speaking.（我是，请讲）。转告某人一件事：tell + 人 + (that) + 内容。",
+    "formula": "Is that…(名字)? → Yes, speaking. ｜ tell + 人 + (that) + 句子",
+    "examples": [
+      {
+        "en": "Is that you, John?",
+        "cn": "是你吗，约翰？",
+        "source": "supplement"
+      },
+      {
+        "en": "Yes, speaking.",
+        "cn": "是我，请讲。",
+        "source": "supplement"
+      },
+      {
+        "en": "Tell Mary we'll be late for dinner this evening.",
+        "cn": "告诉玛丽，今晚吃饭我们会晚到。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "电话开场介绍自己常用 This is…；本课核实姓名时也说 Yes, I’m John Smith.。格雷厄姆认错了同名的人，接电话的是正在修理线路的电话工程师。",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 285,
+      "printedPage": 281,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, complete English-body and speaker",
+      "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+    }
+  },
+  "141": {
+    "title": "被动语态与过去完成时",
+    "chat": "动作「落在」主语头上，用被动语态：was invited（被邀请）= be + 过去分词。过去完成时 had done 表示「过去的过去」：她上车之前从未坐过火车 → She had never travelled by train before.",
+    "formula": "was/were + 过去分词（被……）｜ had + 过去分词（过去以前就……）",
+    "examples": [
+      {
+        "en": "Sally was invited to a children's party.",
+        "cn": "萨莉被邀请参加儿童聚会。",
+        "source": "supplement"
+      },
+      {
+        "en": "She had never travelled on a train before.",
+        "cn": "她之前从未坐过火车。",
+        "source": "supplement"
+      },
+      {
+        "en": "She sat opposite Sally.",
+        "cn": "她坐在萨莉对面。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "excited 人感到兴奋，exciting 事物令人兴奋：Sally was excited.（萨莉很兴奋）！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 289,
+      "printedPage": 285,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "143": {
+    "title": "被动语态大集合（毕业课）",
+    "chat": "本课回顾几种被动表达：is surrounded（被环绕）、have been asked（已被要求）、will be prosecuted（将被依法检控）。which 也可以补充说明名词：a sign which said…（一块写着……的牌子）。",
+    "formula": "is/are + 过去分词 ｜ have/has been + 过去分词 ｜ will be + 过去分词",
+    "examples": [
+      {
+        "en": "The town is surrounded by beautiful woods.",
+        "cn": "小镇被美丽的树林环绕。",
+        "source": "supplement"
+      },
+      {
+        "en": "Visitors have been asked to keep the woods clean.",
+        "cn": "游客已被要求保持树林整洁。",
+        "source": "supplement"
+      },
+      {
+        "en": "Anyone who leaves litter will be prosecuted!",
+        "cn": "乱扔垃圾者将被依法处置！",
+        "source": "supplement"
+      }
+    ],
+    "watch": "surrounded by woods 表示“被树林环绕”；by 在这里引出周围的事物。先理解课文，再分句复习，不必一次背全所有形式。",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 293,
+      "printedPage": 289,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+      "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "apk": "nce1-family-offline.apk",
+  "bytes": 10913676,
+  "sha256": "77bf8c3ed6f42b3ec4a1a27688586c541eb0cc4a2b1c62ec57228970a28294a9",
+  "indexSha256": "f5d35fe72c7b97085ba4c6788172de5b1a76fde88596c815defffcfc4a929100",
+  "mappingSha256": "77f28ae9fc0278420ff04a3476d36727fede50fc4d413c1cfed3ee359e0df37a",
+  "versionCode": 5,
+  "minSdk": 26,
+  "targetSdk": 34,
+  "permissions": [],
+  "installationTest": "NOT YET VERIFIED",
+  "pdfs": {
+    "student": {
+      "bytes": 9782353,
+      "sha256": "df385269f6502f201fc5689683f9163205202e8b0b735fd9a388b2c7982ba2b3"
+    },
+    "workbook": {
+      "bytes": 623694,
+      "sha256": "e5434ecdd3a268b35ef50551ef72d40e0b179af0c1b872b533bcf856553737c2"
+    },
+    "teacher": {
+      "bytes": 1001359,
+      "sha256": "f0b0d108128844a9b56e1a86960089901dc0911edf64858180dec3a36c15cc0b"
+    }
+  }
+}

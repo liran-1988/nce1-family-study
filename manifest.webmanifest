@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "新概念英语家庭学习",
+  "short_name": "新概念1",
+  "description": "新概念英语第一册家庭学习。课文练习可离线；视频后续走 OSS。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#4f6ef7",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

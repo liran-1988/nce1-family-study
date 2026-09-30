@@ -1,0 +1,410 @@
+{
+  "25": {
+    "title": "There is：说「哪里有什么」",
+    "chat": "想告诉别人房间里有什么东西，用 There is + 一个东西 + 位置。位置词很重要：on the right 在右边，on the left 在左边，in the middle 在中间。记住：说「某处有」用 There is，不能用 Have！",
+    "formula": "There is + a/an + 东西 + 位置. （某处有一个……）",
+    "examples": [
+      {
+        "en": "There is a refrigerator in the kitchen.",
+        "cn": "厨房里有台冰箱。",
+        "source": "supplement"
+      },
+      {
+        "en": "The cooker is on the left.",
+        "cn": "炉子在左边。",
+        "source": "supplement"
+      },
+      {
+        "en": "There is a table in the middle of the room.",
+        "cn": "房间中央有张桌子。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "「某处有」用 There is，「某人有」才用 have：There is a TV in the room. ／ I have a TV.",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 53,
+      "printedPage": 49,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "27": {
+    "title": "There are：东西变多了",
+    "chat": "东西从「一个」变成「好几个」，There is 就要变身 There are！问它们在哪里：Where are they? 回答用方位短语：near the door（在门附近）、on the wall（在墙上）。",
+    "formula": "There are + 复数名词 + 位置. ｜ Where is it?（单个）／ Where are they?（多个）",
+    "examples": [
+      {
+        "en": "There are some armchairs in the room.",
+        "cn": "房间里有几把扶手椅。",
+        "source": "supplement"
+      },
+      {
+        "en": "The pictures are on the wall.",
+        "cn": "画挂在墙上。",
+        "source": "supplement"
+      },
+      {
+        "en": "There are some books on the stereo.",
+        "cn": "音响上放着几本书。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "先数一数：一个用 There is，两个以上用 There are——这是最容易混的一对！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 57,
+      "printedPage": 53,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "29": {
+    "title": "祈使句：下指令的话",
+    "chat": "祈使句就是「指令句」，老师每天在说：Open the window!（开窗！）Shut the door!（关门！）它直接用动词开头，没有主语，加 please 就变礼貌。说「必须做什么」用 must + 动词原形。",
+    "formula": "动词原形 + 宾语 (+ please). ｜ must + 动词原形 = 必须",
+    "examples": [
+      {
+        "en": "Open the window and air the room.",
+        "cn": "打开窗户，给房间通风。",
+        "source": "supplement"
+      },
+      {
+        "en": "Then make the bed.",
+        "cn": "然后整理床铺。",
+        "source": "supplement"
+      },
+      {
+        "en": "What must I do, Mrs. Jones?",
+        "cn": "我必须做什么呢，琼斯太太？",
+        "source": "supplement"
+      }
+    ],
+    "watch": "祈使句的否定在前面加 Don't：Don't shut the door!（别关门！）——不是 not 开头哦！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 61,
+      "printedPage": 57,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "31": {
+    "title": "现在进行时：正在播的动作",
+    "chat": "现在进行时就像给动作拍「正在播」的视频：be（am/is/are）+ 动词ing。她正坐着 She's sitting.。问「正在做什么」：What's she doing? 回答也用进行时。",
+    "formula": "主语 + am/is/are + 动词ing（正在……）",
+    "examples": [
+      {
+        "en": "She's sitting under the tree.",
+        "cn": "她正坐在树下。",
+        "source": "supplement"
+      },
+      {
+        "en": "What's Tim doing? He's climbing the tree.",
+        "cn": "蒂姆在干什么？他在爬树。",
+        "source": "supplement"
+      },
+      {
+        "en": "It's running after a cat.",
+        "cn": "它正在追一只猫。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "动词变 ing 三规则：直接加（do→doing）、去 e 加（make→making）、双写尾字母（run→running）！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 65,
+      "printedPage": 61,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "33": {
+    "title": "用进行时描绘一幅画",
+    "chat": "今天用进行时来「画」一幅风景：太阳正在照 The sun is shining. 人们正在过桥 They are walking over the bridge. over 在这里表示「越过」，走到桥的另一头。",
+    "formula": "主语 + is/are + 动词ing + 地点/方向.",
+    "examples": [
+      {
+        "en": "The sun is shining.",
+        "cn": "阳光正灿烂。",
+        "source": "supplement"
+      },
+      {
+        "en": "They are walking over the bridge.",
+        "cn": "他们正在过桥。",
+        "source": "supplement"
+      },
+      {
+        "en": "The ship is going under the bridge.",
+        "cn": "船正从桥下驶过。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "over = 越过（从上方过去），under = 从下面过去：船过桥用 under！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 69,
+      "printedPage": 65,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "35": {
+    "title": "方位介词：位置小词典",
+    "chat": "这课认识四个方位介词：between（在两者之间）、along（沿着）、across（横穿）、into（走进）。用它们说说照片里的人在哪儿、往哪儿去。",
+    "formula": "between A and B ｜ along the river 沿河 ｜ across 横穿 ｜ into 进入",
+    "examples": [
+      {
+        "en": "It is between two hills.",
+        "cn": "它在两座小山之间。",
+        "source": "supplement"
+      },
+      {
+        "en": "He is swimming across the river.",
+        "cn": "他正游过河。",
+        "source": "supplement"
+      },
+      {
+        "en": "Some of them are going into the park.",
+        "cn": "他们中的一些正走进公园。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "into 是「从外到里」（有方向），in 是「已经在里面」（静态）：walk into the park 走进公园。",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 73,
+      "printedPage": 69,
+      "status": "verified",
+      "verified": true,
+      "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+      "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+    }
+  },
+  "37": {
+    "title": "be going to：打算做的事",
+    "chat": "说「打算做某事」（还没做，计划中），用 be going to + 动词原形：I'm going to paint it.（我打算给它刷漆）。问别人打算：What are you going to do?",
+    "formula": "主语 + am/is/are going to + 动词原形（打算做……）",
+    "examples": [
+      {
+        "en": "I'm going to paint it pink.",
+        "cn": "我打算把它漆成粉色。",
+        "source": "supplement"
+      },
+      {
+        "en": "What are you going to do now, George?",
+        "cn": "乔治，你现在打算做什么？",
+        "source": "supplement"
+      },
+      {
+        "en": "This bookcase isn't for me. It's for my daughter.",
+        "cn": "这书架不是给我的，是给我女儿的。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "be doing = 眼前正在做；be going to do = 计划要做——一个是「直播」，一个是「预告片」！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 77,
+      "printedPage": 73,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "39": {
+    "title": "Don't…!：劝人别做某事",
+    "chat": "劝别人「别做某事」，在动词前加 Don't：Don't drop it!（别摔了！）。提醒小心说 Be careful!。「把东西给某人」：give/send/show + 东西 + to + 人。",
+    "formula": "Don't + 动词原形! ｜ Be careful! ｜ give/send sth to sb",
+    "examples": [
+      {
+        "en": "Be careful! Don't drop it!",
+        "cn": "小心！别摔了！",
+        "source": "supplement"
+      },
+      {
+        "en": "Don't put it there, Sam.",
+        "cn": "萨姆，别放在那儿。",
+        "source": "supplement"
+      },
+      {
+        "en": "I'm going to send it to my mother.",
+        "cn": "我打算把它寄给我妈妈。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "祈使句本来就没有主语，否定是 Don't 开头，不是 not 开头哦！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 81,
+      "printedPage": 77,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "41": {
+    "title": "不可数名词的「量杯」",
+    "chat": "水、面包、糖这些词数不清个数，叫「不可数名词」。想表达「多少」，要请「量杯」来帮忙：a piece of（一块）、a loaf of（一条）、a bottle of（一瓶）、a pound of（一磅）。",
+    "formula": "a + 单位 + of + 不可数名词：a piece of cheese 一块奶酪",
+    "examples": [
+      {
+        "en": "A loaf of bread.",
+        "cn": "一条面包。",
+        "source": "supplement"
+      },
+      {
+        "en": "A bottle of milk.",
+        "cn": "一瓶牛奶。",
+        "source": "supplement"
+      },
+      {
+        "en": "A quarter of a pound of tea.",
+        "cn": "四分之一磅茶叶。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "不可数名词不能加 s、不能直接加 a：不说 a bread，要说 a loaf of bread！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 85,
+      "printedPage": 81,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "43": {
+    "title": "some 和 any 的分工",
+    "chat": "some 和 any 都可以表示“一些”。本课肯定句用 some（There’s some water.），普通疑问句和否定句用 any（Is there any water? / There isn’t any tea.）。这是常见用法，不是绝对规则；请求、邀请或期待肯定回答时，问句也可以用 some。",
+    "formula": "表示“一些”：肯定句通常用 some ｜ 普通疑问句、否定句通常用 any（还要看语境）",
+    "examples": [
+      {
+        "en": "Is there any water in this kettle?",
+        "cn": "这壶里有水吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "Yes, there is.",
+        "cn": "是的，有。",
+        "source": "supplement"
+      },
+      {
+        "en": "Hurry up! The kettle's boiling!",
+        "cn": "快点！水开了！",
+        "source": "supplement"
+      }
+    ],
+    "watch": "水不可数：说 some water，不能说 a water 或 waters！",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 89,
+      "printedPage": 85,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "45": {
+    "title": "can：万能的「能、可以」",
+    "chat": "can 表示「能、会、可以」，后面直接跟动词原形，不管我是你还是他，can 都不变！否定是 can't。礼貌请求别人：Can you…, please?",
+    "formula": "Can + 主语 + 动词原形? → Yes, …can. ／ No, …can't.",
+    "examples": [
+      {
+        "en": "Can you come here a minute, please?",
+        "cn": "你能来一下吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "Can she type this letter for me?",
+        "cn": "她能帮我打这封信吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "I can't read it!",
+        "cn": "我没法辨认它！",
+        "source": "supplement"
+      }
+    ],
+    "watch": "can 后面的动词永远用原形：she can types ❌ → she can type ✓（不加 s！）",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 93,
+      "printedPage": 89,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  },
+  "47": {
+    "title": "like 与 want：喜欢和想要",
+    "chat": "Do you like…? 问「你（一贯）喜欢……吗」，是问爱好；Do you want…? 问「你现在想要……吗」，是问此刻。别人给你东西，接受说 Yes, please.，拒绝说 No, thank you.——这对礼貌用语天天用得上！",
+    "formula": "Do you like + 东西?（问爱好）｜ Do you want + 东西?（问此刻想要）",
+    "examples": [
+      {
+        "en": "Do you like coffee?",
+        "cn": "你喜欢咖啡吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "Do you want a cup?",
+        "cn": "你想来一杯吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "No, thank you. I like black coffee.",
+        "cn": "不了谢谢，我喜欢清咖啡。",
+        "source": "supplement"
+      }
+    ],
+    "watch": "black coffee 是「不加奶的清咖啡」，和颜色没关系！接受要说 Yes, please.，不能只说 Yes!",
+    "source": "supplement",
+    "basedOn": {
+      "source": "textbook",
+      "file": "电子资料/新概念英语第一册学生用书.pdf",
+      "pdfPage": 97,
+      "printedPage": 93,
+      "status": "candidate",
+      "verified": false,
+      "scope": "page-offset-only",
+      "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+    }
+  }
+}

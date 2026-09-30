@@ -1,0 +1,2300 @@
+{
+  "1": {
+    "g": [
+      {
+        "q": "___ your handbag?",
+        "opts": [
+          "Is",
+          "Are",
+          "Am",
+          "Be"
+        ],
+        "a": 0,
+        "why": "this/it 是单数，配 Is。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 5,
+          "printedPage": 1,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "—Is this your pen? —Yes, ___.",
+        "opts": [
+          "it is",
+          "this is",
+          "it isn't",
+          "I am"
+        ],
+        "a": 0,
+        "why": "回答时用 it 代替 this。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 5,
+          "printedPage": 1,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "课文里问了几次「这是你的手提包吗」？",
+        "opts": [
+          "两次",
+          "一次",
+          "三次",
+          "没有问"
+        ],
+        "a": 0,
+        "hint": "对方说 Pardon? 之后又问了一遍。",
+        "why": "Pardon? = 请再说一遍，所以问了两次。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 5,
+          "printedPage": 1,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "这个人想要做什么？",
+        "opts": [
+          "找到手提包的主人",
+          "买一个新手提包",
+          "卖掉手提包",
+          "借一把伞"
+        ],
+        "a": 0,
+        "hint": "Excuse me! 的用途。",
+        "why": "捡到东西要物归原主。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 5,
+          "printedPage": 1,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "3": {
+    "g": [
+      {
+        "q": "Here ___ your umbrella.",
+        "opts": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "a": 0,
+        "why": "Here's = Here is。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 9,
+          "printedPage": 5,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "拿错了别人的东西应该马上说：",
+        "opts": [
+          "Sorry.",
+          "Excuse me.",
+          "Please.",
+          "Hello."
+        ],
+        "a": 0,
+        "why": "事后道歉用 Sorry。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 9,
+          "printedPage": 5,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "这位先生的票是几号？",
+        "opts": [
+          "5号",
+          "3号",
+          "4号",
+          "15号"
+        ],
+        "a": 0,
+        "hint": "听店员说的话。",
+        "why": "Number five. 5号。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 9,
+          "printedPage": 5,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "先生第一次拿到的伞是他的吗？",
+        "opts": [
+          "不是",
+          "是",
+          "课文没说",
+          "是店员的"
+        ],
+        "a": 0,
+        "hint": "他说了 This is not my umbrella.",
+        "why": "所以店员又给他换了一把。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 9,
+          "printedPage": 5,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "5": {
+    "g": [
+      {
+        "q": "___ is Miss Sophie Dupont.",
+        "opts": [
+          "This",
+          "That",
+          "These",
+          "It"
+        ],
+        "a": 0,
+        "why": "介绍别人统一用 This is…",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 13,
+          "printedPage": 9,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "—Nice to meet you. —Nice to meet you, ___.",
+        "opts": [
+          "too",
+          "to",
+          "two",
+          "also"
+        ],
+        "a": 0,
+        "why": "too 放句尾表示「也」。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 13,
+          "printedPage": 9,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "索菲娅是哪国人？",
+        "opts": [
+          "法国",
+          "德国",
+          "日本",
+          "中国"
+        ],
+        "a": 0,
+        "hint": "She is French.",
+        "why": "课文明确说 She is French. 也作为国籍词示例。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 13,
+          "printedPage": 9,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "布莱克先生一共介绍了几位（含索菲娅）？",
+        "opts": [
+          "6位",
+          "5位",
+          "4位",
+          "7位"
+        ],
+        "a": 0,
+        "hint": "Hans、Naoko、Chang-woo、Luming、Xiaohui…",
+        "why": "索菲娅+5位同学=6位。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 13,
+          "printedPage": 9,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "7": {
+    "g": [
+      {
+        "q": "I'm ___ engineer.",
+        "opts": [
+          "an",
+          "a",
+          "the",
+          "不填"
+        ],
+        "a": 0,
+        "why": "engineer 以元音音素开头，用 an。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 17,
+          "printedPage": 13,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "I'm ___ keyboard operator.",
+        "opts": [
+          "a",
+          "an",
+          "the",
+          "不填"
+        ],
+        "a": 0,
+        "why": "keyboard 以辅音音素开头，用 a。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 17,
+          "printedPage": 13,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "根据课文，罗伯特做什么工作？",
+        "opts": [
+          "工程师",
+          "教师",
+          "电脑录入员",
+          "警察"
+        ],
+        "a": 0,
+        "hint": "ROBERT: I am an engineer.",
+        "why": "罗伯特既是新学生，也是一名工程师。题目问工作；索菲娅是电脑录入员。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 17,
+          "printedPage": 13,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "索菲娅是哪国人？",
+        "opts": [
+          "French 法国",
+          "Italian 意大利",
+          "German 德国",
+          "English 英国"
+        ],
+        "a": 0,
+        "hint": "Are you French? Yes, I am.",
+        "why": "索菲娅是法国人；罗伯特是意大利人。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 17,
+          "printedPage": 13,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ]
+  },
+  "9": {
+    "g": [
+      {
+        "q": "—How are you? —I'm very ___, thank you.",
+        "opts": [
+          "well",
+          "good",
+          "better",
+          "best"
+        ],
+        "a": 0,
+        "why": "形容身体好用 well（形容词）。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 21,
+          "printedPage": 17,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "熟人见面说：Nice to ___ you.",
+        "opts": [
+          "see",
+          "meet",
+          "look",
+          "watch"
+        ],
+        "a": 0,
+        "why": "初次见面才用 meet，熟人是 see。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 21,
+          "printedPage": 17,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "是谁问了「埃玛好吗」（How's Emma?）？",
+        "opts": [
+          "海伦",
+          "史蒂文",
+          "托尼",
+          "埃玛"
+        ],
+        "a": 0,
+        "hint": "对话一来一回注意说话人。",
+        "why": "史蒂文问托尼，海伦接着问埃玛。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 21,
+          "printedPage": 17,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "两人最后互相说了什么？",
+        "opts": [
+          "Goodbye 再见",
+          "Sorry 对不起",
+          "Pardon 请再说一遍",
+          "Thanks 谢谢"
+        ],
+        "a": 0,
+        "why": "结尾是道别：Nice to see you. Goodbye.",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 21,
+          "printedPage": 17,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "11": {
+    "g": [
+      {
+        "q": "___ shirt is that?",
+        "opts": [
+          "Whose",
+          "Who's",
+          "Who",
+          "Which"
+        ],
+        "a": 0,
+        "why": "问「谁的」用 Whose；Who's = Who is。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 25,
+          "printedPage": 21,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "It's ___.（戴夫的）",
+        "opts": [
+          "Dave's",
+          "Daves'",
+          "Dave",
+          "Daves"
+        ],
+        "a": 0,
+        "why": "人名 + 's 表示所属。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 25,
+          "printedPage": 21,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "戴夫的衬衫是什么颜色？",
+        "opts": [
+          "蓝色",
+          "白色",
+          "红色",
+          "绿色"
+        ],
+        "a": 0,
+        "hint": "My shirt's blue.",
+        "why": "戴夫说自己的衬衫是蓝色的。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 25,
+          "printedPage": 21,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "白衬衫是谁的？",
+        "opts": [
+          "蒂姆的",
+          "戴夫的",
+          "老师的",
+          "未知"
+        ],
+        "a": 0,
+        "why": "Perhaps it is, sir. Tim's shirt's white. 白色是蒂姆的。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 25,
+          "printedPage": 21,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "13": {
+    "g": [
+      {
+        "q": "___ is your hat?",
+        "opts": [
+          "What colour",
+          "What",
+          "Which",
+          "Whose"
+        ],
+        "a": 0,
+        "why": "问颜色用 What colour。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 29,
+          "printedPage": 25,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "My hat is ___ colour.",
+        "opts": [
+          "the same",
+          "same",
+          "a same",
+          "the some"
+        ],
+        "a": 0,
+        "why": "same 前面必须加 the。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 29,
+          "printedPage": 25,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "新连衣裙是什么颜色？",
+        "opts": [
+          "绿色",
+          "蓝色",
+          "红色",
+          "白色"
+        ],
+        "a": 0,
+        "hint": "It's green.",
+        "why": "绿裙子。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 29,
+          "printedPage": 25,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "新裙子和新帽子有什么共同点？",
+        "opts": [
+          "颜色相同",
+          "款式相同",
+          "大小相同",
+          "主人相同"
+        ],
+        "a": 0,
+        "hint": "It's the same colour.",
+        "why": "都是绿色的。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 29,
+          "printedPage": 25,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "15": {
+    "g": [
+      {
+        "q": "___ you Swedish?",
+        "opts": [
+          "Are",
+          "Is",
+          "Am",
+          "Do"
+        ],
+        "a": 0,
+        "why": "你们=复数，用 Are。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 33,
+          "printedPage": 29,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "___ are their cases?",
+        "opts": [
+          "These",
+          "This",
+          "That",
+          "It"
+        ],
+        "a": 0,
+        "why": "cases 是复数，用 These。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 33,
+          "printedPage": 29,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "他们的朋友是哪国人？",
+        "opts": [
+          "挪威",
+          "丹麦",
+          "瑞典",
+          "俄国"
+        ],
+        "a": 0,
+        "hint": "They're Norwegian.",
+        "why": "朋友是挪威人，他们自己是丹麦人。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 33,
+          "printedPage": 29,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "这群人是来做什么的？",
+        "opts": [
+          "旅游",
+          "教书",
+          "工作",
+          "留学"
+        ],
+        "a": 0,
+        "hint": "Are you tourists?",
+        "why": "They're tourists. 海关确认他们是游客。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 33,
+          "printedPage": 29,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "17": {
+    "g": [
+      {
+        "q": "What ___ their jobs?",
+        "opts": [
+          "are",
+          "is",
+          "am",
+          "do"
+        ],
+        "a": 0,
+        "why": "their jobs 复数，用 are。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 37,
+          "printedPage": 33,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "This is Jim. ___ our office assistant.",
+        "opts": [
+          "He's",
+          "She's",
+          "They're",
+          "His"
+        ],
+        "a": 0,
+        "why": "Jim 是男生，用 He's。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 37,
+          "printedPage": 33,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "课里谁被说「非常懒」？",
+        "opts": [
+          "推销员们",
+          "尼克拉",
+          "克莱尔",
+          "迈克尔"
+        ],
+        "a": 0,
+        "hint": "They're sales reps. They're very lazy.",
+        "why": "推销员被开玩笑说懒。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 37,
+          "printedPage": 33,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "吉姆的工作是什么？",
+        "opts": [
+          "办公室勤杂",
+          "电脑录入",
+          "推销员",
+          "经理"
+        ],
+        "a": 0,
+        "why": "He's our office assistant.",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 37,
+          "printedPage": 33,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "19": {
+    "g": [
+      {
+        "q": "What's the ___, children?",
+        "opts": [
+          "matter",
+          "matters",
+          "problem",
+          "mad"
+        ],
+        "a": 0,
+        "why": "固定搭配 What's the matter?",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 41,
+          "printedPage": 37,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "There ___ an ice cream man.",
+        "opts": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "a": 0,
+        "why": "an ice cream man 单数，用 There's。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 41,
+          "printedPage": 37,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "孩子们感觉怎么样？",
+        "opts": [
+          "又累又渴",
+          "又饿又冷",
+          "又开心又热",
+          "很好"
+        ],
+        "a": 0,
+        "hint": "GIRL: We’re tired . . . / BOY: . . . and thirsty, Mum.",
+        "why": "tired and thirsty。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 41,
+          "printedPage": 37,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "孩子们吃了什么？",
+        "opts": [
+          "冰淇淋",
+          "苹果",
+          "面包",
+          "蛋糕"
+        ],
+        "a": 0,
+        "why": "Two ice creams, please.",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 41,
+          "printedPage": 37,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ]
+  },
+  "21": {
+    "g": [
+      {
+        "q": "Give ___ a book, please.",
+        "opts": [
+          "me",
+          "I",
+          "my",
+          "mine"
+        ],
+        "a": 0,
+        "why": "动词后面用宾格 me。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 45,
+          "printedPage": 41,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "—Which book? —The red ___.",
+        "opts": [
+          "one",
+          "ones",
+          "it",
+          "that"
+        ],
+        "a": 0,
+        "why": "one 代替单数名词 book。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 45,
+          "printedPage": 41,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "简最后给的是哪本书？",
+        "opts": [
+          "红皮的",
+          "蓝皮的",
+          "大的",
+          "旧的"
+        ],
+        "a": 0,
+        "hint": "No, not that one. The red one.",
+        "why": "要的是红色那本。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 45,
+          "printedPage": 41,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "简第一次拿的书对吗？",
+        "opts": [
+          "不对，需要红的那本",
+          "对了",
+          "课文没说",
+          "她拿了两本"
+        ],
+        "a": 0,
+        "why": "Not that one. 说明第一次拿错。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 45,
+          "printedPage": 41,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ]
+  },
+  "23": {
+    "g": [
+      {
+        "q": "Give me ___ glasses, please.",
+        "opts": [
+          "some",
+          "any",
+          "a",
+          "one"
+        ],
+        "a": 0,
+        "why": "肯定句用 some。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 49,
+          "printedPage": 45,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "The ___ on the shelf.",
+        "opts": [
+          "ones",
+          "one",
+          "it",
+          "that"
+        ],
+        "a": 0,
+        "why": "ones 代替复数名词 glasses。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 49,
+          "printedPage": 45,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "杯子在哪里？",
+        "opts": [
+          "架子上",
+          "桌子上",
+          "碗橱里",
+          "地板上"
+        ],
+        "a": 0,
+        "hint": "The ones on the shelf.",
+        "why": "on the shelf 在架子上。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 49,
+          "printedPage": 45,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "请谁拿杯子？",
+        "opts": [
+          "简",
+          "艾米",
+          "彭妮",
+          "露西"
+        ],
+        "a": 0,
+        "why": "Give me some glasses, please, Jane.",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 49,
+          "printedPage": 45,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "25": {
+    "g": [
+      {
+        "q": "There ___ a refrigerator in the kitchen.",
+        "opts": [
+          "is",
+          "are",
+          "am",
+          "have"
+        ],
+        "a": 0,
+        "why": "a refrigerator 单数用 There is。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 53,
+          "printedPage": 49,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "The cooker is on the ___.",
+        "opts": [
+          "left",
+          "right",
+          "middle",
+          "wall"
+        ],
+        "a": 0,
+        "why": "课文：It is on the left.（电灶在左边）",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 53,
+          "printedPage": 49,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "冰箱是什么颜色？",
+        "opts": [
+          "白色",
+          "蓝色",
+          "干净",
+          "很大"
+        ],
+        "a": 0,
+        "hint": "The refrigerator is white.",
+        "why": "白色的。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 53,
+          "printedPage": 49,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "桌子在厨房的什么位置？",
+        "opts": [
+          "正中间",
+          "右边",
+          "左边",
+          "门附近"
+        ],
+        "a": 0,
+        "hint": "in the middle of the room",
+        "why": "房间中央。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 53,
+          "printedPage": 49,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "27": {
+    "g": [
+      {
+        "q": "There ___ some magazines on the television.",
+        "opts": [
+          "are",
+          "is",
+          "am",
+          "have"
+        ],
+        "a": 0,
+        "why": "magazines 复数用 There are。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 57,
+          "printedPage": 53,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "画挂在哪儿？",
+        "opts": [
+          "墙上",
+          "窗边",
+          "门后",
+          "桌子下面"
+        ],
+        "a": 0,
+        "why": "The pictures are on the wall. 画挂在墙上。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 57,
+          "printedPage": 53,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "音响（stereo）在哪儿？",
+        "opts": [
+          "门附近",
+          "窗附近",
+          "墙上",
+          "桌子中间"
+        ],
+        "a": 0,
+        "hint": "There is a stereo near the door.",
+        "why": "near the door。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 57,
+          "printedPage": 53,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "史密斯太太的客厅怎么样？",
+        "opts": [
+          "很大",
+          "很小",
+          "不整齐",
+          "很暗"
+        ],
+        "a": 0,
+        "hint": "Mrs. Smith's living room is large.",
+        "why": "large = 大。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 57,
+          "printedPage": 53,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "29": {
+    "g": [
+      {
+        "q": "___ the door, please.",
+        "opts": [
+          "Shut",
+          "Shuts",
+          "Shutting",
+          "To shut"
+        ],
+        "a": 0,
+        "why": "祈使句用动词原形开头。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 61,
+          "printedPage": 57,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "Then put these clothes ___ the wardrobe.",
+        "opts": [
+          "in",
+          "on",
+          "under",
+          "at"
+        ],
+        "a": 0,
+        "why": "放进衣柜用 in。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 61,
+          "printedPage": 57,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "卧室整齐吗？",
+        "opts": [
+          "不，太乱了",
+          "整齐",
+          "很干净",
+          "是新卧室"
+        ],
+        "a": 0,
+        "hint": "This bedroom's very untidy.",
+        "why": "untidy = 不整齐。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 61,
+          "printedPage": 57,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "艾米做的第一件事是什么？",
+        "opts": [
+          "开窗通风",
+          "整理床铺",
+          "扫地",
+          "看杂志"
+        ],
+        "a": 0,
+        "hint": "Open the window and air the room.",
+        "why": "第一项是开窗通风。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 61,
+          "printedPage": 57,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "31": {
+    "g": [
+      {
+        "q": "She ___ sitting under the tree.",
+        "opts": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "a": 0,
+        "why": "She 配 is。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 65,
+          "printedPage": 61,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "The dog is running ___ a cat.",
+        "opts": [
+          "after",
+          "over",
+          "under",
+          "at"
+        ],
+        "a": 0,
+        "why": "run after = 追赶。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 65,
+          "printedPage": 61,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "萨莉在哪儿？",
+        "opts": [
+          "花园里",
+          "卧室里",
+          "学校",
+          "厨房"
+        ],
+        "a": 0,
+        "hint": "She's in the garden.",
+        "why": "在花园的树下。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 65,
+          "printedPage": 61,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "蒂姆正在做什么？",
+        "opts": [
+          "爬树",
+          "坐在树下",
+          "在草地上跑",
+          "喝牛奶"
+        ],
+        "a": 0,
+        "hint": "He's climbing the tree.",
+        "why": "Tim is climbing the tree.",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 65,
+          "printedPage": 61,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "33": {
+    "g": [
+      {
+        "q": "The sun ___ shining.",
+        "opts": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "a": 0,
+        "why": "the sun 单数配 is。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 69,
+          "printedPage": 65,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "There are some boats ___ the river.",
+        "opts": [
+          "on",
+          "in",
+          "under",
+          "over"
+        ],
+        "a": 0,
+        "why": "「在河上」的船用 on the river。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 69,
+          "printedPage": 65,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "今天天气怎么样？",
+        "opts": [
+          "晴天",
+          "雨天",
+          "雪天",
+          "大风"
+        ],
+        "a": 0,
+        "hint": "It is a fine day today.",
+        "why": "fine day 晴天。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 69,
+          "printedPage": 65,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "蒂姆正在看什么？",
+        "opts": [
+          "一架飞机",
+          "一艘大船",
+          "一座桥",
+          "几条小船"
+        ],
+        "a": 0,
+        "hint": "Tim is looking at an aeroplane.",
+        "why": "萨莉看大船，蒂姆看飞机。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 69,
+          "printedPage": 65,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "35": {
+    "g": [
+      {
+        "q": "Our village is ___ a valley.",
+        "opts": [
+          "in",
+          "on",
+          "between",
+          "under"
+        ],
+        "a": 0,
+        "why": "在山谷「里」用 in a valley。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 73,
+          "printedPage": 69,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "It is ___ two hills.",
+        "opts": [
+          "between",
+          "along",
+          "across",
+          "into"
+        ],
+        "a": 0,
+        "why": "between 表示「在两者之间」。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 73,
+          "printedPage": 69,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "水里的男孩正在做什么？",
+        "opts": [
+          "游过河",
+          "沿着河岸走",
+          "走进公园",
+          "从学校出来"
+        ],
+        "a": 0,
+        "hint": "He is swimming across the river.",
+        "why": "他正横渡小河。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 73,
+          "printedPage": 69,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "课文说公园在照片画面的哪一边？",
+        "opts": [
+          "右边",
+          "左边",
+          "正前方",
+          "后面"
+        ],
+        "a": 0,
+        "hint": "The park is on the right.",
+        "why": "The park is on the right. 这里的右边以照片画面为参照，不是人物朝向。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 73,
+          "printedPage": 69,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ]
+  },
+  "37": {
+    "g": [
+      {
+        "q": "I'm going ___ it.",
+        "opts": [
+          "to paint",
+          "painting",
+          "paint",
+          "painted"
+        ],
+        "a": 0,
+        "why": "be going to + 动词原形。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 77,
+          "printedPage": 73,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "Give me that ___, please.",
+        "opts": [
+          "hammer",
+          "book",
+          "cake",
+          "cup"
+        ],
+        "a": 0,
+        "why": "做书架需要锤子。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 77,
+          "printedPage": 73,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "乔治正在做什么？",
+        "opts": [
+          "做书架",
+          "刷墙",
+          "做桌子",
+          "整理花园"
+        ],
+        "a": 0,
+        "hint": "I'm making a bookcase.",
+        "why": "making a bookcase。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 77,
+          "printedPage": 73,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "书架是给谁做的？",
+        "opts": [
+          "女儿苏珊",
+          "丹",
+          "他自己",
+          "他妻子"
+        ],
+        "a": 0,
+        "hint": "It's for my daughter, Susan.",
+        "why": "粉红色是苏珊最喜欢的颜色。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 77,
+          "printedPage": 73,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "39": {
+    "g": [
+      {
+        "q": "___ drop it!",
+        "opts": [
+          "Don't",
+          "Not",
+          "No",
+          "Doesn't"
+        ],
+        "a": 0,
+        "why": "祈使句否定用 Don't + 动词原形。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 81,
+          "printedPage": 77,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "I'm going to send it ___ my mother.",
+        "opts": [
+          "to",
+          "for",
+          "at",
+          "with"
+        ],
+        "a": 0,
+        "why": "send sth to sb 寄给某人。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 81,
+          "printedPage": 77,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "彭妮一开始打算把花瓶放在哪儿？",
+        "opts": [
+          "这张桌子上",
+          "窗前",
+          "架子上",
+          "地板上"
+        ],
+        "a": 0,
+        "hint": "I'm going to put it on this table.",
+        "why": "萨姆说 Don't do that，才改的地方。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 81,
+          "printedPage": 77,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "花瓶最后放在哪儿？",
+        "opts": [
+          "这个架子上",
+          "那张桌子上",
+          "窗前",
+          "萨姆手里"
+        ],
+        "a": 0,
+        "hint": "Put it here, on this shelf.",
+        "why": "彭妮让萨姆放在架子上。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 81,
+          "printedPage": 77,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "41": {
+    "g": [
+      {
+        "q": "___ cheese.",
+        "opts": [
+          "A piece of",
+          "A piece",
+          "Pieces of a",
+          "Some piece of"
+        ],
+        "a": 0,
+        "why": "不可数名词用 a piece of 计量。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 85,
+          "printedPage": 81,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "Is that bag ___?",
+        "opts": [
+          "heavy",
+          "heavily",
+          "heavier",
+          "heaviest"
+        ],
+        "a": 0,
+        "why": "be 动词后接形容词原级。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 85,
+          "printedPage": 81,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "下面哪样东西不在彭妮的包里？",
+        "opts": [
+          "一只鸡",
+          "一块奶酪",
+          "一条面包",
+          "一块巧克力"
+        ],
+        "a": 0,
+        "hint": "cheese, bread, chocolate, milk, sugar, coffee, tea, tobacco",
+        "why": "包里没有鸡！",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 85,
+          "printedPage": 81,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "那听烟丝是给谁的？",
+        "opts": [
+          "萨姆",
+          "彭妮",
+          "孩子们",
+          "汤姆"
+        ],
+        "a": 0,
+        "hint": "Is that tin of tobacco for me? — Well, it's certainly not for me!",
+        "why": "不是彭妮的，那就是问话的萨姆的。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 85,
+          "printedPage": 81,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "43": {
+    "g": [
+      {
+        "q": "根据本课常见表达，补全原句：Is there ___ water in this kettle?",
+        "opts": [
+          "any",
+          "some",
+          "many",
+          "a"
+        ],
+        "a": 0,
+        "why": "本题按本课给出的表达选择 any；some/any 的选择还受语境影响，不能把疑问句或否定句一律当作排除 some 的依据。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 89,
+          "printedPage": 85,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "The tea is behind the ___.",
+        "opts": [
+          "teapot",
+          "kettle",
+          "door",
+          "cup"
+        ],
+        "a": 0,
+        "why": "behind the teapot 在茶壶后面。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 89,
+          "printedPage": 85,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "萨姆一开始找不到什么？",
+        "opts": [
+          "茶叶",
+          "水壶",
+          "水",
+          "杯子"
+        ],
+        "a": 0,
+        "hint": "I can see the teapot, but I can't see the tea.",
+        "why": "看见茶壶看不见茶叶。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 89,
+          "printedPage": 85,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "谁在催萨姆？",
+        "opts": [
+          "彭妮",
+          "露西",
+          "海伦",
+          "克里斯廷"
+        ],
+        "a": 0,
+        "hint": "Hurry up, Sam!",
+        "why": "彭妮说水开了。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 89,
+          "printedPage": 85,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "45": {
+    "g": [
+      {
+        "q": "Can she ___ this letter for me?",
+        "opts": [
+          "type",
+          "types",
+          "typing",
+          "typed"
+        ],
+        "a": 0,
+        "why": "can 后面跟动词原形。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 93,
+          "printedPage": 89,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "The boss's handwriting is ___.",
+        "opts": [
+          "terrible",
+          "good",
+          "beautiful",
+          "nice"
+        ],
+        "a": 0,
+        "why": "老板字迹太糟糕。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 93,
+          "printedPage": 89,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "帕梅拉在哪儿？",
+        "opts": [
+          "隔壁她的办公室",
+          "家里",
+          "街上",
+          "厨房"
+        ],
+        "a": 0,
+        "hint": "She's next door. She's in her office.",
+        "why": "在隔壁办公室。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 93,
+          "printedPage": 89,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "帕梅拉为什么打不了这封信？",
+        "opts": [
+          "认不出老板的字迹",
+          "她太忙",
+          "她不会打字",
+          "她生病了"
+        ],
+        "a": 0,
+        "hint": "I can't read it!",
+        "why": "字太潦草，不是不会打字。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 93,
+          "printedPage": 89,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "47": {
+    "g": [
+      {
+        "q": "___ you like coffee?",
+        "opts": [
+          "Do",
+          "Does",
+          "Are",
+          "Is"
+        ],
+        "a": 0,
+        "why": "这是一般现在时、含实义动词 like 的疑问句；主语 you 用 Do。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 97,
+          "printedPage": 93,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "根据本课常见表达，补全原句：I don't want ___ milk.",
+        "opts": [
+          "any",
+          "some",
+          "many",
+          "a"
+        ],
+        "a": 0,
+        "why": "本题按本课给出的表达选择 any；some/any 的选择还受语境影响，不能把疑问句或否定句一律当作排除 some 的依据。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 97,
+          "printedPage": 93,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "安喜欢什么样的咖啡？",
+        "opts": [
+          "清咖啡（不加奶）",
+          "加奶咖啡",
+          "加很多糖",
+          "茶"
+        ],
+        "a": 0,
+        "hint": "I like black coffee.",
+        "why": "black coffee = 清咖啡。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 97,
+          "printedPage": 93,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "安要加糖吗？",
+        "opts": [
+          "要",
+          "不要",
+          "加很多",
+          "只要一点"
+        ],
+        "a": 0,
+        "hint": "Do you want any sugar? Yes, please.",
+        "why": "她要加糖，但不要牛奶。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 97,
+          "printedPage": 93,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  }
+}

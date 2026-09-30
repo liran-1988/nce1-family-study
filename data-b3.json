@@ -1,0 +1,1207 @@
+[
+  {
+    "id": 49,
+    "title": "At the butcher's",
+    "titleCn": "在肉店",
+    "kind": "text",
+    "words": [
+      {
+        "en": "butcher",
+        "ipa": "/ˈbʊtʃə/",
+        "cn": "n. 卖肉的，肉商",
+        "source": "supplement"
+      },
+      {
+        "en": "meat",
+        "ipa": "/miːt/",
+        "cn": "n. 肉",
+        "source": "supplement"
+      },
+      {
+        "en": "beef",
+        "ipa": "/biːf/",
+        "cn": "n. 牛肉",
+        "source": "supplement"
+      },
+      {
+        "en": "lamb",
+        "ipa": "/læm/",
+        "cn": "n. 羔羊肉",
+        "source": "supplement"
+      },
+      {
+        "en": "husband",
+        "ipa": "/ˈhʌzbənd/",
+        "cn": "n. 丈夫",
+        "source": "supplement"
+      },
+      {
+        "en": "steak",
+        "ipa": "/steɪk/",
+        "cn": "n. 牛排",
+        "source": "supplement"
+      },
+      {
+        "en": "mince",
+        "ipa": "/mɪns/",
+        "cn": "n. 肉馅，绞肉",
+        "source": "supplement"
+      },
+      {
+        "en": "chicken",
+        "ipa": "/ˈtʃɪkɪn/",
+        "cn": "n. 鸡肉；鸡",
+        "source": "supplement"
+      },
+      {
+        "en": "either",
+        "ipa": "/ˈaɪðə/",
+        "cn": "adv. 也（不）（用于否定句）",
+        "source": "supplement"
+      },
+      {
+        "en": "cabbage",
+        "ipa": "/ˈkæbɪdʒ/",
+        "cn": "n. 卷心菜",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "Do you want beef or lamb?",
+        "cn": "你要牛肉还是羔羊肉？（选择疑问句）",
+        "source": "adaptation"
+      },
+      {
+        "en": "I don't like chicken!",
+        "cn": "我不喜欢鸡肉！",
+        "source": "adaptation"
+      },
+      {
+        "en": "My husband doesn't like chicken, either.",
+        "cn": "我丈夫也不喜欢鸡肉。",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "一般现在时否定式用 don't / doesn't + 动词原形；“也不”在否定句句尾用 either，不用 too。",
+    "tip": "at the butcher's 中的 's 指“店铺”（肉店）；同样有 at the grocer's 食品店、at the greengrocer's 蔬果店。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 101,
+        "printedPage": 97,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 51,
+    "title": "A pleasant climate",
+    "titleCn": "宜人的气候",
+    "kind": "text",
+    "words": [
+      {
+        "en": "Greece",
+        "ipa": "/ɡriːs/",
+        "cn": "n. 希腊",
+        "source": "supplement"
+      },
+      {
+        "en": "climate",
+        "ipa": "/ˈklaɪmət/",
+        "cn": "n. 气候",
+        "source": "supplement"
+      },
+      {
+        "en": "country",
+        "ipa": "/ˈkʌntri/",
+        "cn": "n. 国家",
+        "source": "supplement"
+      },
+      {
+        "en": "pleasant",
+        "ipa": "/ˈpleznt/",
+        "cn": "adj. 宜人的",
+        "source": "supplement"
+      },
+      {
+        "en": "weather",
+        "ipa": "/ˈweðə/",
+        "cn": "n. 天气",
+        "source": "supplement"
+      },
+      {
+        "en": "spring",
+        "ipa": "/sprɪŋ/",
+        "cn": "n. 春天",
+        "source": "supplement"
+      },
+      {
+        "en": "windy",
+        "ipa": "/ˈwɪndi/",
+        "cn": "adj. 有风的",
+        "source": "supplement"
+      },
+      {
+        "en": "warm",
+        "ipa": "/wɔːm/",
+        "cn": "adj. 温暖的",
+        "source": "supplement"
+      },
+      {
+        "en": "rain",
+        "ipa": "/reɪn/",
+        "cn": "v. 下雨；n. 雨",
+        "source": "supplement"
+      },
+      {
+        "en": "sometimes",
+        "ipa": "/ˈsʌmtaɪmz/",
+        "cn": "adv. 有时",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "What's the climate like in your country?",
+        "cn": "你们国家的气候怎么样？",
+        "source": "textbook",
+        "pdfPage": 105,
+        "printedPage": 101,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "It's often windy in March.",
+        "cn": "三月里常常刮风。",
+        "source": "textbook",
+        "pdfPage": 105,
+        "printedPage": 101,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "Does it often rain?",
+        "drill": true,
+        "cn": "这儿常下雨吗？",
+        "source": "supplement"
+      }
+    ],
+    "grammar": "What's ... like? 用来问性质特点；季节、月份前用介词 in（in spring / in March）；rain 和 snow 可作动词：It often rains here.",
+    "tip": "climate 指长期的“气候”，weather 指短期的“天气”；聊天气是英语最常用的开场白。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 105,
+        "printedPage": 101,
+        "status": "verified",
+        "verified": true,
+        "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+        "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 53,
+    "title": "An interesting climate",
+    "titleCn": "有趣的气候",
+    "kind": "text",
+    "words": [
+      {
+        "en": "England",
+        "ipa": "/ˈɪŋɡlənd/",
+        "cn": "n. 英格兰，（泛指）英国",
+        "source": "supplement"
+      },
+      {
+        "en": "mild",
+        "ipa": "/maɪld/",
+        "cn": "adj. 温和的",
+        "source": "supplement"
+      },
+      {
+        "en": "always",
+        "ipa": "/ˈɔːlweɪz/",
+        "cn": "adv. 总是",
+        "source": "supplement"
+      },
+      {
+        "en": "north",
+        "ipa": "/nɔːθ/",
+        "cn": "n. 北方",
+        "source": "supplement"
+      },
+      {
+        "en": "east",
+        "ipa": "/iːst/",
+        "cn": "n. 东方",
+        "source": "supplement"
+      },
+      {
+        "en": "south",
+        "ipa": "/saʊθ/",
+        "cn": "n. 南方",
+        "source": "supplement"
+      },
+      {
+        "en": "west",
+        "ipa": "/west/",
+        "cn": "n. 西方",
+        "source": "supplement"
+      },
+      {
+        "en": "season",
+        "ipa": "/ˈsiːzn/",
+        "cn": "n. 季节",
+        "source": "supplement"
+      },
+      {
+        "en": "best",
+        "ipa": "/best/",
+        "cn": "adv. 最好地；adj. 最好的",
+        "source": "supplement"
+      },
+      {
+        "en": "night",
+        "ipa": "/naɪt/",
+        "cn": "n. 夜晚",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "It's mild, but it's not always pleasant.",
+        "cn": "气候温和，但不总是宜人。",
+        "source": "adaptation"
+      },
+      {
+        "en": "The weather's often cold in the North and windy in the East.",
+        "cn": "北部天气常常寒冷，东部则常常刮风。",
+        "source": "adaptation"
+      },
+      {
+        "en": "It's our favourite subject of conversation.",
+        "cn": "它是我们最喜欢谈论的话题。",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "方位名词前加 the：in the North / in the East；favourite 本身就含“最”的意味，不用再加 most。",
+    "tip": "谈论天气的万能句：What's the weather like today?；四方位 north/east/south/west 成对记。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 109,
+        "printedPage": 105,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 55,
+    "title": "The Sawyer family",
+    "titleCn": "索耶一家人",
+    "kind": "text",
+    "words": [
+      {
+        "en": "live",
+        "ipa": "/lɪv/",
+        "cn": "v. 住，居住",
+        "source": "supplement"
+      },
+      {
+        "en": "stay",
+        "ipa": "/steɪ/",
+        "cn": "v. 呆在，停留",
+        "source": "supplement"
+      },
+      {
+        "en": "home",
+        "ipa": "/həʊm/",
+        "cn": "n. 家；adv. 在家",
+        "source": "supplement"
+      },
+      {
+        "en": "housework",
+        "ipa": "/ˈhaʊswɜːk/",
+        "cn": "n. 家务",
+        "source": "supplement"
+      },
+      {
+        "en": "lunch",
+        "ipa": "/lʌntʃ/",
+        "cn": "n. 午饭",
+        "source": "supplement"
+      },
+      {
+        "en": "usually",
+        "ipa": "/ˈjuːʒʊəli/",
+        "cn": "adv. 通常",
+        "source": "supplement"
+      },
+      {
+        "en": "together",
+        "ipa": "/təˈɡeðə/",
+        "cn": "adv. 一起",
+        "source": "supplement"
+      },
+      {
+        "en": "evening",
+        "ipa": "/ˈiːvnɪŋ/",
+        "cn": "n. 傍晚，晚上",
+        "source": "supplement"
+      },
+      {
+        "en": "arrive",
+        "ipa": "/əˈraɪv/",
+        "cn": "v. 到达",
+        "source": "supplement"
+      },
+      {
+        "en": "late",
+        "ipa": "/leɪt/",
+        "cn": "adv. 晚地；adj. 迟的",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "The Sawyers live at 87 King Street.",
+        "cn": "索耶一家住在国王街87号。",
+        "source": "adaptation"
+      },
+      {
+        "en": "She stays at home every day.",
+        "cn": "她每天呆在家里。",
+        "source": "adaptation"
+      },
+      {
+        "en": "Mr. Sawyer arrives home late.",
+        "cn": "索耶先生到家很晚。",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "一般现在时表示习惯性动作，含实义动词的肯定句中，第三人称单数动词通常加 -s/-es（goes, does, watches）；always/usually/often 通常放在实义动词前、be 动词后。",
+    "tip": "arrive home 到家（home 是副词，前面不加 to）；go to bed 上床睡觉，go to sleep 入睡。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 113,
+        "printedPage": 109,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 57,
+    "title": "An unusual day",
+    "titleCn": "不平常的一天",
+    "kind": "text",
+    "words": [
+      {
+        "en": "unusual",
+        "ipa": "/ʌnˈjuːʒʊəl/",
+        "cn": "adj. 不平常的",
+        "source": "supplement"
+      },
+      {
+        "en": "o'clock",
+        "ipa": "/əˈklɒk/",
+        "cn": "adv. ……点钟",
+        "source": "supplement"
+      },
+      {
+        "en": "shop",
+        "ipa": "/ʃɒp/",
+        "cn": "n. 商店",
+        "source": "supplement"
+      },
+      {
+        "en": "moment",
+        "ipa": "/ˈməʊmənt/",
+        "cn": "n. 时刻（at the moment 此刻）",
+        "source": "supplement"
+      },
+      {
+        "en": "foot",
+        "ipa": "/fʊt/",
+        "cn": "n. 脚（on foot 步行）",
+        "source": "supplement"
+      },
+      {
+        "en": "by",
+        "ipa": "/baɪ/",
+        "cn": "prep. 乘（交通工具）",
+        "source": "supplement"
+      },
+      {
+        "en": "read",
+        "ipa": "/riːd/",
+        "cn": "v. 读",
+        "source": "supplement"
+      },
+      {
+        "en": "interesting",
+        "ipa": "/ˈɪntrəstɪŋ/",
+        "cn": "adj. 有趣的",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "The children go to school by car every day.",
+        "cn": "孩子们每天都乘小汽车上学。",
+        "source": "adaptation"
+      },
+      {
+        "en": "But this morning, they are going to school on foot.",
+        "cn": "可今天早上，他们正步行去上学。",
+        "source": "adaptation"
+      },
+      {
+        "en": "It is eight o'clock.",
+        "cn": "现在是八点钟。",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "一般现在时（every day，习惯）与现在进行时（this morning，此刻）对比使用；by car 乘车，on foot 步行。",
+    "tip": "o'clock 只能跟在整点后面：eight o'clock；几点半说 half past eight。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 117,
+        "printedPage": 113,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 59,
+    "title": "Is that all?",
+    "titleCn": "就这些吗？",
+    "kind": "text",
+    "words": [
+      {
+        "en": "envelope",
+        "ipa": "/ˈenvələʊp/",
+        "cn": "n. 信封",
+        "source": "supplement"
+      },
+      {
+        "en": "writing paper",
+        "ipa": "/ˈraɪtɪŋ ˈpeɪpə/",
+        "cn": "n. 信纸",
+        "source": "supplement"
+      },
+      {
+        "en": "size",
+        "ipa": "/saɪz/",
+        "cn": "n. 尺寸，尺码",
+        "source": "supplement"
+      },
+      {
+        "en": "pad",
+        "ipa": "/pæd/",
+        "cn": "n. 信纸簿，便笺本",
+        "source": "supplement"
+      },
+      {
+        "en": "glue",
+        "ipa": "/ɡluː/",
+        "cn": "n. 胶水",
+        "source": "supplement"
+      },
+      {
+        "en": "chalk",
+        "ipa": "/tʃɔːk/",
+        "cn": "n. 粉笔",
+        "source": "supplement"
+      },
+      {
+        "en": "change",
+        "ipa": "/tʃeɪndʒ/",
+        "cn": "n. 零钱；v. 改变",
+        "source": "supplement"
+      },
+      {
+        "en": "large",
+        "ipa": "/lɑːdʒ/",
+        "cn": "adj. 大的",
+        "source": "supplement"
+      },
+      {
+        "en": "small",
+        "ipa": "/smɔːl/",
+        "cn": "adj. 小的",
+        "source": "supplement"
+      },
+      {
+        "en": "all",
+        "ipa": "/ɔːl/",
+        "cn": "pron. 全部",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "I want some envelopes, please.",
+        "cn": "我要买些信封。",
+        "source": "adaptation"
+      },
+      {
+        "en": "Do you want the large size or the small size?",
+        "cn": "您要大号的还是小号的？",
+        "source": "adaptation"
+      },
+      {
+        "en": "Is that all?",
+        "cn": "就这些吗？",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "表示“一些”时，肯定句通常用 some，普通疑问句和否定句通常用 any：I want some... / Do you want any...?；请求、邀请或期待肯定回答的问句也可以用 some。I don’t have any small pads. 表示没有小号便笺本。",
+    "tip": "购物收尾必用：That's all, thank you.（就这些，谢谢）；Are they? 这类简短反问可承接对话。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 121,
+        "printedPage": 117,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 61,
+    "title": "A bad cold",
+    "titleCn": "重感冒",
+    "kind": "text",
+    "words": [
+      {
+        "en": "feel",
+        "ipa": "/fiːl/",
+        "cn": "v. 感觉",
+        "source": "supplement"
+      },
+      {
+        "en": "look",
+        "ipa": "/lʊk/",
+        "cn": "v. 看起来（系动词）",
+        "source": "supplement"
+      },
+      {
+        "en": "call",
+        "ipa": "/kɔːl/",
+        "cn": "v. 叫，请（医生）；打电话",
+        "source": "supplement"
+      },
+      {
+        "en": "doctor",
+        "ipa": "/ˈdɒktə/",
+        "cn": "n. 医生",
+        "source": "supplement"
+      },
+      {
+        "en": "telephone",
+        "ipa": "/ˈtelɪfəʊn/",
+        "cn": "v. 打电话；n. 电话",
+        "source": "supplement"
+      },
+      {
+        "en": "remember",
+        "ipa": "/rɪˈmembə/",
+        "cn": "v. 记得，想起",
+        "source": "supplement"
+      },
+      {
+        "en": "cold",
+        "ipa": "/kəʊld/",
+        "cn": "n. 感冒；adj. 冷的",
+        "source": "supplement"
+      },
+      {
+        "en": "mouth",
+        "ipa": "/maʊθ/",
+        "cn": "n. 嘴",
+        "source": "supplement"
+      },
+      {
+        "en": "tongue",
+        "ipa": "/tʌŋ/",
+        "cn": "n. 舌头",
+        "source": "supplement"
+      },
+      {
+        "en": "news",
+        "ipa": "/njuːz/",
+        "cn": "n. 消息（不可数）",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "He feels ill.",
+        "cn": "他觉得不舒服。（feel 系动词）",
+        "source": "adaptation"
+      },
+      {
+        "en": "We must call the doctor.",
+        "cn": "我们得去请医生。",
+        "source": "adaptation"
+      },
+      {
+        "en": "He has a bad cold.",
+        "cn": "他得了重感冒。",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "feel / look 是系动词，后面接形容词：feel ill, look well；have a cold 感冒是固定搭配。",
+    "tip": "感冒了说 I have a cold.，重感冒 a bad cold；听到好消息说 That's good news（news 不可数，不加 s）。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 125,
+        "printedPage": 121,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 63,
+    "title": "Thank you, doctor.",
+    "titleCn": "谢谢你，医生。",
+    "kind": "text",
+    "words": [
+      {
+        "en": "better",
+        "ipa": "/ˈbetə/",
+        "cn": "adj. 好些了（well 的比较级）",
+        "source": "supplement"
+      },
+      {
+        "en": "certainly",
+        "ipa": "/ˈsɜːtnli/",
+        "cn": "adv. 当然",
+        "source": "supplement"
+      },
+      {
+        "en": "get up",
+        "ipa": "/ɡet ʌp/",
+        "cn": "phr. 起床",
+        "source": "supplement"
+      },
+      {
+        "en": "yet",
+        "ipa": "/jet/",
+        "cn": "adv. 还（用于否定句和疑问句）",
+        "source": "supplement"
+      },
+      {
+        "en": "rich",
+        "ipa": "/rɪtʃ/",
+        "cn": "adj. 油腻的；富有的",
+        "source": "supplement"
+      },
+      {
+        "en": "food",
+        "ipa": "/fuːd/",
+        "cn": "n. 食物",
+        "source": "supplement"
+      },
+      {
+        "en": "play",
+        "ipa": "/pleɪ/",
+        "cn": "v. 玩，踢（球）",
+        "source": "supplement"
+      },
+      {
+        "en": "match",
+        "ipa": "/mætʃ/",
+        "cn": "n. 比赛",
+        "source": "supplement"
+      },
+      {
+        "en": "talk",
+        "ipa": "/tɔːk/",
+        "cn": "v. 谈话",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "How's Jimmy today?",
+        "cn": "吉米今天怎么样了？",
+        "source": "adaptation"
+      },
+      {
+        "en": "Must he stay in bed?",
+        "cn": "他还必须卧床吗？",
+        "source": "adaptation"
+      },
+      {
+        "en": "He mustn't get up yet.",
+        "cn": "他还不该起床。",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "mustn't 表示“禁止、千万别”，与 must（必须）对应；表示“不必”要用 needn't。",
+    "tip": "better 是 well（身体好）的比较级：I'm better now. 我现在好些了。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 129,
+        "printedPage": 125,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 65,
+    "title": "Not a baby",
+    "titleCn": "不是小孩子",
+    "kind": "text",
+    "words": [
+      {
+        "en": "key",
+        "ipa": "/kiː/",
+        "cn": "n. 钥匙",
+        "source": "supplement"
+      },
+      {
+        "en": "baby",
+        "ipa": "/ˈbeɪbi/",
+        "cn": "n. 婴儿",
+        "source": "supplement"
+      },
+      {
+        "en": "hear",
+        "ipa": "/hɪə/",
+        "cn": "v. 听见",
+        "source": "supplement"
+      },
+      {
+        "en": "fun",
+        "ipa": "/fʌn/",
+        "cn": "n. 乐趣，有趣的事",
+        "source": "supplement"
+      },
+      {
+        "en": "enjoy",
+        "ipa": "/ɪnˈdʒɔɪ/",
+        "cn": "v. 玩得快活",
+        "source": "supplement"
+      },
+      {
+        "en": "yourself",
+        "ipa": "/jɔːˈself/",
+        "cn": "pron. 你自己（反身代词）",
+        "source": "supplement"
+      },
+      {
+        "en": "ourselves",
+        "ipa": "/ˌaʊəˈselvz/",
+        "cn": "pron. 我们自己（反身代词）",
+        "source": "supplement"
+      },
+      {
+        "en": "half",
+        "ipa": "/hɑːf/",
+        "cn": "n. 一半（half past ten 十点半）",
+        "source": "supplement"
+      },
+      {
+        "en": "past",
+        "ipa": "/pɑːst/",
+        "cn": "prep. 过（几点）",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "Can I have the key to the front door, Dad?",
+        "cn": "爸爸，我能拿前门的钥匙吗？",
+        "source": "adaptation"
+      },
+      {
+        "en": "You mustn't come home late.",
+        "cn": "你不许回来太晚。",
+        "source": "adaptation"
+      },
+      {
+        "en": "Enjoy yourself!",
+        "cn": "玩得开心！",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "反身代词 yourself / ourselves；enjoy oneself = 玩得开心；时刻表达：half past ten 十点半，a quarter past ten 十点一刻。",
+    "tip": "key to the front door 用 to 不用 of；have fun = enjoy oneself = have a good time。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 133,
+        "printedPage": 129,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 67,
+    "title": "The weekend",
+    "titleCn": "周末",
+    "kind": "text",
+    "words": [
+      {
+        "en": "absent",
+        "ipa": "/ˈæbsənt/",
+        "cn": "adj. 缺席的",
+        "source": "supplement"
+      },
+      {
+        "en": "Monday",
+        "ipa": "/ˈmʌndi/",
+        "cn": "n. 星期一",
+        "source": "supplement"
+      },
+      {
+        "en": "Tuesday",
+        "ipa": "/ˈtjuːzdi/",
+        "cn": "n. 星期二",
+        "source": "supplement"
+      },
+      {
+        "en": "Wednesday",
+        "ipa": "/ˈwenzdi/",
+        "cn": "n. 星期三",
+        "source": "supplement"
+      },
+      {
+        "en": "Friday",
+        "ipa": "/ˈfraɪdi/",
+        "cn": "n. 星期五",
+        "source": "supplement"
+      },
+      {
+        "en": "Saturday",
+        "ipa": "/ˈsætədi/",
+        "cn": "n. 星期六",
+        "source": "supplement"
+      },
+      {
+        "en": "Sunday",
+        "ipa": "/ˈsʌndi/",
+        "cn": "n. 星期日",
+        "source": "supplement"
+      },
+      {
+        "en": "weekend",
+        "ipa": "/ˌwiːkˈend/",
+        "cn": "n. 周末",
+        "source": "supplement"
+      },
+      {
+        "en": "keep",
+        "ipa": "/kiːp/",
+        "cn": "v. 保持",
+        "source": "supplement"
+      },
+      {
+        "en": "spend",
+        "ipa": "/spend/",
+        "cn": "v. 度过；花费",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "Were you at the butcher's last Monday?",
+        "cn": "上星期一你去过肉店吗？",
+        "source": "adaptation"
+      },
+      {
+        "en": "He was absent on Monday.",
+        "cn": "他星期一没来（缺席）。",
+        "source": "adaptation"
+      },
+      {
+        "en": "How are you all keeping?",
+        "cn": "你们身体都好吗？",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "be 的过去式：was（单数）/ were（复数）；在具体某天用介词 on（on Monday）；last week 上周。",
+    "tip": "“在周末”英式说 at the weekend，美式说 on the weekend；spend the weekend 度周末。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 137,
+        "printedPage": 133,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 69,
+    "title": "The car race",
+    "titleCn": "汽车比赛",
+    "kind": "text",
+    "words": [
+      {
+        "en": "race",
+        "ipa": "/reɪs/",
+        "cn": "n. 比赛，竞赛",
+        "source": "supplement"
+      },
+      {
+        "en": "town",
+        "ipa": "/taʊn/",
+        "cn": "n. 城镇",
+        "source": "supplement"
+      },
+      {
+        "en": "crowd",
+        "ipa": "/kraʊd/",
+        "cn": "n. 人群",
+        "source": "supplement"
+      },
+      {
+        "en": "stand",
+        "ipa": "/stænd/",
+        "cn": "v. 站立；n. 看台",
+        "source": "supplement"
+      },
+      {
+        "en": "exciting",
+        "ipa": "/ɪkˈsaɪtɪŋ/",
+        "cn": "adj. 激动人心的",
+        "source": "supplement"
+      },
+      {
+        "en": "handsome",
+        "ipa": "/ˈhænsəm/",
+        "cn": "adj. 漂亮的（男子）",
+        "source": "supplement"
+      },
+      {
+        "en": "finish",
+        "ipa": "/ˈfɪnɪʃ/",
+        "cn": "n. 结尾，终点；v. 完成",
+        "source": "supplement"
+      },
+      {
+        "en": "winner",
+        "ipa": "/ˈwɪnə/",
+        "cn": "n. 获胜者",
+        "source": "supplement"
+      },
+      {
+        "en": "hundred",
+        "ipa": "/ˈhʌndrəd/",
+        "cn": "num. 百",
+        "source": "supplement"
+      },
+      {
+        "en": "year",
+        "ipa": "/jɪə/",
+        "cn": "n. 年",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "In 1995, there was a very big race.",
+        "cn": "1995年举行了一次盛大的比赛。",
+        "source": "textbook",
+        "pdfPage": 141,
+        "printedPage": 137,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "There were hundreds of people there.",
+        "cn": "那里有成百上千的人。",
+        "source": "textbook",
+        "pdfPage": 141,
+        "printedPage": 137,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "The winner was Billy Stewart.",
+        "cn": "获胜者是比利·斯图尔特。",
+        "source": "textbook",
+        "pdfPage": 141,
+        "printedPage": 137,
+        "verification": "verified",
+        "translationSource": "supplement"
+      }
+    ],
+    "grammar": "there was / there were 是 there is / there are 的过去式；hundreds of 表示“成百上千”（不确指数字时用复数 + of）。",
+    "tip": "exciting 形容事物“令人激动”，excited 形容人“感到激动”——Lesson 141 还会遇到。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 141,
+        "printedPage": 137,
+        "status": "verified",
+        "verified": true,
+        "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+        "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 71,
+    "title": "He's awful!",
+    "titleCn": "他讨厌透了！",
+    "kind": "text",
+    "words": [
+      {
+        "en": "awful",
+        "ipa": "/ˈɔːfʊl/",
+        "cn": "adj. 讨厌的，糟糕的",
+        "source": "supplement"
+      },
+      {
+        "en": "time",
+        "ipa": "/taɪm/",
+        "cn": "n. 次（数）；时间",
+        "source": "supplement"
+      },
+      {
+        "en": "answer",
+        "ipa": "/ˈɑːnsə/",
+        "cn": "v. 接（电话）；回答",
+        "source": "supplement"
+      },
+      {
+        "en": "last",
+        "ipa": "/lɑːst/",
+        "cn": "adj. 上一个的，最后的",
+        "source": "supplement"
+      },
+      {
+        "en": "phone",
+        "ipa": "/fəʊn/",
+        "cn": "n. 电话（telephone 的缩略）",
+        "source": "supplement"
+      },
+      {
+        "en": "again",
+        "ipa": "/əˈɡen/",
+        "cn": "adv. 又一次，再一次",
+        "source": "supplement"
+      },
+      {
+        "en": "say",
+        "ipa": "/seɪ/",
+        "cn": "v. 说",
+        "source": "supplement"
+      },
+      {
+        "en": "yesterday",
+        "ipa": "/ˈjestədi/",
+        "cn": "adv. 昨天",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "What's Ron Marston like, Pauline?",
+        "cn": "罗恩·马斯顿是个怎样的人，波琳？",
+        "source": "textbook",
+        "pdfPage": 145,
+        "printedPage": 141,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "He telephoned me four times yesterday.",
+        "cn": "他昨天给我打了四次电话。",
+        "source": "adaptation"
+      },
+      {
+        "en": "Did he telephone again?",
+        "cn": "他又打电话了吗？",
+        "source": "textbook",
+        "pdfPage": 145,
+        "printedPage": 141,
+        "verification": "verified",
+        "translationSource": "supplement"
+      }
+    ],
+    "grammar": "规则动词过去式加 -ed：telephoned, answered；次数表达：一次 once，两次 twice，三次以上 数字 + times。",
+    "tip": "过去时疑问句用 did 提问、动词还原：Did he telephone? 不能说 Did he telephoned?",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 145,
+        "printedPage": 141,
+        "status": "verified",
+        "verified": true,
+        "scope": "lesson-heading, printed-page, complete English-body and speaker",
+        "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+      }
+    ],
+    "teachingSource": "supplement"
+  }
+]

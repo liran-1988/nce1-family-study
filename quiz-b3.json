@@ -1,0 +1,2306 @@
+{
+  "97": {
+    "g": [
+      {
+        "q": "It's got ___ zip.",
+        "opts": [
+          "a",
+          "an",
+          "the",
+          "不填"
+        ],
+        "a": 0,
+        "why": "a zip 一条拉链。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "This case doesn't belong ___ you!",
+        "opts": [
+          "to",
+          "at",
+          "for",
+          "with"
+        ],
+        "a": 0,
+        "why": "belong to 固定搭配。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "丢失的箱子是什么样子？",
+        "opts": [
+          "带拉链的蓝色小箱子",
+          "红色大箱子",
+          "棕色大箱子",
+          "黑色小包"
+        ],
+        "a": 0,
+        "hint": "a small blue case and it's got a zip",
+        "why": "蓝色小箱子。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "取箱子要付多少钱？",
+        "opts": [
+          "3英镑50便士",
+          "35英镑",
+          "53英镑",
+          "3英镑5便士"
+        ],
+        "a": 0,
+        "hint": "Three pounds and fifty pence, please.",
+        "why": "结果拿错了箱子！",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 201,
+          "printedPage": 197,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "99": {
+    "g": [
+      {
+        "q": "I think that I've hurt my ___.",
+        "opts": [
+          "back",
+          "backs",
+          "backing",
+          "backed"
+        ],
+        "a": 0,
+        "why": "back 背部。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "___ and stand up.",
+        "opts": [
+          "Try",
+          "Tries",
+          "Trying",
+          "Tried"
+        ],
+        "a": 0,
+        "why": "祈使句用动词原形。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "安迪怎么了？",
+        "opts": [
+          "滑倒摔下楼梯",
+          "被车撞了",
+          "骑车摔倒",
+          "伤了手"
+        ],
+        "a": 0,
+        "hint": "I slipped and fell downstairs.",
+        "why": "Ow! 的原因。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "露西认为安迪需要什么？",
+        "opts": [
+          "拍X光片",
+          "看牙医",
+          "买新外套",
+          "吃药"
+        ],
+        "a": 0,
+        "hint": "I'm sure that you need an X-ray.",
+        "why": "医生也这么说。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 205,
+          "printedPage": 201,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "101": {
+    "g": [
+      {
+        "q": "He says he ___ just arrived in Scotland.",
+        "opts": [
+          "has",
+          "have",
+          "is",
+          "was"
+        ],
+        "a": 0,
+        "why": "has arrived 现在完成时。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "He will write a letter ___.",
+        "opts": [
+          "soon",
+          "now",
+          "yet",
+          "yesterday"
+        ],
+        "a": 0,
+        "why": "soon 不久。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "吉米住在哪儿？",
+        "opts": [
+          "青年招待所",
+          "旅馆",
+          "朋友家",
+          "家里"
+        ],
+        "a": 0,
+        "hint": "He says he's staying at a Youth Hostel.",
+        "why": "他是青招协成员。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "奶奶请玛丽做什么？",
+        "opts": [
+          "把明信片念给她听",
+          "写一张明信片",
+          "买份报纸",
+          "给吉米打电话"
+        ],
+        "a": 0,
+        "hint": "Read Jimmy's card to me please.",
+        "why": "奶奶想了解吉米的近况。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 209,
+          "printedPage": 205,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "103": {
+    "g": [
+      {
+        "q": "I think I ___ in English and Mathematics.",
+        "opts": [
+          "passed",
+          "pass",
+          "passing",
+          "passs"
+        ],
+        "a": 0,
+        "why": "过去时 passed。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 213,
+          "printedPage": 209,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "The questions were not difficult ___ for me.",
+        "opts": [
+          "enough",
+          "too",
+          "very",
+          "much"
+        ],
+        "a": 0,
+        "why": "形容词 + enough，enough 后置。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 213,
+          "printedPage": 209,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "有一门考试有人觉得自己没及格，是哪一门？",
+        "opts": [
+          "法语",
+          "英语",
+          "数学",
+          "音乐"
+        ],
+        "a": 0,
+        "hint": "I think I failed the French paper.",
+        "why": "法语试卷太难了。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 213,
+          "printedPage": 209,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "坐在旁边的人三个小时做了什么？",
+        "opts": [
+          "盯着试卷上的名字看",
+          "睡觉",
+          "奋笔疾书",
+          "哭"
+        ],
+        "a": 0,
+        "hint": "he sat there and looked at it for three hours!",
+        "why": "课文的幽默结尾！",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 213,
+          "printedPage": 209,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "105": {
+    "g": [
+      {
+        "q": "I want her ___ this letter again.",
+        "opts": [
+          "to type",
+          "type",
+          "typing",
+          "typed"
+        ],
+        "a": 0,
+        "why": "want sb to do sth。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 217,
+          "printedPage": 213,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "How do you ___ intelligent?",
+        "opts": [
+          "spell",
+          "spell to",
+          "spelling",
+          "spelt to"
+        ],
+        "a": 0,
+        "why": "问拼写用 spell。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 217,
+          "printedPage": 213,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "老板送了桑德拉什么礼物？",
+        "opts": [
+          "一本词典",
+          "一个书架",
+          "一件貂皮大衣",
+          "一支钢笔"
+        ],
+        "a": 0,
+        "hint": "It's a dictionary. I hope it'll help you.",
+        "why": "帮她少犯拼写错误。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 217,
+          "printedPage": 213,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "信里有多少处错误？",
+        "opts": [
+          "17处",
+          "7处",
+          "70处",
+          "16处"
+        ],
+        "a": 0,
+        "hint": "You've made seventeen mistakes.",
+        "why": "所以要从头再打一遍。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 217,
+          "printedPage": 213,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "107": {
+    "g": [
+      {
+        "q": "This one's ___ than that one.",
+        "opts": [
+          "prettier",
+          "prettiest",
+          "pretty",
+          "more pretty"
+        ],
+        "a": 0,
+        "why": "pretty 变比较级：prettier。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 221,
+          "printedPage": 217,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "It's too small ___ me.",
+        "opts": [
+          "for",
+          "to",
+          "at",
+          "with"
+        ],
+        "a": 0,
+        "why": "too…for sb 对某人来说太……",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 221,
+          "printedPage": 217,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "女士为什么不买第一条连衣裙？",
+        "opts": [
+          "太小了",
+          "太长了",
+          "不喜欢颜色",
+          "太贵了"
+        ],
+        "a": 0,
+        "hint": "it's too small for me",
+        "why": "颜色她很喜欢，只是尺码小。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 221,
+          "printedPage": 217,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "现在流行什么？",
+        "opts": [
+          "短裙",
+          "长裙",
+          "蓝裙子",
+          "大帽子"
+        ],
+        "a": 0,
+        "hint": "Short skirts are in fashion now.",
+        "why": "店员这样推荐。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 221,
+          "printedPage": 217,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "109": {
+    "g": [
+      {
+        "q": "___ I make some coffee?",
+        "opts": [
+          "Shall",
+          "Will",
+          "Do",
+          "Am"
+        ],
+        "a": 0,
+        "why": "Shall I…? 提出建议。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 225,
+          "printedPage": 221,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "Just a ___, please.（牛奶不可数）",
+        "opts": [
+          "little",
+          "few",
+          "lot",
+          "some"
+        ],
+        "a": 0,
+        "why": "a little + 不可数名词。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 225,
+          "printedPage": 221,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "简要多少糖？",
+        "opts": [
+          "一茶匙半",
+          "两茶匙",
+          "三茶匙",
+          "不要糖"
+        ],
+        "a": 0,
+        "hint": "One and a half teaspoonfuls, please.",
+        "why": "比两勺少一点。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 225,
+          "printedPage": 221,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "夏洛特最后给了什么建议？",
+        "opts": [
+          "多吃点，少抽点",
+          "多抽点，少吃点",
+          "多喝茶",
+          "早点睡"
+        ],
+        "a": 0,
+        "hint": "Eat more and smoke less!",
+        "why": "烟盒空了，吃饼干代替。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 225,
+          "printedPage": 221,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "111": {
+    "g": [
+      {
+        "q": "It's ___ expensive model in the shop.",
+        "opts": [
+          "the most",
+          "more",
+          "most",
+          "much most"
+        ],
+        "a": 0,
+        "why": "最高级 the most + 多音节形容词。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 229,
+          "printedPage": 225,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "We can't ___ all that money.",
+        "opts": [
+          "afford",
+          "pay",
+          "cost",
+          "buy"
+        ],
+        "a": 0,
+        "why": "afford 付得起；cost 主语是物。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 229,
+          "printedPage": 225,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "最贵的型号多少钱？",
+        "opts": [
+          "500英镑",
+          "300英镑",
+          "30英镑",
+          "每月14英镑"
+        ],
+        "a": 0,
+        "hint": "It costs five hundred pounds.",
+        "why": "便宜的型号只要300镑但没那么好。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 229,
+          "printedPage": 225,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "他们可以怎么付款？",
+        "opts": [
+          "分期付款",
+          "一次付清",
+          "用支票",
+          "用现金"
+        ],
+        "a": 0,
+        "hint": "Can we buy it on instalments?",
+        "why": "先付定金再按月付。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 229,
+          "printedPage": 225,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "113": {
+    "g": [
+      {
+        "q": "___ can I.",
+        "opts": [
+          "Neither",
+          "So",
+          "Too",
+          "Also"
+        ],
+        "a": 0,
+        "why": "回应否定用 Neither + 倒装。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 233,
+          "printedPage": 229,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "根据本课常见表达，补全原句：Haven't you got ___ small change?",
+        "opts": [
+          "any",
+          "some",
+          "many",
+          "a"
+        ],
+        "a": 0,
+        "why": "本题按本课给出的表达选择 any；some/any 的选择还受语境影响，不能把疑问句或否定句一律当作排除 some 的依据。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 233,
+          "printedPage": 229,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "售票员做不了什么事？",
+        "opts": [
+          "找开10英镑钞票",
+          "开车",
+          "开门",
+          "停车"
+        ],
+        "a": 0,
+        "hint": "I can't change a ten-pound note.",
+        "why": "没有零钱找。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 233,
+          "printedPage": 229,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "这位乘客要去哪儿？",
+        "opts": [
+          "特拉法加广场",
+          "国王街",
+          "伦敦桥",
+          "火车站"
+        ],
+        "a": 0,
+        "hint": "Trafalgar Square, please.",
+        "why": "车费付不出零钱闹了笑话。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 233,
+          "printedPage": 229,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "115": {
+    "g": [
+      {
+        "q": "根据课文原句：Isn’t there ___ at home?",
+        "opts": [
+          "anyone",
+          "someone",
+          "no one",
+          "everyone"
+        ],
+        "a": 0,
+        "why": "PDF237 原句用 anyone。someone 在其他期待肯定回答的问句中也可能成立，不能仅凭“疑问句”排除它。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "___ wants to have lunch in the garden.",
+        "opts": [
+          "Everyone",
+          "All",
+          "Every",
+          "Nothing"
+        ],
+        "a": 0,
+        "why": "everyone 按单数对待。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "大家都在哪儿？",
+        "opts": [
+          "花园里",
+          "电影院",
+          "厨房",
+          "聚会上"
+        ],
+        "a": 0,
+        "hint": "Everyone's in the garden.",
+        "why": "外面又好又暖和。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "汤姆说卡罗尔在做什么？",
+        "opts": [
+          "开玩笑",
+          "生气了",
+          "睡着了",
+          "说对了"
+        ],
+        "a": 0,
+        "hint": "She's only joking.",
+        "why": "其实啤酒还有，别信她的。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 237,
+          "printedPage": 233,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ]
+  },
+  "117": {
+    "g": [
+      {
+        "q": "When my husband ___ going into the dining room, he dropped some coins.",
+        "opts": [
+          "was",
+          "were",
+          "is",
+          "has"
+        ],
+        "a": 0,
+        "why": "过去进行时 was going。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 241,
+          "printedPage": 237,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "Tommy had already ___ them!",
+        "opts": [
+          "swallowed",
+          "swallow",
+          "swallows",
+          "swallowing"
+        ],
+        "a": 0,
+        "why": "过去完成时 had + 过去分词。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 241,
+          "printedPage": 237,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "汤米把硬币怎么了？",
+        "opts": [
+          "吞下去了",
+          "买了糖",
+          "交给了妈妈",
+          "藏起来了"
+        ],
+        "a": 0,
+        "hint": "Tommy had already swallowed them!",
+        "why": "放进嘴里拿不出来了。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 241,
+          "printedPage": 237,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "丈夫打电话时在哪儿？",
+        "opts": [
+          "办公室",
+          "家里",
+          "街上",
+          "医院"
+        ],
+        "a": 0,
+        "hint": "my husband phoned me from the office",
+        "why": "他上班时打电话问汤米。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 241,
+          "printedPage": 237,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "119": {
+    "g": [
+      {
+        "q": "The thieves ran away as ___ as they could.",
+        "opts": [
+          "quickly",
+          "quick",
+          "quicker",
+          "quickest"
+        ],
+        "a": 0,
+        "why": "修饰 ran 用副词。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 245,
+          "printedPage": 241,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "It ___ to a friend of mine.",
+        "opts": [
+          "happened",
+          "happen",
+          "happening",
+          "happens"
+        ],
+        "a": 0,
+        "why": "一年前的事，用过去式。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 245,
+          "printedPage": 241,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "是谁吓跑了小偷？",
+        "opts": [
+          "一只鹦鹉",
+          "警察",
+          "乔治的狗",
+          "一位邻居"
+        ],
+        "a": 0,
+        "hint": "George's parrot, Henry",
+        "why": "鹦鹉喊 What's up? 小偷以为有人。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 245,
+          "printedPage": 241,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "小偷逃跑时丢下了什么？",
+        "opts": [
+          "手电筒",
+          "钱",
+          "鞋子",
+          "包"
+        ],
+        "a": 0,
+        "hint": "The thieves dropped the torch",
+        "why": "慌忙逃走顾不上了。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 245,
+          "printedPage": 241,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "121": {
+    "g": [
+      {
+        "q": "The lady ___ is standing behind the counter.",
+        "opts": [
+          "who",
+          "which",
+          "what",
+          "whose"
+        ],
+        "a": 0,
+        "why": "这里用 who 引导说明 lady 的定语从句；接待顾客的是站在柜台后的女士。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 249,
+          "printedPage": 245,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, complete English-body and speaker",
+          "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+        }
+      },
+      {
+        "q": "I forgot ___ them with me.",
+        "opts": [
+          "to take",
+          "taking",
+          "took",
+          "take"
+        ],
+        "a": 0,
+        "why": "forget to do 忘记去做。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 249,
+          "printedPage": 245,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, complete English-body and speaker",
+          "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "顾客买了什么？",
+        "opts": [
+          "两本很贵的词典",
+          "两顶帽子",
+          "几本杂志",
+          "两本相册"
+        ],
+        "a": 0,
+        "hint": "I bought two expensive dictionaries",
+        "why": "顾客买了两本很贵的词典，但忘了带走。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 249,
+          "printedPage": 245,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, complete English-body and speaker",
+          "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+        }
+      },
+      {
+        "q": "卡罗琳在顾客做什么后认出了他？",
+        "opts": [
+          "戴上帽子",
+          "买一顶新帽子",
+          "站到柜台后",
+          "打电话"
+        ],
+        "a": 0,
+        "hint": "Would you put it on, please? / I recognize him now.",
+        "why": "卡罗琳记得自己接待的人戴着帽子；顾客戴上帽子后，她才认出他。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 249,
+          "printedPage": 245,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, complete English-body and speaker",
+          "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+        }
+      }
+    ]
+  },
+  "123": {
+    "g": [
+      {
+        "q": "I grew a beard ___ the trip.",
+        "opts": [
+          "during",
+          "while",
+          "when",
+          "at"
+        ],
+        "a": 0,
+        "why": "表示“在旅行期间”，during 后接名词短语 the trip；while/when 通常接表示时间的句子。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 253,
+          "printedPage": 249,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "I ___ a beard during the trip.",
+        "opts": [
+          "grew",
+          "growed",
+          "grow",
+          "grown"
+        ],
+        "a": 0,
+        "why": "grow 不规则过去式 grew。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 253,
+          "printedPage": 249,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "旅行去了哪里？",
+        "opts": [
+          "澳大利亚",
+          "美国",
+          "中国",
+          "日本"
+        ],
+        "a": 0,
+        "hint": "my trip to Australia",
+        "why": "照片是旅行时拍的。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 253,
+          "printedPage": 249,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "到家后他把胡子怎么了？",
+        "opts": [
+          "刮掉了",
+          "留得更长",
+          "染了色",
+          "编了起来"
+        ],
+        "a": 0,
+        "hint": "I shaved it off when I came home.",
+        "why": "迈克说回家时刮掉了胡子，因为妻子不喜欢；照片中的胡子让斯科特一时没认出他。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 253,
+          "printedPage": 249,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ]
+  },
+  "125": {
+    "g": [
+      {
+        "q": "Do you have ___ water the garden now?",
+        "opts": [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        "a": 0,
+        "why": "have to + 动词原形。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 257,
+          "printedPage": 253,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "You ___ water the garden now.（不必）",
+        "opts": [
+          "needn't",
+          "mustn't",
+          "can't",
+          "don't"
+        ],
+        "a": 0,
+        "why": "needn't = 不必。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 257,
+          "printedPage": 253,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "彼得为什么要浇花园？",
+        "opts": [
+          "天太干燥了",
+          "因为下雨",
+          "苏珊让他玩",
+          "花是新种的"
+        ],
+        "a": 0,
+        "hint": "It's terribly dry.",
+        "why": "去年夏天也很干。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 257,
+          "printedPage": 253,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "结尾发生了什么？",
+        "opts": [
+          "下雨了",
+          "下雪了",
+          "刮大风",
+          "出太阳"
+        ],
+        "a": 0,
+        "hint": "Good heavens! It's raining.",
+        "why": "不用浇水了，正好进来喝茶。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 257,
+          "printedPage": 253,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "127": {
+    "g": [
+      {
+        "q": "根据课文原句：I read she’s twenty-nine, but she ___ be at least forty.",
+        "opts": [
+          "must",
+          "may not",
+          "can",
+          "should to"
+        ],
+        "a": 0,
+        "why": "原页用 must be at least forty，表示莉兹有把握的推测，不是已证实的真实年龄。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 261,
+          "printedPage": 257,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, complete English-body and speaker",
+          "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+        }
+      },
+      {
+        "q": "In my ___, she's about forty.",
+        "opts": [
+          "opinion",
+          "mind",
+          "idea",
+          "thought"
+        ],
+        "a": 0,
+        "why": "in my opinion 依我看。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 261,
+          "printedPage": 257,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, complete English-body and speaker",
+          "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "莉兹认为那个女人是谁？",
+        "opts": [
+          "著名演员卡伦·马什",
+          "一位教师",
+          "一位医生",
+          "一位歌手"
+        ],
+        "a": 0,
+        "hint": "It must be Karen Marsh, the actress.",
+        "why": "莉兹推测她是女演员卡伦·马什；场景不是在描述一张照片。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 261,
+          "printedPage": 257,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, complete English-body and speaker",
+          "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+        }
+      },
+      {
+        "q": "莉兹说她读到卡伦是多少岁？",
+        "opts": [
+          "29岁",
+          "35岁",
+          "40岁",
+          "45岁"
+        ],
+        "a": 0,
+        "hint": "I read she's twenty-nine",
+        "why": "莉兹说 I read she’s twenty-nine；她自己猜至少四十岁。原页没有说明读到信息的载体。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 261,
+          "printedPage": 257,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, complete English-body and speaker",
+          "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+        }
+      }
+    ]
+  },
+  "129": {
+    "g": [
+      {
+        "q": "You must have been driving ___ seventy miles an hour.",
+        "opts": [
+          "at",
+          "on",
+          "in",
+          "with"
+        ],
+        "a": 0,
+        "why": "速度用 at。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 265,
+          "printedPage": 261,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "I was ___ eighty when I overtook you.",
+        "opts": [
+          "doing",
+          "do",
+          "did",
+          "done"
+        ],
+        "a": 0,
+        "why": "过去进行时 was doing。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 265,
+          "printedPage": 261,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "司机的借口是什么？",
+        "opts": [
+          "刚才在做梦",
+          "牌子坏了",
+          "他是新手",
+          "路上没车"
+        ],
+        "a": 0,
+        "hint": "I was dreaming.",
+        "why": "警察不信：You weren't dreaming!",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 265,
+          "printedPage": 261,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "警察决定怎么处理？",
+        "opts": [
+          "这次不罚款",
+          "吊销驾照",
+          "逮捕他",
+          "重罚他"
+        ],
+        "a": 0,
+        "hint": "I won't charge you this time",
+        "why": "但警告别再开快车。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 265,
+          "printedPage": 261,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "131": {
+    "g": [
+      {
+        "q": "We ___ go abroad.（可能）",
+        "opts": [
+          "may",
+          "must",
+          "can",
+          "should"
+        ],
+        "a": 0,
+        "why": "may 表可能性。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 269,
+          "printedPage": 265,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "My wife always ___ too much.",
+        "opts": [
+          "worries",
+          "worry",
+          "worrying",
+          "worried"
+        ],
+        "a": 0,
+        "why": "三单 worries。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 269,
+          "printedPage": 265,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "妻子想去哪里度假？",
+        "opts": [
+          "埃及",
+          "西班牙",
+          "日本",
+          "法国"
+        ],
+        "a": 0,
+        "hint": "My wife wants to go to Egypt.",
+        "why": "所以可能去埃及。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 269,
+          "printedPage": 265,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "他们今年一定能出国吗？",
+        "opts": [
+          "不一定，「别那么肯定」",
+          "非常有把握，肯定去",
+          "机票已经订好了",
+          "他们明天就出发"
+        ],
+        "a": 0,
+        "hint": "Don't be so sure!",
+        "why": "妻子总是担心这担心那，所以可能哪里也去不成。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 269,
+          "printedPage": 265,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "133": {
+    "g": [
+      {
+        "q": "She said she ___ going to retire.",
+        "opts": [
+          "was",
+          "is",
+          "were",
+          "has"
+        ],
+        "a": 0,
+        "why": "转述后退一步：is going to → was going to。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 273,
+          "printedPage": 269,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "I ___ why!",
+        "opts": [
+          "wonder",
+          "wander",
+          "wondering",
+          "wonders"
+        ],
+        "a": 0,
+        "why": "wonder 想知道（注意别拼成 wander 游荡）。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 273,
+          "printedPage": 269,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "马什小姐对拍电影怎么说？",
+        "opts": [
+          "不再拍了，准备退休",
+          "要拍十部",
+          "最爱拍电影",
+          "从没拍过"
+        ],
+        "a": 0,
+        "hint": "I'm going to retire.",
+        "why": "她觉得很疲惫。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 273,
+          "printedPage": 269,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "她当时穿着什么？",
+        "opts": [
+          "貂皮大衣",
+          "蓝裙子",
+          "滑稽的帽子",
+          "制服"
+        ],
+        "a": 0,
+        "hint": "She was wearing a mink coat.",
+        "why": "记者在机场拍到的。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 273,
+          "printedPage": 269,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "135": {
+    "g": [
+      {
+        "q": "She said she ___ have to ask her future husband.",
+        "opts": [
+          "would",
+          "will",
+          "shall",
+          "can"
+        ],
+        "a": 0,
+        "why": "转述将来：will → would。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 277,
+          "printedPage": 273,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "I can't make ___ my mind.",
+        "opts": [
+          "up",
+          "on",
+          "out",
+          "of"
+        ],
+        "a": 0,
+        "why": "make up one's mind 下决心。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 277,
+          "printedPage": 273,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "马什小姐的未婚夫是谁？",
+        "opts": [
+          "记者艾伦·琼斯",
+          "经理",
+          "她的牙医",
+          "乔治"
+        ],
+        "a": 0,
+        "hint": "她把记者介绍给了大家——他就是未婚夫！",
+        "why": "课文的反转：记者「自曝」。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 277,
+          "printedPage": 273,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "报纸把这则新闻叫什么？",
+        "opts": [
+          "最新消息（The Latest Report）",
+          "车祸",
+          "天气新闻",
+          "零钱"
+        ],
+        "a": 0,
+        "hint": "The latest report!",
+        "why": "报纸头条。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 277,
+          "printedPage": 273,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "137": {
+    "g": [
+      {
+        "q": "If we ___ the pools, we'll travel round the world.",
+        "opts": [
+          "win",
+          "will win",
+          "won",
+          "winning"
+        ],
+        "a": 0,
+        "why": "主将从现：if 从句用现在时。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 281,
+          "printedPage": 277,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "What will you do if you ___ a lot of money?",
+        "opts": [
+          "win",
+          "wins",
+          "will win",
+          "won"
+        ],
+        "a": 0,
+        "why": "从句主语 you 用一般现在时 win。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 281,
+          "printedPage": 277,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "如果赢了，妻子想做什么？",
+        "opts": [
+          "去看看世界",
+          "买件貂皮大衣",
+          "买大房子",
+          "呆在家"
+        ],
+        "a": 0,
+        "hint": "I don't want a mink coat. I want to see the world.",
+        "why": "丈母娘? 不——是妻子不要貂皮大衣。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 281,
+          "printedPage": 277,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "如果钱花光了怎么办？",
+        "opts": [
+          "再去赢足球赌注",
+          "去上班",
+          "卖房子",
+          "再旅行一次"
+        ],
+        "a": 0,
+        "hint": "we'll try and win the football pools again!",
+        "why": "美梦继续！",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 281,
+          "printedPage": 277,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "139": {
+    "g": [
+      {
+        "q": "___ that you, John?",
+        "opts": [
+          "Is",
+          "Are",
+          "Am",
+          "Do"
+        ],
+        "a": 0,
+        "why": "电话用语 Is that…?",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 285,
+          "printedPage": 281,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, complete English-body and speaker",
+          "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+        }
+      },
+      {
+        "q": "Tell Mary we'll be ___ for dinner.",
+        "opts": [
+          "late",
+          "later",
+          "latest",
+          "late to"
+        ],
+        "a": 0,
+        "why": "be late for 迟到。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 285,
+          "printedPage": 281,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, complete English-body and speaker",
+          "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "实际接电话的约翰·史密斯是什么身份？",
+        "opts": [
+          "正在修线路的电话工程师",
+          "海外工程公司的朋友",
+          "玛丽的厨师",
+          "格雷厄姆的老板"
+        ],
+        "a": 0,
+        "hint": "I'm John Smith the telephone engineer and I'm repairing your telephone line.",
+        "why": "格雷厄姆认错了同名的人；实际接电话的是电话工程师，不是承诺转告玛丽的朋友。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 285,
+          "printedPage": 281,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, complete English-body and speaker",
+          "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+        }
+      },
+      {
+        "q": "格雷厄姆说自己为什么会晚到晚饭？",
+        "opts": [
+          "老板要他加做工作",
+          "饭已经凉了",
+          "电话工程师请他吃饭",
+          "玛丽取消了邀请"
+        ],
+        "a": 0,
+        "hint": "the boss wants me to do some extra work",
+        "why": "他要留在办公室加做工作，不知道何时结束；但接电话的并不是他以为的那位朋友。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 285,
+          "printedPage": 281,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, complete English-body and speaker",
+          "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+        }
+      }
+    ]
+  },
+  "141": {
+    "g": [
+      {
+        "q": "Sally ___ invited to a children's party.",
+        "opts": [
+          "was",
+          "is",
+          "has",
+          "been"
+        ],
+        "a": 0,
+        "why": "被动语态 was invited。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 289,
+          "printedPage": 285,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "She had ___ travelled on a train before.",
+        "opts": [
+          "never",
+          "ever",
+          "already",
+          "just"
+        ],
+        "a": 0,
+        "why": "had never done 过去完成时。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 289,
+          "printedPage": 285,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "萨莉为什么很兴奋？",
+        "opts": [
+          "从未坐过火车",
+          "最爱聚会",
+          "喜欢那位女士",
+          "看到了大海"
+        ],
+        "a": 0,
+        "hint": "she had never travelled on a train before",
+        "why": "第一次坐火车。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 289,
+          "printedPage": 285,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      },
+      {
+        "q": "最后谁感到很尴尬？",
+        "opts": [
+          "「我」（家长）",
+          "萨莉",
+          "那位女士",
+          "司机"
+        ],
+        "a": 0,
+        "hint": "Sally was amused, but I was very embarrassed!",
+        "why": "女儿说了实话「你还是很难看」。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 289,
+          "printedPage": 285,
+          "status": "candidate",
+          "verified": false,
+          "scope": "page-offset-only",
+          "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+        }
+      }
+    ]
+  },
+  "143": {
+    "g": [
+      {
+        "q": "Anyone who leaves litter ___ prosecuted!",
+        "opts": [
+          "will be",
+          "will",
+          "is being",
+          "prosecutes"
+        ],
+        "a": 0,
+        "why": "将来被动：will be + 过去分词。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 293,
+          "printedPage": 289,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "The town is surrounded ___ beautiful woods.",
+        "opts": [
+          "by",
+          "with",
+          "of",
+          "from"
+        ],
+        "a": 0,
+        "why": "be surrounded by 表示“被……环绕”；by 后面的 woods 是环绕小镇的树林，不一定是人。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 293,
+          "printedPage": 289,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ],
+    "c": [
+      {
+        "q": "作者在垃圾堆里发现了什么？",
+        "opts": [
+          "一块牌子",
+          "一只鹦鹉",
+          "一枚硬币",
+          "一本词典"
+        ],
+        "a": 0,
+        "hint": "I found a sign which said…",
+        "why": "牌子上写着乱扔垃圾将被依法处置。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 293,
+          "printedPage": 289,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      },
+      {
+        "q": "游客被要求做什么？",
+        "opts": [
+          "保持树林整洁",
+          "砍伐树木",
+          "数一数旧车",
+          "到处扔垃圾"
+        ],
+        "a": 0,
+        "hint": "keep the woods clean and tidy",
+        "why": "但很多人做不到，所以才有那块牌子。",
+        "source": "supplement",
+        "basedOn": {
+          "source": "textbook",
+          "file": "电子资料/新概念英语第一册学生用书.pdf",
+          "pdfPage": 293,
+          "printedPage": 289,
+          "status": "verified",
+          "verified": true,
+          "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+          "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+        }
+      }
+    ]
+  }
+}

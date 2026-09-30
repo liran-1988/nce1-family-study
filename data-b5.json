@@ -1,0 +1,335 @@
+[
+  {
+    "id": 97,
+    "title": "A small blue case",
+    "titleCn": "一只蓝色的小箱子",
+    "kind": "text",
+    "words": [
+      {"en":"describe","ipa":"/dɪˈskraɪb/","cn":"v. 描述","source":"supplement"},
+      {"en":"zip","ipa":"/zɪp/","cn":"n. 拉链","source":"supplement"},
+      {"en":"label","ipa":"/ˈleɪbl/","cn":"n. 标签","source":"supplement"},
+      {"en":"handle","ipa":"/ˈhændl/","cn":"n. 提手，把手","source":"supplement"},
+      {"en":"address","ipa":"/əˈdres/","cn":"n. 地址","source":"supplement"},
+      {"en":"belong","ipa":"/bɪˈlɒŋ/","cn":"v. 属于（belong to）","source":"supplement"},
+      {"en":"pence","ipa":"/pens/","cn":"n. 便士（penny 的复数）","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Can you describe it, sir?","cn":"先生，您能描述一下它的样子吗？","source":"adaptation"},
+      {"en":"It's a small blue case and it's got a zip.","cn":"是一只蓝色小箱子，上面有拉链。","source":"adaptation"},
+      {"en":"This case doesn't belong to you!","cn":"这箱子不是您的！","source":"adaptation"}
+    ],
+    "grammar": "have got = have：It's got a zip.（它有一个拉链）；belong to 后面接人称宾语，不能说 belong to sb's。",
+    "tip": "多个形容词修饰名词的顺序：大小 → 颜色 → 名词，如 a small blue case（一只蓝色小箱子）。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":201,"printedPage":197,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 99,
+    "title": "Ow!",
+    "titleCn": "啊哟！",
+    "kind": "text",
+    "words": [
+      {"en":"slip","ipa":"/slɪp/","cn":"v. 滑倒，滑了一跤","source":"supplement"},
+      {"en":"fall","ipa":"/fɔːl/","cn":"v. 摔倒，落下（fell）","source":"supplement"},
+      {"en":"downstairs","ipa":"/ˌdaʊnˈsteəz/","cn":"adv. 在楼下，往楼下","source":"supplement"},
+      {"en":"hurt","ipa":"/hɜːt/","cn":"v. 伤害，使受伤（原形、过去式同形）","source":"supplement"},
+      {"en":"back","ipa":"/bæk/","cn":"n. 背，背部","source":"supplement"},
+      {"en":"stand up","ipa":"/ˈstænd ʌp/","cn":"phr. 站起来","source":"supplement"},
+      {"en":"help","ipa":"/help/","cn":"v. 帮助","source":"supplement"},
+      {"en":"sure","ipa":"/ʃʊə/","cn":"adj. 确信的","source":"supplement"},
+      {"en":"X-ray","ipa":"/ˈeks reɪ/","cn":"n. X 光透视","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"I slipped and fell downstairs.","cn":"我滑了一跤，从楼梯上摔了下来。","source":"adaptation"},
+      {"en":"Have you hurt yourself?","cn":"你摔伤了没有？","source":"adaptation"},
+      {"en":"I'm sure that you need an X-ray.","cn":"我看你需要拍一张X光片。","source":"adaptation"}
+    ],
+    "grammar": "hurt yourself 用反身代词作宾语；have hurt 是 hurt 的现在完成时（hurt 三态同形：hurt-hurt-hurt）。",
+    "tip": "滑倒三步曲：slip（滑）→ fall（摔）→ hurt（受伤）；I'm sure (that) + 从句表示“我确信……”。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":205,"printedPage":201,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 101,
+    "title": "A card from Jimmy",
+    "titleCn": "吉米的明信片",
+    "kind": "text",
+    "words": [
+      {"en":"Scotland","ipa":"/ˈskɒtlənd/","cn":"n. 苏格兰","source":"supplement"},
+      {"en":"card","ipa":"/kɑːd/","cn":"n. 明信片；纸牌","source":"supplement"},
+      {"en":"youth","ipa":"/juːθ/","cn":"n. 青年（Youth Hostel 青年招待所）","source":"supplement"},
+      {"en":"hotel","ipa":"/həʊˈtel/","cn":"n. 旅馆","source":"supplement"},
+      {"en":"association","ipa":"/əˌsəʊʃiˈeɪʃn/","cn":"n. 协会","source":"supplement"},
+      {"en":"soon","ipa":"/suːn/","cn":"adv. 不久","source":"supplement"},
+      {"en":"write","ipa":"/raɪt/","cn":"v. 写（wrote）","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"He says he's just arrived in Scotland.","cn":"他说他刚到苏格兰。","source":"adaptation"},
+      {"en":"He says he's staying at a Youth Hostel.","cn":"他说他正住在一家青年招待所。","source":"adaptation"},
+      {"en":"He will write a letter soon.","cn":"他很快就会写信来的。","source":"adaptation"}
+    ],
+    "grammar": "He says (that) + 从句，用来转述别人所说的话；say 后面的 that 常可省略，从句时态跟原话保持一致。",
+    "tip": "say 强调“说”的内容，后面不直接跟人；tell 后面必须跟人：He says... ／ He tells me...",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":209,"printedPage":205,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 103,
+    "title": "The French test",
+    "titleCn": "法语考试",
+    "kind": "text",
+    "words": [
+      {"en":"exam","ipa":"/ɪɡˈzæm/","cn":"n. 考试","source":"supplement"},
+      {"en":"pass","ipa":"/pɑːs/","cn":"v. 及格，通过","source":"supplement"},
+      {"en":"mark","ipa":"/mɑːk/","cn":"n. 分数","source":"supplement"},
+      {"en":"paper","ipa":"/ˈpeɪpə/","cn":"n. 试卷；纸","source":"supplement"},
+      {"en":"easy","ipa":"/ˈiːzi/","cn":"adj. 容易的","source":"supplement"},
+      {"en":"enough","ipa":"/ɪˈnʌf/","cn":"adv. 足够地；adj. 足够的","source":"supplement"},
+      {"en":"question","ipa":"/ˈkwestʃən/","cn":"n. 问题","source":"supplement"},
+      {"en":"maths","ipa":"/mæθs/","cn":"n. 数学","source":"supplement"},
+      {"en":"hate","ipa":"/heɪt/","cn":"v. 讨厌","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"How was the exam, Richard?","cn":"考试考得怎样，理查德？","source":"adaptation"},
+      {"en":"I think I passed.","cn":"我想我及格了。","source":"adaptation"},
+      {"en":"The English paper wasn't easy enough for me.","cn":"英语试卷对我来说不够容易。","source":"adaptation"}
+    ],
+    "grammar": "too + 形容词（太……而不适合）；形容词 + enough（足够……），enough 要放在形容词后面；think (that) + 从句。",
+    "tip": "too hard = 难得过火（做不了），hard enough = 足够难——位置相反：too 在前，enough 在后。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":213,"printedPage":209,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 105,
+    "title": "Full of mistakes",
+    "titleCn": "错误百出",
+    "kind": "text",
+    "words": [
+      {"en":"spell","ipa":"/spel/","cn":"v. 拼写（spelt）","source":"supplement"},
+      {"en":"intelligently","ipa":"/ɪnˈtelɪdʒəntli/","cn":"adv. 聪明地","source":"supplement"},
+      {"en":"mistake","ipa":"/mɪˈsteɪk/","cn":"n. 错误","source":"supplement"},
+      {"en":"correct","ipa":"/kəˈrekt/","cn":"v. 改正；adj. 正确的","source":"supplement"},
+      {"en":"present","ipa":"/ˈpreznt/","cn":"n. 礼物","source":"supplement"},
+      {"en":"dictionary","ipa":"/ˈdɪkʃənri/","cn":"n. 词典","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"I want her to type this letter again.","cn":"我要她把这封信再打一遍。","source":"adaptation"},
+      {"en":"You've made seventeen mistakes.","drill":true,"cn":"你有十七处错误。","source":"supplement"},
+      {"en":"Here's a present for you.","cn":"这是送给你的礼物。","source":"adaptation"}
+    ],
+    "grammar": "want sb to do sth 要某人做某事；make a mistake 犯错误（复数 make mistakes）。",
+    "tip": "记住结构：I want you to spell it. —— to 后面的动作才是让对方做的。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":217,"printedPage":213,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 107,
+    "title": "It's too small.",
+    "titleCn": "太小了。",
+    "kind": "text",
+    "words": [
+      {"en":"madam","ipa":"/ˈmædəm/","cn":"n. 夫人，女士（尊称）","source":"supplement"},
+      {"en":"pretty","ipa":"/ˈprɪti/","cn":"adj. 漂亮的","source":"supplement"},
+      {"en":"suit","ipa":"/sjuːt/","cn":"v. 适合；n. 西装","source":"supplement"},
+      {"en":"short","ipa":"/ʃɔːt/","cn":"adj. 短的","source":"supplement"},
+      {"en":"long","ipa":"/lɒŋ/","cn":"adj. 长的","source":"supplement"},
+      {"en":"prettier","ipa":"/ˈprɪtiə/","cn":"adj. 更漂亮的","source":"supplement"},
+      {"en":"smaller","ipa":"/ˈsmɔːlə/","cn":"adj. 更小的","source":"supplement"},
+      {"en":"bigger","ipa":"/ˈbɪɡə/","cn":"adj. 更大的","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Do you like this dress, madam?","cn":"这件连衣裙您喜欢吗，夫人？","source":"adaptation"},
+      {"en":"I'm afraid it's too small for me.","cn":"恐怕它对我来说太小了。","source":"adaptation"},
+      {"en":"This one's prettier than that one.","drill":true,"cn":"这件比那件更漂亮。","source":"supplement"}
+    ],
+    "grammar": "比较级：短形容词加 -er，than 引出比较对象；too + 形容词 + for sb 表示“对某人来说太……”。",
+    "tip": "变尾规则：pretty→prettier（y 变 i），big→bigger（双写 g），long→longer（直接加）。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":221,"printedPage":217,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 109,
+    "title": "A good idea",
+    "titleCn": "好主意",
+    "kind": "text",
+    "words": [
+      {"en":"idea","ipa":"/aɪˈdɪə/","cn":"n. 主意","source":"supplement"},
+      {"en":"teaspoonful","ipa":"/ˈtiːspuːnfʊl/","cn":"n. 一茶匙的量","source":"supplement"},
+      {"en":"less","ipa":"/les/","cn":"adj. 较少的（little 的比较级）","source":"supplement"},
+      {"en":"a few","ipa":"/ə fjuː/","cn":"phr. 几个（修饰复数名词）","source":"supplement"},
+      {"en":"pity","ipa":"/ˈpɪti/","cn":"n. 遗憾","source":"supplement"},
+      {"en":"instead","ipa":"/ɪnˈsted/","cn":"adv. 代替，而是","source":"supplement"},
+      {"en":"advice","ipa":"/ədˈvaɪs/","cn":"n. 建议，忠告（不可数）","source":"supplement"},
+      {"en":"milk","ipa":"/mɪlk/","cn":"n. 牛奶","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Shall I make some coffee, Jane?","cn":"我来煮点咖啡好吗，简？","source":"adaptation"},
+      {"en":"That's a good idea.","cn":"这是个好主意。","source":"adaptation"},
+      {"en":"Just a little, please.","cn":"只要一点点。","source":"adaptation"}
+    ],
+    "grammar": "Shall I...? 用来提出建议或主动帮忙；a little + 不可数名词，a few + 复数名词。",
+    "tip": "主动帮忙最地道的开头是 Shall I...?，接受说 That's a good idea.；What a pity! 真遗憾！",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":225,"printedPage":221,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 111,
+    "title": "The most expensive model",
+    "titleCn": "最昂贵的型号",
+    "kind": "text",
+    "words": [
+      {"en":"model","ipa":"/ˈmɒdl/","cn":"n. 型号；模型","source":"supplement"},
+      {"en":"afford","ipa":"/əˈfɔːd/","cn":"v. 付得起（钱）","source":"supplement"},
+      {"en":"deposit","ipa":"/dɪˈpɒzɪt/","cn":"n. 预付定金","source":"supplement"},
+      {"en":"instalment","ipa":"/ɪnˈstɔːlmənt/","cn":"n. 分期付款（on instalments）","source":"supplement"},
+      {"en":"price","ipa":"/praɪs/","cn":"n. 价格","source":"supplement"},
+      {"en":"millionaire","ipa":"/ˌmɪljəˈneə/","cn":"n. 百万富翁","source":"supplement"},
+      {"en":"expensive","ipa":"/ɪkˈspensɪv/","cn":"adj. 昂贵的","source":"supplement"},
+      {"en":"pay","ipa":"/peɪ/","cn":"v. 支付（paid）","source":"supplement"},
+      {"en":"cheap","ipa":"/tʃiːp/","cn":"adj. 便宜的","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"It costs five hundred pounds.","cn":"它的价格是五百英镑。","source":"adaptation"},
+      {"en":"It's the most expensive model in the shop.","cn":"它是店里最贵的型号。","source":"adaptation"},
+      {"en":"We can't afford all that money.","cn":"我们付不起那么多钱。","source":"adaptation"}
+    ],
+    "grammar": "多音节形容词的比较级 / 最高级用 more / the most：less expensive, the most expensive；as good as 与……一样好。",
+    "tip": "afford 常与 can 连用：can't afford 买不起；buy ... on instalments 分期付款购买。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":229,"printedPage":225,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 113,
+    "title": "Small change",
+    "titleCn": "零钱",
+    "kind": "text",
+    "words": [
+      {"en":"conductor","ipa":"/kənˈdʌktə/","cn":"n. 售票员","source":"supplement"},
+      {"en":"fare","ipa":"/feə/","cn":"n. 车费","source":"supplement"},
+      {"en":"note","ipa":"/nəʊt/","cn":"n. 纸币；便条","source":"supplement"},
+      {"en":"passenger","ipa":"/ˈpæsɪndʒə/","cn":"n. 乘客","source":"supplement"},
+      {"en":"none","ipa":"/nʌn/","cn":"pron. 一个也没有","source":"supplement"},
+      {"en":"neither","ipa":"/ˈnaɪðə/","cn":"adv. 也不","source":"supplement"},
+      {"en":"tramp","ipa":"/træmp/","cn":"n. 流浪汉","source":"supplement"},
+      {"en":"get off","ipa":"/ɡet ɒf/","cn":"phr. 下（车）","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Fares, please!","cn":"请买票！","source":"adaptation"},
+      {"en":"I can't change a ten-pound note.","cn":"我找不开十英镑的钞票。","source":"adaptation"},
+      {"en":"Neither can I.","drill":true,"cn":"我也不能。（neither 引起倒装）","source":"supplement"}
+    ],
+    "grammar": "neither + 倒装语序（Neither can I.）表示“也不”；none 表示数量上“一个也没有”。",
+    "tip": "change 既可作动词“兑换”，也可作名词“零钱”；回应别人否定情况用 Neither have I / Neither can I。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":233,"printedPage":229,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 115,
+    "title": "Knock, knock!",
+    "titleCn": "敲敲门！",
+    "kind": "text",
+    "words": [
+      {"en":"knock","ipa":"/nɒk/","cn":"v. 敲（门）","source":"supplement"},
+      {"en":"everything","ipa":"/ˈevriθɪŋ/","cn":"pron. 一切事物","source":"supplement"},
+      {"en":"quiet","ipa":"/ˈkwaɪət/","cn":"adj. 安静的","source":"supplement"},
+      {"en":"impossible","ipa":"/ɪmˈpɒsəbl/","cn":"adj. 不可能的","source":"supplement"},
+      {"en":"invite","ipa":"/ɪnˈvaɪt/","cn":"v. 邀请","source":"supplement"},
+      {"en":"joke","ipa":"/dʒəʊk/","cn":"v. 开玩笑；n. 玩笑","source":"supplement"},
+      {"en":"asleep","ipa":"/əˈsliːp/","cn":"adj. 睡着的","source":"supplement"},
+      {"en":"anyone","ipa":"/ˈeniwʌn/","cn":"pron. 任何人","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"Isn't there anyone at home?","cn":"家里没有人吗？","source":"textbook","pdfPage":237,"printedPage":233,"verification":"verified","translationSource":"supplement"},
+      {"en":"Everything's very quiet.","cn":"四周静悄悄的。","source":"textbook","pdfPage":237,"printedPage":233,"verification":"verified","translationSource":"supplement"},
+      {"en":"There's no one at home.","cn":"家里一个人也没有。","source":"adaptation"}
+    ],
+    "grammar": "不定代词 anyone / nobody / no one / everything / nothing 都按单数对待，谓语动词用单数；Isn't there...? 否定疑问句表示惊讶。",
+    "tip": "形容词修饰本课复合不定代词时放在后面：something nice。everyone、anything 写成一个词；no one 通常写成两个词。some/any 的选择还要看语境，疑问句并非只能用 any。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":237,"printedPage":233,"status":"verified","verified":true,"scope":"lesson-heading, printed-page, English-body, speaker, Chinese-meaning","note":"本轮逐行对照原页；不含下一页词表和偶数课练习。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 117,
+    "title": "Tommy's breakfast",
+    "titleCn": "汤米的早餐",
+    "kind": "text",
+    "words": [
+      {"en":"dining room","ipa":"/ˈdaɪnɪŋ ruːm/","cn":"n. 餐厅","source":"supplement"},
+      {"en":"coin","ipa":"/kɔɪn/","cn":"n. 硬币","source":"supplement"},
+      {"en":"swallow","ipa":"/ˈswɒləʊ/","cn":"v. 吞下","source":"supplement"},
+      {"en":"later","ipa":"/ˈleɪtə/","cn":"adv. 后来","source":"supplement"},
+      {"en":"toilet","ipa":"/ˈtɔɪlət/","cn":"n. 厕所","source":"supplement"},
+      {"en":"while","ipa":"/waɪl/","cn":"conj. 当……的时候","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"When my husband was going into the dining room, he dropped some coins.","cn":"我丈夫走进餐厅的时候，把一些硬币掉在了地上。","source":"adaptation"},
+      {"en":"What were you doing while we were having breakfast?","cn":"我们吃早饭时你在干什么？","source":"adaptation"}
+    ],
+    "grammar": "过去进行时 was/were + doing 表示过去某时正在进行的动作；when / while 引导时间状语从句。",
+    "tip": "叙事经典结构：长动作用进行时（was going into...），短动作用过去时（dropped），while 后多用进行时。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":241,"printedPage":237,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 119,
+    "title": "A true story",
+    "titleCn": "一个真实的故事",
+    "kind": "text",
+    "words": [
+      {"en":"true","ipa":"/truː/","cn":"adj. 真实的","source":"supplement"},
+      {"en":"story","ipa":"/ˈstɔːri/","cn":"n. 故事","source":"supplement"},
+      {"en":"happen","ipa":"/ˈhæpən/","cn":"v. 发生","source":"supplement"},
+      {"en":"thief","ipa":"/θiːf/","cn":"n. 贼（复数 thieves）","source":"supplement"},
+      {"en":"enter","ipa":"/ˈentə/","cn":"v. 进入","source":"supplement"},
+      {"en":"dark","ipa":"/dɑːk/","cn":"adj. 黑暗的","source":"supplement"},
+      {"en":"torch","ipa":"/tɔːtʃ/","cn":"n. 手电筒","source":"supplement"},
+      {"en":"voice","ipa":"/vɔɪs/","cn":"n. 说话声，嗓音","source":"supplement"},
+      {"en":"parrot","ipa":"/ˈpærət/","cn":"n. 鹦鹉","source":"supplement"}
+    ],
+    "patterns": [
+      {"en":"It happened to a friend of mine a year ago.","cn":"这是一年前发生在我一个朋友身上的事。","source":"adaptation"},
+      {"en":"Suddenly, they heard a voice behind them.","cn":"突然，他们听到身后有声音。","source":"adaptation"},
+      {"en":"The thieves ran away as quickly as they could.","cn":"小偷们拼命地跑掉了。","source":"adaptation"}
+    ],
+    "grammar": "happen to sb 发生在某人身上（不及物动词，没有被动语态）；as ... as one can/could 表示“尽可能……”。",
+    "tip": "讲故事的经典开头：It happened to...；吓跑小偷的正是鹦鹉 Henry 那句 What's up?",
+    "source": "adaptation",
+    "sourceRefs": [
+      {"source":"textbook","file":"电子资料/新概念英语第一册学生用书.pdf","pdfPage":245,"printedPage":241,"status":"candidate","verified":false,"scope":"page-offset-only","note":"按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"}
+    ],
+    "teachingSource": "supplement"
+  }
+]

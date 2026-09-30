@@ -1,0 +1,15 @@
+.agent_cache/
+android-app/.private/
+android-app/build/
+android-app/*.log
+delivery-android/media/
+delivery-android/evidence/
+delivery-android/*.apk
+delivery-android/*.idsig
+books/
+videos/
+review-20260930/
+preflight-20260930/
+**/__pycache__/
+*.partial.mkv
+.DS_Store

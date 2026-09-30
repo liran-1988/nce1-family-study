@@ -1,0 +1,1096 @@
+[
+  {
+    "id": 121,
+    "title": "The man in a hat",
+    "titleCn": "戴帽子的男士",
+    "kind": "text",
+    "words": [
+      {
+        "en": "customer",
+        "ipa": "/ˈkʌstəmə/",
+        "cn": "n. 顾客",
+        "source": "supplement"
+      },
+      {
+        "en": "forget",
+        "ipa": "/fəˈɡet/",
+        "cn": "v. 忘记（forgot）",
+        "source": "supplement"
+      },
+      {
+        "en": "manager",
+        "ipa": "/ˈmænɪdʒə/",
+        "cn": "n. 经理",
+        "source": "supplement"
+      },
+      {
+        "en": "serve",
+        "ipa": "/sɜːv/",
+        "cn": "v. 接待（顾客），服务",
+        "source": "supplement"
+      },
+      {
+        "en": "counter",
+        "ipa": "/ˈkaʊntə/",
+        "cn": "n. 柜台",
+        "source": "supplement"
+      },
+      {
+        "en": "recognize",
+        "ipa": "/ˈrekəɡnaɪz/",
+        "cn": "v. 认出",
+        "source": "supplement"
+      },
+      {
+        "en": "hour",
+        "ipa": "/ˈaʊə/",
+        "cn": "n. 小时",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "I forgot to take them with me.",
+        "cn": "我忘了把它们带走。",
+        "source": "textbook",
+        "pdfPage": 249,
+        "printedPage": 245,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "Who served you, sir?",
+        "cn": "先生，是谁接待您的？",
+        "source": "textbook",
+        "pdfPage": 249,
+        "printedPage": 245,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "The lady who is standing behind the counter.",
+        "cn": "站在柜台后面的那位女士。",
+        "source": "textbook",
+        "pdfPage": 249,
+        "printedPage": 245,
+        "verification": "verified",
+        "translationSource": "supplement"
+      }
+    ],
+    "grammar": "forget to do sth 忘记去做某事；定语从句补充说明人或物：the lady who is standing behind the counter（站在柜台后面的女士）。",
+    "tip": "本课用 who/that 说明人，用 which 说明物；从句紧跟它所修饰的名词。戴帽子的是顾客，不是接待他的卡罗琳。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 249,
+        "printedPage": 245,
+        "status": "verified",
+        "verified": true,
+        "scope": "lesson-heading, printed-page, complete English-body and speaker",
+        "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 123,
+    "title": "A trip to Australia",
+    "titleCn": "澳大利亚之行",
+    "kind": "text",
+    "words": [
+      {
+        "en": "Australia",
+        "ipa": "/ɒˈstreɪliə/",
+        "cn": "n. 澳大利亚",
+        "source": "supplement"
+      },
+      {
+        "en": "during",
+        "ipa": "/ˈdjʊərɪŋ/",
+        "cn": "prep. 在……期间",
+        "source": "supplement"
+      },
+      {
+        "en": "trip",
+        "ipa": "/trɪp/",
+        "cn": "n. 旅行",
+        "source": "supplement"
+      },
+      {
+        "en": "travel",
+        "ipa": "/ˈtrævl/",
+        "cn": "v. 旅行",
+        "source": "supplement"
+      },
+      {
+        "en": "offer",
+        "ipa": "/ˈɒfə/",
+        "cn": "v. 提供",
+        "source": "supplement"
+      },
+      {
+        "en": "guess",
+        "ipa": "/ɡes/",
+        "cn": "v. 猜",
+        "source": "supplement"
+      },
+      {
+        "en": "grow",
+        "ipa": "/ɡrəʊ/",
+        "cn": "v. 长，留（胡子）（grew）",
+        "source": "supplement"
+      },
+      {
+        "en": "beard",
+        "ipa": "/bɪəd/",
+        "cn": "n. （下巴上的）胡须",
+        "source": "supplement"
+      },
+      {
+        "en": "shave",
+        "ipa": "/ʃeɪv/",
+        "cn": "v. 刮（胡子）",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "This is a photograph I took during my trip to Australia.",
+        "cn": "这是我在澳大利亚旅行期间拍的一张照片。",
+        "source": "textbook",
+        "pdfPage": 253,
+        "printedPage": 249,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "Do you know the man who's standing there?",
+        "drill": true,
+        "cn": "你认识站在那儿的那个人吗？",
+        "source": "supplement"
+      },
+      {
+        "en": "I grew a beard during the trip, but I shaved it off when I came home.",
+        "cn": "我旅行时留了胡子，但我到家后就把它刮掉了。",
+        "source": "textbook",
+        "pdfPage": 253,
+        "printedPage": 249,
+        "verification": "verified",
+        "translationSource": "supplement"
+      }
+    ],
+    "grammar": "who / which 引导定语从句复习；grew a beard 留胡子，shave ... off 刮掉。",
+    "tip": "during + 名词（during the trip），while + 句子（while I was travelling）——两者都表“在……期间”。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 253,
+        "printedPage": 249,
+        "status": "verified",
+        "verified": true,
+        "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+        "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 125,
+    "title": "Tea for two",
+    "titleCn": "两人一起喝茶",
+    "kind": "text",
+    "words": [
+      {
+        "en": "terribly",
+        "ipa": "/ˈterəbli/",
+        "cn": "adv. 非常地",
+        "source": "supplement"
+      },
+      {
+        "en": "dry",
+        "ipa": "/draɪ/",
+        "cn": "adj. 干燥的",
+        "source": "supplement"
+      },
+      {
+        "en": "nuisance",
+        "ipa": "/ˈnjuːsns/",
+        "cn": "n. 讨厌的事或人",
+        "source": "supplement"
+      },
+      {
+        "en": "mean",
+        "ipa": "/miːn/",
+        "cn": "v. 意味着",
+        "source": "supplement"
+      },
+      {
+        "en": "have to",
+        "ipa": "/ˈhæftə/",
+        "cn": "phr. 不得不，必须",
+        "source": "supplement"
+      },
+      {
+        "en": "needn't",
+        "ipa": "/ˈniːdnt/",
+        "cn": "phr. 不必（= need not）",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "Do you have to water the garden every day?",
+        "cn": "你一定要每天浇花园吗？",
+        "source": "adaptation"
+      },
+      {
+        "en": "It's terribly dry.",
+        "cn": "天太干燥了。",
+        "source": "adaptation"
+      },
+      {
+        "en": "You needn't water the garden now.",
+        "cn": "你现在不必浇花园了。",
+        "source": "adaptation"
+      },
+      {
+        "en": "What a nuisance!",
+        "cn": "真讨厌！",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "have to 表示客观上的“必须”（三单 has to）；needn't 表示“不必”；mustn't 表示“千万别”（禁止），与 needn't 完全不同。",
+    "tip": "考试重点：对 Must I...? 的否定回答用 No, you needn't.（不必），不能用 mustn't；感叹句 What a + 名词！",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 257,
+        "printedPage": 253,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 127,
+    "title": "A famous actress",
+    "titleCn": "著名的女演员",
+    "kind": "text",
+    "words": [
+      {
+        "en": "famous",
+        "ipa": "/ˈfeɪməs/",
+        "cn": "adj. 著名的",
+        "source": "supplement"
+      },
+      {
+        "en": "actress",
+        "ipa": "/ˈæktrəs/",
+        "cn": "n. 女演员",
+        "source": "supplement"
+      },
+      {
+        "en": "actor",
+        "ipa": "/ˈæktə/",
+        "cn": "n. 男演员",
+        "source": "supplement"
+      },
+      {
+        "en": "at least",
+        "ipa": "/ət liːst/",
+        "cn": "phr. 至少",
+        "source": "supplement"
+      },
+      {
+        "en": "opinion",
+        "ipa": "/əˈpɪnjən/",
+        "cn": "n. 看法，意见",
+        "source": "supplement"
+      },
+      {
+        "en": "thirty",
+        "ipa": "/ˈθɜːti/",
+        "cn": "num. 三十",
+        "source": "supplement"
+      },
+      {
+        "en": "forty",
+        "ipa": "/ˈfɔːti/",
+        "cn": "num. 四十",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "I read she's twenty-nine, but she must be at least forty.",
+        "cn": "我读到她是二十九岁，但她一定至少有四十岁了。",
+        "source": "textbook",
+        "pdfPage": 261,
+        "printedPage": 257,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "She was a famous actress when I was still at school.",
+        "cn": "我还在上学时，她就已经是著名的女演员了。",
+        "source": "textbook",
+        "pdfPage": 261,
+        "printedPage": 257,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "In my opinion, she's about forty.",
+        "drill": true,
+        "cn": "依我看，她大约四十岁。",
+        "source": "supplement"
+      }
+    ],
+    "grammar": "must be 表示有把握的推测（“肯定是”）；in my opinion 依我看；at least 至少。",
+    "tip": "推测三档：must be 肯定是 → may be 可能是 → can't be 不可能是。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 261,
+        "printedPage": 257,
+        "status": "verified",
+        "verified": true,
+        "scope": "lesson-heading, printed-page, complete English-body and speaker",
+        "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 129,
+    "title": "Seventy miles an hour",
+    "titleCn": "时速七十英里",
+    "kind": "text",
+    "words": [
+      {
+        "en": "wave",
+        "ipa": "/weɪv/",
+        "cn": "v. 招手",
+        "source": "supplement"
+      },
+      {
+        "en": "track",
+        "ipa": "/træk/",
+        "cn": "n. 跑道，轨道",
+        "source": "supplement"
+      },
+      {
+        "en": "mile",
+        "ipa": "/maɪl/",
+        "cn": "n. 英里",
+        "source": "supplement"
+      },
+      {
+        "en": "overtake",
+        "ipa": "/ˌəʊvəˈteɪk/",
+        "cn": "v. 超过（overtook）",
+        "source": "supplement"
+      },
+      {
+        "en": "speed limit",
+        "ipa": "/ˈspiːd ˈlɪmɪt/",
+        "cn": "n. 限速",
+        "source": "supplement"
+      },
+      {
+        "en": "dream",
+        "ipa": "/driːm/",
+        "cn": "v. 做梦；n. 梦",
+        "source": "supplement"
+      },
+      {
+        "en": "sign",
+        "ipa": "/saɪn/",
+        "cn": "n. 标记，牌子",
+        "source": "supplement"
+      },
+      {
+        "en": "charge",
+        "ipa": "/tʃɑːdʒ/",
+        "cn": "v. 罚款；收费",
+        "source": "supplement"
+      },
+      {
+        "en": "seventy",
+        "ipa": "/ˈsevnti/",
+        "cn": "num. 七十",
+        "source": "supplement"
+      },
+      {
+        "en": "fine",
+        "ipa": "/faɪn/",
+        "cn": "n. 罚款",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "You must have been driving at seventy miles an hour.",
+        "cn": "你当时一定是以每小时70英里的速度开车。",
+        "source": "adaptation"
+      },
+      {
+        "en": "I was doing eighty when I overtook you.",
+        "cn": "我超车的时候车速是每小时80英里。",
+        "source": "adaptation"
+      },
+      {
+        "en": "You must have been speeding.",
+        "cn": "你当时一定是在超速行驶。",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "must have been + doing 对过去情况进行有把握的推测；过去进行时 was doing 描述过去某一刻正在进行的动作。",
+    "tip": "表示“以……速度”用介词 at：drive at 70 miles an hour；口语里 do 也能表示“开车速”（I was doing 80）。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 265,
+        "printedPage": 261,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 131,
+    "title": "Don't be so sure!",
+    "titleCn": "别那么肯定！",
+    "kind": "text",
+    "words": [
+      {
+        "en": "worry",
+        "ipa": "/ˈwʌri/",
+        "cn": "v. 担忧（worry about 担心）",
+        "source": "supplement"
+      },
+      {
+        "en": "Egypt",
+        "ipa": "/ˈiːdʒɪpt/",
+        "cn": "n. 埃及",
+        "source": "supplement"
+      },
+      {
+        "en": "abroad",
+        "ipa": "/əˈbrɔːd/",
+        "cn": "adv. 在国外（go abroad 出国）",
+        "source": "supplement"
+      },
+      {
+        "en": "sea",
+        "ipa": "/siː/",
+        "cn": "n. 海",
+        "source": "supplement"
+      },
+      {
+        "en": "might",
+        "ipa": "/maɪt/",
+        "cn": "aux. 可能，也许",
+        "source": "supplement"
+      },
+      {
+        "en": "spend",
+        "ipa": "/spend/",
+        "cn": "v. 度过（时光）；花钱",
+        "source": "supplement"
+      },
+      {
+        "en": "look after",
+        "ipa": "/lʊk ˈɑːftə/",
+        "cn": "phr. 照看，照顾",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "We may go abroad.",
+        "cn": "我们可能要出国。",
+        "source": "adaptation"
+      },
+      {
+        "en": "I'm not sure.",
+        "drill": true,
+        "cn": "我不敢肯定。",
+        "source": "supplement"
+      },
+      {
+        "en": "Don't be so sure!",
+        "cn": "别那么肯定！",
+        "source": "adaptation"
+      },
+      {
+        "en": "My wife always worries too much.",
+        "cn": "我妻子总是忧心忡忡。",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "may / might + 动词原形表示“可能”；be not sure 表示不确定；worry about + 担心的事物。",
+    "tip": "might 比 may 的可能性更小、语气更弱；go abroad 出国（abroad 是副词，前面不加 to）。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 269,
+        "printedPage": 265,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 133,
+    "title": "Sensational news!",
+    "titleCn": "爆炸性新闻！",
+    "kind": "text",
+    "words": [
+      {
+        "en": "reporter",
+        "ipa": "/rɪˈpɔːtə/",
+        "cn": "n. 记者",
+        "source": "supplement"
+      },
+      {
+        "en": "sensational",
+        "ipa": "/senˈseɪʃənl/",
+        "cn": "adj. 爆炸性的，耸人听闻的",
+        "source": "supplement"
+      },
+      {
+        "en": "mink coat",
+        "ipa": "/ˈmɪŋk kəʊt/",
+        "cn": "n. 貂皮大衣",
+        "source": "supplement"
+      },
+      {
+        "en": "wonder",
+        "ipa": "/ˈwʌndə/",
+        "cn": "v. 想知道",
+        "source": "supplement"
+      },
+      {
+        "en": "interview",
+        "ipa": "/ˈɪntəvjuː/",
+        "cn": "v. 采访；n. 面试",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "Have you just made a new film, Miss Marsh?",
+        "cn": "马什小姐，您刚拍完一部新电影吗？",
+        "source": "adaptation"
+      },
+      {
+        "en": "She said she was not going to make another.",
+        "cn": "她说她不打算再拍电影了。",
+        "source": "adaptation"
+      },
+      {
+        "en": "I wonder why!",
+        "cn": "我很想知道为什么！",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "转述别人过去说的话：said (that) + 从句，直接引语里的 am/is going to 要变成 was going to。",
+    "tip": "say 后面不接人，tell 后面必须接人：She said (that)... ／ She told me (that)...；时态“后退一步”是转述的关键。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 273,
+        "printedPage": 269,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 135,
+    "title": "The latest report",
+    "titleCn": "最新消息",
+    "kind": "text",
+    "words": [
+      {
+        "en": "latest",
+        "ipa": "/ˈleɪtɪst/",
+        "cn": "adj. 最新的",
+        "source": "supplement"
+      },
+      {
+        "en": "future",
+        "ipa": "/ˈfjuːtʃə/",
+        "cn": "n. 未来（future husband 未婚夫）",
+        "source": "supplement"
+      },
+      {
+        "en": "get married",
+        "ipa": "/ɡet ˈmærid/",
+        "cn": "phr. 结婚",
+        "source": "supplement"
+      },
+      {
+        "en": "introduce",
+        "ipa": "/ˌɪntrəˈdjuːs/",
+        "cn": "v. 介绍",
+        "source": "supplement"
+      },
+      {
+        "en": "report",
+        "ipa": "/rɪˈpɔːt/",
+        "cn": "n. 报道",
+        "source": "supplement"
+      },
+      {
+        "en": "would",
+        "ipa": "/wʊd/",
+        "cn": "aux. 会（will 的过去式）",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "Are you really going to retire?",
+        "cn": "您真的打算退休吗？",
+        "source": "adaptation"
+      },
+      {
+        "en": "She said she would have to ask her future husband.",
+        "cn": "她说她得问问自己的未婚夫。",
+        "source": "adaptation"
+      },
+      {
+        "en": "The latest report!",
+        "cn": "最新消息！",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "转述将来：will → would；said (that) she would...；get married 结婚（get 表状态的变化）。",
+    "tip": "would 是 will 的过去式，转述时态要后退；“最新的”说 the latest，不说 the newest。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 277,
+        "printedPage": 273,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 137,
+    "title": "A pleasant dream",
+    "titleCn": "美好的梦",
+    "kind": "text",
+    "words": [
+      {
+        "en": "football",
+        "ipa": "/ˈfʊtbɔːl/",
+        "cn": "n. 足球",
+        "source": "supplement"
+      },
+      {
+        "en": "pool",
+        "ipa": "/puːl/",
+        "cn": "n. 赌注（the football pools 足球博彩）",
+        "source": "supplement"
+      },
+      {
+        "en": "win",
+        "ipa": "/wɪn/",
+        "cn": "v. 赢（won）",
+        "source": "supplement"
+      },
+      {
+        "en": "world",
+        "ipa": "/wɜːld/",
+        "cn": "n. 世界",
+        "source": "supplement"
+      },
+      {
+        "en": "depend",
+        "ipa": "/dɪˈpend/",
+        "cn": "v. 依靠（depend on 取决于）",
+        "source": "supplement"
+      },
+      {
+        "en": "if",
+        "ipa": "/ɪf/",
+        "cn": "conj. 如果",
+        "source": "supplement"
+      },
+      {
+        "en": "round",
+        "ipa": "/raʊnd/",
+        "cn": "adv. 周围（travel round the world 环游世界）",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "What will you do if you win a lot of money?",
+        "cn": "如果你赢了许多钱，你打算做什么呢？",
+        "source": "adaptation"
+      },
+      {
+        "en": "If we win the football pools, we'll travel round the world.",
+        "cn": "如果我们赢得足球博彩，我们就去周游世界。",
+        "source": "adaptation"
+      },
+      {
+        "en": "It's only a pleasant dream.",
+        "drill": true,
+        "cn": "这只是一个美好的梦。",
+        "source": "supplement"
+      }
+    ],
+    "grammar": "真实条件句：If + 一般现在时，主句用 will + 动词原形；if 从句可以放在句首或句尾。",
+    "tip": "条件句口诀“主将从现”：主句用将来时，if 从句用现在时——不能说 If we'll win...",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 281,
+        "printedPage": 277,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 139,
+    "title": "Is that you, John?",
+    "titleCn": "是你吗，约翰？",
+    "kind": "text",
+    "words": [
+      {
+        "en": "extra",
+        "ipa": "/ˈekstrə/",
+        "cn": "adj. 额外的",
+        "source": "supplement"
+      },
+      {
+        "en": "overseas",
+        "ipa": "/ˌəʊvəˈsiːz/",
+        "cn": "adj. 海外的，国外的",
+        "source": "supplement"
+      },
+      {
+        "en": "engineering",
+        "ipa": "/ˌendʒɪˈnɪərɪŋ/",
+        "cn": "n. 工程",
+        "source": "supplement"
+      },
+      {
+        "en": "company",
+        "ipa": "/ˈkʌmpəni/",
+        "cn": "n. 公司",
+        "source": "supplement"
+      },
+      {
+        "en": "line",
+        "ipa": "/laɪn/",
+        "cn": "n. 线路（电话线）",
+        "source": "supplement"
+      },
+      {
+        "en": "speaking",
+        "ipa": "/ˈspiːkɪŋ/",
+        "cn": "int. 我就是（电话用语）",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "Is that you, John?",
+        "cn": "是你吗，约翰？（电话用语）",
+        "source": "textbook",
+        "pdfPage": 285,
+        "printedPage": 281,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "Yes, speaking.",
+        "cn": "是我，请讲。",
+        "source": "textbook",
+        "pdfPage": 285,
+        "printedPage": 281,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "Tell Mary we'll be late for dinner this evening.",
+        "cn": "告诉玛丽，今晚吃饭我们会晚到。",
+        "source": "textbook",
+        "pdfPage": 285,
+        "printedPage": 281,
+        "verification": "verified",
+        "translationSource": "supplement"
+      }
+    ],
+    "grammar": "本课电话开头用 Is that you, John? 确认对方身份，回答 Yes, speaking.；tell sb (that) + 从句表示转告。后来才发现接电话的是电话工程师，不是要找的那位同名朋友。",
+    "tip": "电话里介绍自己常说 This is John；但本课核实姓名时也确实说 Yes, I’m John Smith.，不能把 I am John 一概说成错误。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 285,
+        "printedPage": 281,
+        "status": "verified",
+        "verified": true,
+        "scope": "lesson-heading, printed-page, complete English-body and speaker",
+        "note": "二轮按proposal完整recommended逐行回看原页扫描确证；cn为补充翻译，未核教材参考译文；不含下一页词表、练习册或教师书。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 141,
+    "title": "Sally's first train ride",
+    "titleCn": "萨莉第一次乘火车旅行",
+    "kind": "text",
+    "words": [
+      {
+        "en": "excited",
+        "ipa": "/ɪkˈsaɪtɪd/",
+        "cn": "adj. 兴奋的",
+        "source": "supplement"
+      },
+      {
+        "en": "decide",
+        "ipa": "/dɪˈsaɪd/",
+        "cn": "v. 决定",
+        "source": "supplement"
+      },
+      {
+        "en": "middle-aged",
+        "ipa": "/ˈmɪdl eɪdʒd/",
+        "cn": "adj. 中年的",
+        "source": "supplement"
+      },
+      {
+        "en": "opposite",
+        "ipa": "/ˈɒpəzɪt/",
+        "cn": "prep. 在……对面",
+        "source": "supplement"
+      },
+      {
+        "en": "curiously",
+        "ipa": "/ˈkjʊəriəsli/",
+        "cn": "adv. 好奇地",
+        "source": "supplement"
+      },
+      {
+        "en": "funny",
+        "ipa": "/ˈfʌni/",
+        "cn": "adj. 有趣的，好笑的",
+        "source": "supplement"
+      },
+      {
+        "en": "powder",
+        "ipa": "/ˈpaʊdə/",
+        "cn": "n. 香粉，粉",
+        "source": "supplement"
+      },
+      {
+        "en": "ugly",
+        "ipa": "/ˈʌɡli/",
+        "cn": "adj. 丑陋的",
+        "source": "supplement"
+      },
+      {
+        "en": "amused",
+        "ipa": "/əˈmjuːzd/",
+        "cn": "adj. 感到有趣的",
+        "source": "supplement"
+      },
+      {
+        "en": "embarrassed",
+        "ipa": "/ɪmˈbærəst/",
+        "cn": "adj. 尴尬的",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "Sally was invited to a children's party.",
+        "cn": "萨莉应邀参加一个儿童聚会。",
+        "source": "adaptation"
+      },
+      {
+        "en": "She had never travelled on a train before.",
+        "cn": "她以前从未坐过火车。",
+        "source": "adaptation"
+      },
+      {
+        "en": "She sat opposite the middle-aged lady.",
+        "cn": "她坐在一位中年妇女的对面。",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "被动语态 was invited（be + 过去分词）；过去完成时 had never done 表示“在过去某时之前从未……”。",
+    "tip": "-ing / -ed 分清主客体：exciting 令人兴奋（事物），excited 感到兴奋（人）；embarrassing 事尴尬，embarrassed 人尴尬。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 289,
+        "printedPage": 285,
+        "status": "candidate",
+        "verified": false,
+        "scope": "page-offset-only",
+        "note": "按preflight页偏移生成，未逐课回看正文；不能视为全文审核通过。"
+      }
+    ],
+    "teachingSource": "supplement"
+  },
+  {
+    "id": 143,
+    "title": "A walk through the woods",
+    "titleCn": "林中散步",
+    "kind": "text",
+    "words": [
+      {
+        "en": "surround",
+        "ipa": "/səˈraʊnd/",
+        "cn": "v. 包围（be surrounded by）",
+        "source": "supplement"
+      },
+      {
+        "en": "wood",
+        "ipa": "/wʊd/",
+        "cn": "n. 树林（常用复数 woods）",
+        "source": "supplement"
+      },
+      {
+        "en": "beauty spot",
+        "ipa": "/ˈbjuːti spɒt/",
+        "cn": "n. 风景点",
+        "source": "supplement"
+      },
+      {
+        "en": "through",
+        "ipa": "/θruː/",
+        "cn": "prep. 穿过",
+        "source": "supplement"
+      },
+      {
+        "en": "visitor",
+        "ipa": "/ˈvɪzɪtə/",
+        "cn": "n. 参观者，游客",
+        "source": "supplement"
+      },
+      {
+        "en": "litter",
+        "ipa": "/ˈlɪtə/",
+        "cn": "n. 废弃物，垃圾",
+        "source": "supplement"
+      },
+      {
+        "en": "throw",
+        "ipa": "/θrəʊ/",
+        "cn": "v. 扔，抛（threw）",
+        "source": "supplement"
+      },
+      {
+        "en": "rubbish",
+        "ipa": "/ˈrʌbɪʃ/",
+        "cn": "n. 垃圾（不可数）",
+        "source": "supplement"
+      },
+      {
+        "en": "tyre",
+        "ipa": "/ˈtaɪə/",
+        "cn": "n. 轮胎",
+        "source": "supplement"
+      },
+      {
+        "en": "prosecute",
+        "ipa": "/ˈprɒsɪkjuːt/",
+        "cn": "v. 依法检控，起诉",
+        "source": "supplement"
+      }
+    ],
+    "patterns": [
+      {
+        "en": "I live in a very old town which is surrounded by beautiful woods.",
+        "cn": "我住在一个被美丽树林环绕的古老小镇上。",
+        "source": "textbook",
+        "pdfPage": 293,
+        "printedPage": 289,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "Visitors have been asked to keep the woods clean and tidy.",
+        "cn": "游客们已被要求保持树林的整洁。",
+        "source": "textbook",
+        "pdfPage": 293,
+        "printedPage": 289,
+        "verification": "verified",
+        "translationSource": "supplement"
+      },
+      {
+        "en": "Anyone who leaves litter in these woods will be prosecuted.",
+        "cn": "凡在这树林里丢弃垃圾的人将被依法处理。",
+        "source": "adaptation"
+      }
+    ],
+    "grammar": "被动语态小结：is surrounded by（一般现在时）/ have been asked（完成时）/ will be prosecuted（将来时）；which 引导定语从句。",
+    "tip": "be covered with 被……覆盖；litter 偏指随手丢弃的废弃物，rubbish 是垃圾总称——第144课收尾：全册核心语法一次看全。",
+    "source": "adaptation",
+    "sourceRefs": [
+      {
+        "source": "textbook",
+        "file": "电子资料/新概念英语第一册学生用书.pdf",
+        "pdfPage": 293,
+        "printedPage": 289,
+        "status": "verified",
+        "verified": true,
+        "scope": "lesson-heading, printed-page, English-body, speaker, Chinese-meaning",
+        "note": "本轮逐行对照原页；不含下一页词表和偶数课练习。"
+      }
+    ],
+    "teachingSource": "supplement"
+  }
+]
