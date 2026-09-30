@@ -394,6 +394,27 @@ function closeWebVideo() {
   revokeWebUrls();
   (_a = $("#videoWrap")) == null ? void 0 : _a.classList.add("hidden");
 }
+function videoWindow() {
+  const from = Math.max(1, Number(window.NCE_VIDEO_FROM) || 1);
+  const to = Math.min(144, Number(window.NCE_VIDEO_TO) || 144);
+  return { from: Math.min(from, to), to: Math.max(from, to) };
+}
+function videoOnlineConfigured() {
+  return !!(typeof NCE_VIDEO_BASE === "string" && NCE_VIDEO_BASE.trim());
+}
+function useLessonVideoWindow() {
+  if (window.AndroidMedia) return false;
+  if (typeof location === "undefined") return false;
+  if (location.protocol === "file:") return false;
+  const h = String(location.hostname || "");
+  if (h === "localhost" || h === "127.0.0.1") return false;
+  return true;
+}
+function lessonVideoAvailable(id) {
+  if (!useLessonVideoWindow()) return true;
+  const w = videoWindow();
+  return id >= w.from && id <= w.to;
+}
 function webVideoSrc(mappedPath) {
   const norm = String(mappedPath || "").replace(/\\/g, "/");
   const base = (norm.split("/").pop() || "").replace(/\.[^.]+$/, "");
@@ -405,6 +426,11 @@ function webVideoSrc(mappedPath) {
   return "videos/".concat(file);
 }
 function openWebLessonVideo(lessonId) {
+  if (!lessonVideoAvailable(lessonId)) {
+    const w = videoWindow();
+    toast("当前 GitHub 只放了 Lesson ".concat(w.from, "–").concat(w.to, " 的视频。学完后换下一批推送即可。"));
+    return;
+  }
   const items = videosForLesson(lessonId);
   if (!items.length) {
     toast("本课尚未配置视频。");
@@ -413,11 +439,15 @@ function openWebLessonVideo(lessonId) {
   ensureVideoWrap();
   const card = $("#videoCard");
   const multi = items.length > 1;
-  card.innerHTML = '<div class="q-head"><span>Lesson '.concat(lessonId, ' · 本课视频</span><button class="w-btn" data-act="video-close" aria-label="关闭视频">✕</button></div>').concat(multi ? '<div class="video-parts">'.concat(items.map((it, i) => '<button class="btn '.concat(i === 0 ? "brand" : "ghost", '" data-act="video-play" data-lesson="').concat(lessonId, '" data-index="').concat(i, '">').concat(esc(it.title || "视频 ".concat(i + 1)), "</button>")).join(""), '</div><p class="q-hint">一课对应原资料一个主视频；若有「巩固」是同组练习短片，不是把一课拆成 Part1/Part2。</p>') : "", '<video id="webVideo" controls playsinline controlslist="nodownload"></video><div class="l-actions"><button class="btn ghost" data-act="video-close">关闭</button></div>');
+  card.innerHTML = '<div class="q-head"><span>Lesson '.concat(lessonId, ' · 本课视频</span><button class="w-btn" data-act="video-close" aria-label="关闭视频">✕</button></div>').concat(multi ? '<div class="video-parts">'.concat(items.map((it, i) => '<button class="btn '.concat(i === 0 ? "brand" : "ghost", '" data-act="video-play" data-lesson="').concat(lessonId, '" data-index="').concat(i, '">').concat(esc(it.title || "视频 ".concat(i + 1)), "</button>")).join(""), '</div><p class="q-hint">一课一个主视频；「巩固」是同组练习短片（分批上传时默认可不带）。</p>') : "", '<video id="webVideo" controls playsinline controlslist="nodownload"></video><div class="l-actions"><button class="btn ghost" data-act="video-close">关闭</button></div>');
   $("#videoWrap").classList.remove("hidden");
   playWebVideoItem(lessonId, 0);
 }
 function playWebVideoItem(lessonId, index) {
+  if (!lessonVideoAvailable(lessonId)) {
+    toast("本课不在当前线上视频窗口。");
+    return;
+  }
   const items = videosForLesson(lessonId);
   const item = items[index];
   if (!item) {
@@ -438,7 +468,7 @@ function playWebVideoItem(lessonId, index) {
   stopReading();
   sessionPaused = false;
   lastBreak = Date.now();
-  video.onerror = () => toast(typeof NCE_VIDEO_BASE === "string" && NCE_VIDEO_BASE.trim() ? "视频地址打不开。请检查 OSS 前缀 NCE_VIDEO_BASE 与文件名 001.mp4。" : location.protocol === "file:" ? "请双击「打开学习.cmd」看视频（不要只双击 index）。" : "本机未找到视频。本地请保持「打开学习.cmd」运行；上线后把视频放到 OSS 并填写 video-config.js。");
+  video.onerror = () => toast(useLessonVideoWindow() ? "本课视频还没在 GitHub 仓库 videos/ 里，或文件名不对。换批推送后刷新页面。" : location.protocol === "file:" ? "请双击「打开学习.cmd」看视频（不要只双击 index）。" : "本机未找到视频。请保持「打开学习.cmd」运行。");
   video.src = src;
   video.play().catch(() => {
   });
@@ -761,7 +791,16 @@ function renderHome() {
 }
 const wordCard = (w, id, index) => '<div class="word-card" data-act="flip" tabindex="0" role="button" aria-label="翻转单词 '.concat(esc(w.en), '"><div class="w-actions"><button class="w-btn star ').concat(state.star.includes(w.en) ? "on" : "", '" data-act="star" data-word="').concat(esc(w.en), '" aria-label="收藏 ').concat(esc(w.en), '">').concat(state.star.includes(w.en) ? "⭐" : "☆", '</button><button class="w-btn" data-act="say" data-say="').concat(esc(w.en), '" aria-label="朗读 ').concat(esc(w.en), '">🔊</button></div><div class="w-inner"><div class="w-face w-front"><b>').concat(esc(w.en), '</b><span class="ipa">').concat(esc(w.ipa), '</span><i class="flip-hint">点我看意思</i></div><div class="w-face w-back">').concat(esc(w.cn), "</div></div></div>");
 function materialSection(l) {
-  return '<section class="sec"><h2>本课视频</h2><div class="l-actions"><button class="btn brand" data-act="video" data-id="'.concat(l.id, '">播放本课视频</button></div><p class="q-hint">点开即播，不用选文件夹。有多段时可切换；看完不会自动下一集。</p><div class="native-note">').concat(window.AndroidMedia ? "手机/平板：家长区选一次课包目录后即可点播。" : "电脑请双击「打开学习.cmd」（不要只双击 index）。打开后点本按钮即可看视频。", "</div></section>");
+  const gated = useLessonVideoWindow();
+  const ok = lessonVideoAvailable(l.id);
+  const w = videoWindow();
+  if (window.AndroidMedia) {
+    return '<section class="sec"><h2>本课视频</h2><div class="l-actions"><button class="btn brand" data-act="video" data-id="'.concat(l.id, '">播放本课视频</button></div><p class="q-hint">家长区选一次课包目录后点播。</p></section>');
+  }
+  if (gated && !ok) {
+    return '<section class="sec"><h2>本课视频</h2><div class="note tip">当前 GitHub 只放了 Lesson '.concat(w.from, "–").concat(w.to, "。本课课文练习仍可用；学到这一段时再换批推送视频。</div></section>");
+  }
+  return '<section class="sec"><h2>本课视频</h2><div class="l-actions"><button class="btn brand" data-act="video" data-id="'.concat(l.id, '">播放本课视频</button></div><p class="q-hint">').concat(gated ? "当前 GitHub 窗口 Lesson ".concat(w.from, "–").concat(w.to, "。") : "本机可用「打开学习.cmd」。", "点开即播；看完不会自动下一集。</p></section>");
 }
 function renderLesson(id) {
   var _a, _b, _c, _d;

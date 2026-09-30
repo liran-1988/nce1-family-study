@@ -7,7 +7,7 @@ delivery-android/evidence/
 delivery-android/*.apk
 delivery-android/*.idsig
 books/
-videos/
+oss-batch/
 review-20260930/
 preflight-20260930/
 **/__pycache__/

@@ -1,23 +1,54 @@
 # 新概念英语 · 家庭学习
 
-家庭自用学习页（课文、词汇、练习）。**本仓库不含教学视频、教材 PDF、签名密钥。**
+家庭自用学习页（课文、词汇、练习）。**本仓库不含教材 PDF、签名密钥。** 视频按学习进度**分批放进同仓 `videos/`，推到 GitHub Pages**。
 
 ## 网页 / PWA
 
-GitHub Pages 打开后：课文和练习可用。视频需在 `video-config.js` 填写 OSS 前缀后才会从网盘播：
+打开 Pages 后：课文和练习始终可用。视频只播仓库里当前这一批。
 
-```js
-window.NCE_VIDEO_BASE = "https://你的桶.oss-cn-区域.aliyuncs.com/nce1";
+### 视频分批（传到 GitHub，约 10 课 / ~200MB）
+
+1. 打包当前窗口（默认压缩，单文件远小于 100MB 限制）：
+
+```bash
+python pack-video-batch.py 1 10
 ```
 
-对象键约定：`001.mp4` … `216.mp4`（与课次视频序号一致，不是把一课拆成 Part1/Part2）。
+生成 `videos/*.mp4` + `videos/manifest.json`。
 
-未配置 OSS 时，本机可双击 `打开学习.cmd`，把 D 盘原始 MP4 映射到 `/videos/001.mp4`。
+2. 改 `video-config.js` 窗口（与本批一致）：
+
+```js
+window.NCE_VIDEO_BASE = "";  // 同仓相对路径 videos/001.mp4
+window.NCE_VIDEO_FROM = 1;
+window.NCE_VIDEO_TO = 10;
+```
+
+3. 提交并推送（视频要进 git，不要再 ignore）：
+
+```bash
+git add videos video-config.js
+git commit -m "videos: lessons 1-10 for Pages"
+git push
+```
+
+4. 学完换下一批（例如 11–20）：
+
+```bash
+python pack-video-batch.py 11 20   # 默认会删掉 videos 里旧 mp4
+# 改 FROM/TO 为 11 / 20 后 commit + push
+```
+
+前 30 单元可按 1–10 → 11–20 → 21–30 轮换；旧课视频从仓库删掉即可，课文练习仍在。
+
+窗口外的课：页面仍可学课文/练习，不提供视频按钮。
+
+本机未推视频时：双击 `打开学习.cmd` 可播 D 盘全量原片。
 
 ## 本机 Android
 
-`delivery-android/nce1-family-offline.apk` 需要在本机构建，不随仓库分发（包内含教材扫描件）。视频课包仍用本机目录。
+`delivery-android/nce1-family-offline.apk` 需本机构建，不随仓库分发。
 
 ## 不要提交
 
-视频、`books/*.pdf`、APK、`android-app/.private/`（签名钥）。
+`books/*.pdf`、APK、`android-app/.private/`、未压缩原片大包。

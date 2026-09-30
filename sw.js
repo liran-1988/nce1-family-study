@@ -1,5 +1,5 @@
 'use strict';
-const CACHE = 'nce1-family-20260930';
+const CACHE = 'nce1-family-20260930b';
 const CORE = ['./', './index.html', './manifest.webmanifest', './video-config.js', './icons/icon-180.png', './icons/icon-192.png', './icons/icon-512.png'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(CORE)));

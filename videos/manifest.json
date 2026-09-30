@@ -1,0 +1,44 @@
+{
+  "host": "github-pages",
+  "fromLesson": 19,
+  "toLesson": 25,
+  "count": 7,
+  "approxMB": 109.3,
+  "files": [
+    {
+      "file": "028.mp4",
+      "bytes": 20884608,
+      "mb": 19.9
+    },
+    {
+      "file": "029.mp4",
+      "bytes": 16291438,
+      "mb": 15.5
+    },
+    {
+      "file": "031.mp4",
+      "bytes": 12862664,
+      "mb": 12.3
+    },
+    {
+      "file": "032.mp4",
+      "bytes": 17195140,
+      "mb": 16.4
+    },
+    {
+      "file": "034.mp4",
+      "bytes": 9729115,
+      "mb": 9.3
+    },
+    {
+      "file": "035.mp4",
+      "bytes": 21133292,
+      "mb": 20.2
+    },
+    {
+      "file": "037.mp4",
+      "bytes": 16515120,
+      "mb": 15.8
+    }
+  ]
+}
