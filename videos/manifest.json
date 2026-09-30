@@ -1,44 +1,87 @@
 {
   "host": "github-pages",
-  "fromLesson": 19,
-  "toLesson": 25,
-  "count": 7,
-  "approxMB": 109.3,
+  "fromLesson": 16,
+  "toLesson": 28,
+  "count": 13,
+  "approxMB": 328.3,
   "files": [
     {
+      "lesson": 16,
+      "seq": 23,
+      "file": "023.mp4",
+      "bytes": 21798646
+    },
+    {
+      "lesson": 17,
+      "seq": 25,
+      "file": "025.mp4",
+      "bytes": 29211331
+    },
+    {
+      "lesson": 18,
+      "seq": 26,
+      "file": "026.mp4",
+      "bytes": 17718124
+    },
+    {
+      "lesson": 19,
+      "seq": 28,
       "file": "028.mp4",
-      "bytes": 20884608,
-      "mb": 19.9
+      "bytes": 20884608
     },
     {
+      "lesson": 20,
+      "seq": 29,
       "file": "029.mp4",
-      "bytes": 16291438,
-      "mb": 15.5
+      "bytes": 16291438
     },
     {
+      "lesson": 21,
+      "seq": 31,
       "file": "031.mp4",
-      "bytes": 12862664,
-      "mb": 12.3
+      "bytes": 12862664
     },
     {
+      "lesson": 22,
+      "seq": 32,
       "file": "032.mp4",
-      "bytes": 17195140,
-      "mb": 16.4
+      "bytes": 17195140
     },
     {
+      "lesson": 23,
+      "seq": 34,
       "file": "034.mp4",
-      "bytes": 9729115,
-      "mb": 9.3
+      "bytes": 9729115
     },
     {
+      "lesson": 24,
+      "seq": 35,
       "file": "035.mp4",
-      "bytes": 21133292,
-      "mb": 20.2
+      "bytes": 21133292
     },
     {
+      "lesson": 25,
+      "seq": 37,
       "file": "037.mp4",
-      "bytes": 16515120,
-      "mb": 15.8
+      "bytes": 22443505
+    },
+    {
+      "lesson": 26,
+      "seq": 38,
+      "file": "038.mp4",
+      "bytes": 11272240
+    },
+    {
+      "lesson": 27,
+      "seq": 40,
+      "file": "040.mp4",
+      "bytes": 86914904
+    },
+    {
+      "lesson": 28,
+      "seq": 41,
+      "file": "041.mp4",
+      "bytes": 56778456
     }
   ]
 }
