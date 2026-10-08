@@ -1,0 +1,205 @@
+{
+  "generator": "build-speech-audio",
+  "version": "web-voice-v1",
+  "generatedAt": "2026-10-08T01:41:39.260Z",
+  "voice": {
+    "name": "Microsoft Zira Desktop",
+    "culture": "en-US",
+    "origin": "local-sapi",
+    "sourceRate": 0
+  },
+  "encoding": {
+    "volume": 100,
+    "channels": 1,
+    "sampleRate": 22050,
+    "codec": "mp3",
+    "bitrate": 48000,
+    "leadingPaddingSeconds": 0.1,
+    "trailingPaddingSeconds": 0.15
+  },
+  "textLessons": 72,
+  "sourceTextTotal": 1941,
+  "unique": 1650,
+  "uniqueEnglishWords": 8009,
+  "fields": {
+    "title": {
+      "sourceTextTotal": 72,
+      "unique": 72
+    },
+    "words": {
+      "sourceTextTotal": 634,
+      "unique": 628
+    },
+    "text": {
+      "sourceTextTotal": 800,
+      "unique": 766
+    },
+    "patterns": {
+      "sourceTextTotal": 220,
+      "unique": 220
+    },
+    "teach.examples": {
+      "sourceTextTotal": 215,
+      "unique": 215
+    }
+  },
+  "normalization": "text.trim().replace(/\\s+/g, ' '); case preserved",
+  "sourceDataSha256": "ec75d212ba1c1c83535ff34e9d303e2f136fb0ca024e70755fdb8afd2438e196",
+  "excluded": [
+    "grammar exercise stems",
+    "Chinese question text",
+    "Chinese translations",
+    "metadata"
+  ],
+  "requestedScope": "all",
+  "generatedThisRun": 0,
+  "elapsedSeconds": 2.23,
+  "clips": {
+    "expected": 1650,
+    "actualPresent": 1650,
+    "missing": 0,
+    "totalBytes": 28749953,
+    "totalDurationSeconds": 4622.232,
+    "mp3FilesOnDisk": 1650,
+    "unknownMp3FilesPreserved": []
+  },
+  "coverage": {
+    "title": {
+      "sourceTextTotal": 72,
+      "covered": 72
+    },
+    "words": {
+      "sourceTextTotal": 634,
+      "covered": 634
+    },
+    "text": {
+      "sourceTextTotal": 800,
+      "covered": 800
+    },
+    "patterns": {
+      "sourceTextTotal": 220,
+      "covered": 220
+    },
+    "teach.examples": {
+      "sourceTextTotal": 215,
+      "covered": 215
+    }
+  },
+  "verification": {
+    "method": "ffmpeg decoded mono 22050 Hz PCM; peak > 0",
+    "verifiedClipCount": 1650,
+    "freshDecodeThisRun": false,
+    "minimumPeak": 10093,
+    "maximumPeak": 25443,
+    "l23Text": [
+      {
+        "index": 0,
+        "text": "Give me some glasses, please, Jane.",
+        "path": "audio/voice/7b41cf4747d2a41b.mp3",
+        "exists": true,
+        "peak": 20528,
+        "duration": 4.014195,
+        "decodedSamples": 88513
+      },
+      {
+        "index": 1,
+        "text": "Which glasses? These glasses?",
+        "path": "audio/voice/6df7ef17ced8744a.mp3",
+        "exists": true,
+        "peak": 20492,
+        "duration": 3.734195,
+        "decodedSamples": 82339
+      },
+      {
+        "index": 2,
+        "text": "No, not those. The ones on the shelf.",
+        "path": "audio/voice/b550cbc0788b923a.mp3",
+        "exists": true,
+        "peak": 19019,
+        "duration": 4.46907,
+        "decodedSamples": 98543
+      },
+      {
+        "index": 3,
+        "text": "These?",
+        "path": "audio/voice/c9c206afba0bdddc.mp3",
+        "exists": true,
+        "peak": 12426,
+        "duration": 1.549433,
+        "decodedSamples": 34165
+      },
+      {
+        "index": 4,
+        "text": "Yes, please.",
+        "path": "audio/voice/2fa98e4d3bdb2c5d.mp3",
+        "exists": true,
+        "peak": 15005,
+        "duration": 2.434331,
+        "decodedSamples": 53677
+      },
+      {
+        "index": 5,
+        "text": "Here you are.",
+        "path": "audio/voice/3f3d9f370444b482.mp3",
+        "exists": true,
+        "peak": 15673,
+        "duration": 1.80458,
+        "decodedSamples": 39791
+      },
+      {
+        "index": 6,
+        "text": "Thanks.",
+        "path": "audio/voice/f51bead488e14b65.mp3",
+        "exists": true,
+        "peak": 16123,
+        "duration": 1.784444,
+        "decodedSamples": 39347
+      }
+    ]
+  },
+  "missingTexts": [],
+  "boundaries": {
+    "offlineLocalSapiOnly": true,
+    "onlineTts": false,
+    "published": false,
+    "humanListeningVerified": false,
+    "realDeviceVerified": false,
+    "accentNote": "Reference American English (en-US). Existing British IPA may differ; not a British pronunciation model.",
+    "deployment": "Static audio/ paths require repository publication by the owner; no website change before publication."
+  },
+  "runHistory": [
+    {
+      "scope": "lesson-23",
+      "generated": 21,
+      "mode": "pilot-generation",
+      "elapsedSeconds": 5.12
+    },
+    {
+      "scope": "all",
+      "generated": 1629,
+      "elapsedSeconds": 297.07,
+      "completedAt": "2026-10-08T01:38:58.249Z"
+    },
+    {
+      "scope": "all",
+      "generated": 0,
+      "mode": "fresh-decode-verification",
+      "elapsedSeconds": 128.86,
+      "completedAt": "2026-10-08T01:41:13.064Z"
+    },
+    {
+      "scope": "all",
+      "generated": 0,
+      "mode": "generation",
+      "elapsedSeconds": 2.23,
+      "completedAt": "2026-10-08T01:41:39.260Z"
+    }
+  ],
+  "lastFullDecodeVerification": {
+    "completedAt": "2026-10-08T01:41:13.064Z",
+    "clipCount": 1650,
+    "minimumPeak": 10093,
+    "maximumPeak": 25443,
+    "elapsedSeconds": 128.86
+  }
+}

@@ -153,7 +153,13 @@ let updated = withVideos
   .replace(/\/\*__VIDEOS__\*\/[\s\S]*?\/\*__END_VIDEOS__\*\//, () => '/*__VIDEOS__*/const VIDEO_MAP=' + JSON.stringify(videoMap) + ';/*__END_VIDEOS__*/');
 const runtimePath = path.join(dir, 'app-runtime.js');
 const esbuild = require(path.join(dir, '../.agent_cache/nce-android-delivery/js-tools/node_modules/esbuild'));
-const runtimeCompatible = esbuild.transformSync(fs.readFileSync(runtimePath, 'utf8'), {target:'chrome61',minify:false,charset:'utf8'}).code;
+const speechSource = fs.readFileSync(path.join(dir, 'speech-player.js'), 'utf8');
+const audioManifestPath = path.join(dir, 'audio', 'manifest.json');
+if (!fs.existsSync(audioManifestPath)) throw new Error('缺少本地备用声音清单，请先用 tools/build-speech-audio.js 生成');
+const audioSource = JSON.parse(fs.readFileSync(audioManifestPath, 'utf8'));
+const audioManifest = {version:audioSource.version,voice:audioSource.voice,clips:Object.fromEntries(Object.entries(audioSource.clips).map(([text,clip])=>[text,{path:clip.path,duration:clip.duration}]))};
+const runtimeSource = 'const NCE_AUDIO_MANIFEST=' + JSON.stringify(audioManifest) + ';\n' + speechSource + '\n' + fs.readFileSync(runtimePath, 'utf8');
+const runtimeCompatible = esbuild.transformSync(runtimeSource, {target:'chrome61',minify:false,charset:'utf8'}).code;
 const polyfill = 'if(!Object.fromEntries){Object.fromEntries=function(pairs){return pairs.reduce(function(out,pair){out[pair[0]]=pair[1];return out;},{});};}\n';
 const reRuntime = /\/\*__RUNTIME__\*\/[\s\S]*?\/\*__END_RUNTIME__\*\//;
 if (!reRuntime.test(updated)) throw new Error('index.html 缺少运行程序区');

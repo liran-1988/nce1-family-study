@@ -3,8 +3,8 @@ const html=fs.readFileSync(__dirname+'/index.html','utf8');
 const results=[],nodes=new Map(),listeners={},saved=new Map(),intervals=[];
 const cls=()=>({add(){},remove(){},toggle(){}});
 function node(selector){if(!nodes.has(selector))nodes.set(selector,{innerHTML:'',textContent:'',value:'',dataset:{},style:{},classList:cls(),addEventListener(){},setAttribute(){},scrollIntoView(){},pause(){},focus(){}});return nodes.get(selector);}
-const document={hidden:false,querySelector:node,querySelectorAll:()=>[],createElement:()=>node('created'),documentElement:{dataset:{}},body:{appendChild(){}},addEventListener:(event,fn)=>listeners[event]=fn};
-const context={console,document,location:{hash:'#/'},localStorage:{getItem:k=>saved.get(k)||null,setItem:(k,v)=>saved.set(k,v)},setTimeout:()=>1,clearTimeout(){},setInterval:fn=>intervals.push(fn),confirm:()=>true,matchMedia:()=>({matches:false}),window:{addEventListener(){},scrollTo(){}}};vm.createContext(context);
+const document={hidden:false,querySelector:node,querySelectorAll:()=>[],createElement:()=>node('created'),documentElement:{dataset:{}},body:{appendChild(){},prepend(){}},addEventListener:(event,fn)=>listeners[event]=fn};
+const context={console,document,location:{hash:'#/',protocol:'http:',hostname:'127.0.0.1'},localStorage:{getItem:k=>saved.get(k)||null,setItem:(k,v)=>saved.set(k,v)},setTimeout:()=>1,clearTimeout(){},setInterval:fn=>intervals.push(fn),navigator:{},confirm:()=>true,matchMedia:()=>({matches:false}),window:{addEventListener(){},scrollTo(){}}};vm.createContext(context);
 for(const script of html.matchAll(/<script[^>]*>([\s\S]*?)<\/script>/g))vm.runInContext(script[1],context);
 const app=context.window.NceApp;
 function run(name,fn){fn();results.push({name,status:'pass'});console.log('PASS',name);}
