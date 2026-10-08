@@ -764,11 +764,12 @@ function speechNotice() {
   return node;
 }
 function updateSpeechNotice(info) {
-  const node = speechNotice();
-  if (info.state === "idle") {
-    node.hidden = true;
+  if (!["error", "ready"].includes(info.state)) {
+    const existing = $("#speechNotice");
+    if (existing) existing.hidden = true;
     return;
   }
+  const node = speechNotice();
   node.hidden = false;
   const engine = { clip: "网页备用录音（参考美音）", synthesis: "设备离线英语音色", native: "Android离线语音" }[info.engine] || "声音播放";
   node.innerHTML = "<b>".concat(esc(engine), '</b><p style="margin:6px 0">').concat(esc(info.message), '</p><div class="l-actions" style="margin-top:8px">').concat(["error", "ready"].includes(info.state) ? '<button class="btn tiny ghost" data-act="speech-retry">再试播放</button>' : "", '<button class="btn tiny ghost" data-act="speech-stop">停止 / 收起</button><button class="btn tiny ghost" data-act="speech-help">声音排障</button></div>');

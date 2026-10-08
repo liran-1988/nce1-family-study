@@ -1,5 +1,5 @@
 'use strict';
-const SHELL_CACHE='nce1-family-web-audio-v1';
+const SHELL_CACHE='nce1-family-web-audio-v2';
 const AUDIO_CACHE='nce1-audio-web-voice-v1';
 const CORE=['./','./index.html','./manifest.webmanifest','./video-config.js','./icons/icon-180.png','./icons/icon-192.png','./icons/icon-512.png'];
 const INDEX=new URL('./index.html',self.location.href).href;
